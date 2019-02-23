@@ -1,0 +1,376 @@
+/* CAFR Screens */
+
+.page-overview .section-learning-and-literacy .callout.learning-and-literacy-guided-access .media-object {
+    background-size: 250px 320px;
+    background-image: url("/ca/fr/accessibility/images/overview/guided_access_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-guided-access .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/guided_access_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-guided-access .media-object {
+        background-size: 164px 172px;
+        background-image: url("/ca/fr/accessibility/images/overview/guided_access_medium.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-guided-access .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/guided_access_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-guided-access .media-object {
+        background-size: 166px 332px;
+        background-image: url("/ca/fr/accessibility/images/overview/guided_access_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-guided-access .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/guided_access_small_2x.jpg")
+    } 
+}
+
+.page-overview .section-learning-and-literacy .callout.learning-and-literacy-speak .media-object:before {
+    background-size: 262px 568px;
+    background-image: url("/ca/fr/accessibility/images/overview/iphonex_speak_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-speak .media-object:before {
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_speak_large_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-speak .media-object:before {
+        background-size: 218px 468px;
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_speak_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-speak .media-object:before {
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_speak_medium_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-speak .media-object:before {
+        background-size: 144px 312px;
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_speak_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-speak .media-object:before {
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_speak_small_2x.jpg")
+    } 
+} 
+
+.page-overview .section-vision .callout.vision-text .media-object {
+    background-size: 250px 356px;
+    background-image: url("/ca/fr/accessibility/images/overview/iphonex_birthday_large.jpg")
+} 
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-text .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_birthday_large_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-vision .callout.vision-text .media-object {
+        background-size: 168px 237px;
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_birthday_medium.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-text .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_birthday_medium_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-vision .callout.vision-text .media-object {
+        background-size: 166px 332px;
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_birthday_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-text .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/iphonex_birthday_small_2x.jpg")
+    } 
+}
+
+.page-overview .section-nextrouter .image-learn {
+    background-size: 981px 725px;
+    background-image: url("/ca/fr/accessibility/images/overview/learn_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-nextrouter .image-learn {
+        background-image: url("/ca/fr/accessibility/images/overview/learn_large_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-nextrouter .image-learn {
+        background-size: 692px 500px;
+        background-image: url("/ca/fr/accessibility/images/overview/learn_medium.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-nextrouter .image-learn {
+        background-image: url("/ca/fr/accessibility/images/overview/learn_medium_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-nextrouter .image-learn {
+        background-size: 705px 350px;
+        background-image: url("/ca/fr/accessibility/images/overview/learn_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-nextrouter .image-learn {
+        background-image: url("/ca/fr/accessibility/images/overview/learn_small_2x.jpg")
+    }
+}
+
+.page-overview .section-physical-and-motor-skills .callout.physical-and-motor-keyboard .mediaobject-startframe {
+    background-size: 438px 368px;
+    background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_keyboard_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-keyboard .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_keyboard_large_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-keyboard .mediaobject-startframe {
+        background-size: 290px 288px;
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_keyboard_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-keyboard .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_keyboard_medium_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-keyboard .mediaobject-startframe {
+        background-size: 392px 244px;
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_keyboard_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-keyboard .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_keyboard_small_2x.jpg")
+    } 
+}
+
+.page-overview .section-physical-and-motor-skills .callout.physical-and-motor-watch .media-object {
+    background-size: 184px 306px;
+    background-image: url("/ca/fr/accessibility/images/overview/watch_activity_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-watch .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/watch_activity_large_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-watch .media-object {
+        background-size: 130px 215px;
+        background-image: url("/ca/fr/accessibility/images/overview/watch_activity_medium.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-watch .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/watch_activity_medium_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-watch .media-object {
+        background-size: 188px 305px;
+        background-image: url("/ca/fr/accessibility/images/overview/watch_activity_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-physical-and-motor-skills .callout.physical-and-motor-watch .media-object {
+        background-image: url("/ca/fr/accessibility/images/overview/watch_activity_small_2x.jpg")
+    } 
+}
+
+
+/* CAFR Animations */
+
+.page-overview .section-vision .callout.vision-display .mediaobject-startframe {
+    background-size: 262px 568px;
+    background-image: url("/ca/fr/accessibility/images/overview/display_startframe_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-display .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/display_startframe_large_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-vision .callout.vision-display .mediaobject-startframe {
+        background-size: 218px 468px;
+        background-image: url("/ca/fr/accessibility/images/overview/display_startframe_medium.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-display .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/display_startframe_medium_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-vision .callout.vision-display .mediaobject-startframe {
+        background-size: 144px 312px;
+        background-image: url("/ca/fr/accessibility/images/overview/display_startframe_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-display .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/display_startframe_small_2x.jpg")
+    } 
+}
+
+
+.page-overview .section-learning-and-literacy .callout.learning-and-literacy-safari .mediaobject-startframe {
+    background-size: 462px 370px;
+    background-image: url("/ca/fr/accessibility/images/overview/safari-reader_startframe_large.jpg");
+
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-safari .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/safari-reader_startframe_large_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-safari .mediaobject-startframe {
+        background-size: 310px 248px;
+        background-image: url("/ca/fr/accessibility/images/overview/safari-reader_startframe_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-safari .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/safari-reader_startframe_medium_2x.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-safari .mediaobject-startframe {
+        background-size: 338px 254px;
+        background-image: url("/ca/fr/accessibility/images/overview/safari-reader_startframe_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-learning-and-literacy .callout.learning-and-literacy-safari .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/safari-reader_startframe_small_2x.jpg")
+    } 
+}
+
+.page-overview .section-hearing .callout.hearing-siri .mediaobject-startframe {
+    background-size: 262px 568px;
+    background-image: url("/ca/fr/accessibility/images/overview/type-to-siri_startframe_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-hearing .callout.hearing-siri .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/type-to-siri_startframe_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hearing .callout.hearing-siri .mediaobject-startframe {
+        background-size: 218px 468px;
+        background-image: url("/ca/fr/accessibility/images/overview/type-to-siri_startframe_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hearing .callout.hearing-siri .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/type-to-siri_startframe_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-hearing .callout.hearing-siri .mediaobject-startframe {
+        background-size: 144px 312px;
+        background-image: url("/ca/fr/accessibility/images/overview/type-to-siri_startframe_small.jpg")
+    } 
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hearing .callout.hearing-siri .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/type-to-siri_startframe_small_2x.jpg")
+    }
+}
+
+.page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+    background-size: 438px 368px;
+    background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_zoom_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_zoom_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+        background-size: 290px 288px;
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_zoom_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_zoom_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+        background-size: 392px 244px;
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_zoom_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/macbook_screen_zoom_small_2x.jpg")
+    }
+}
+
+.page-overview .section-vision .callout.vision-zoom .mediaobject-startframe,
+html.js .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+    background-size: 438px 368px;
+    background-image: url("/ca/fr/accessibility/images/overview/zoom_startframe_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+     .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe,
+		html.js .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+        background-image: url("/ca/fr/accessibility/images/overview/zoom_startframe_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    html.js .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe,
+	.page-overview .section-vision .callout.vision-zoom .mediaobject-startframe {
+        background-size: 290px 288px;
+        background-image: url("/ca/fr/accessibility/images/overview/zoom_startframe_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    html.js .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe,
+	.page-overview .section-vision .callout.vision-zoom .mediaobject-startframe  {
+        background-image: url("/ca/fr/accessibility/images/overview/zoom_startframe_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    html.js .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe,
+ .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe  {
+        background-size: 392px 244px;
+        background-image: url("/ca/fr/accessibility/images/overview/zoom_startframe_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    html.js .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe,
+ .page-overview .section-vision .callout.vision-zoom .mediaobject-startframe  {
+        background-image: url("/ca/fr/accessibility/images/overview/zoom_startframe_small_2x.jpg")
+    }
+}
+
+
+/*CA specific fixes*/
+
+@media only screen and (max-width: 735px) {
+	.page-overview .thumbnail-button {
+		line-height:1.9 !important;
+	}
+	.page-overview .thumbnail-button:before{
+		line-height: 140%;
+	}
+}

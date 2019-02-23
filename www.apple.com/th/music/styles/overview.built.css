@@ -1,0 +1,89 @@
+
+
+/*Local fixes*/
+
+.chapternav .chapternav-items .chapternav-item-airpods {
+    padding-left: 20px;
+    padding-right: 36px;
+}
+.chapternav .chapternav-items .chapternav-item-accessories {
+    padding-left: 0px;
+    padding-right: 22px;
+}
+
+.page-overview .section-billboard.ipod{
+    background-color: #fff;
+}
+
+.page-overview .section-billboard.airpods,
+.page-overview .section-billboard.accessories {
+    background-color: #fafafa;
+}
+
+
+/* ++++++++++++ Font-size fixed ++++++++++++++++++*/ 
+/*large*/ 
+@media only screen and (min-width: 1069px) { 
+	body:lang(th) {
+		line-height: 1.47059
+	}
+ 	.page-overview .section-content .typography-headline-reduced:lang(th){
+ 	    font-size: 48px;
+    	line-height: 1.08365;
+	}	
+	.page-overview .section-billboard.ipod h2.typography-headline-reduced {
+		line-height: 1.24;
+	}
+	.page-overview .section-billboard.accessories h2.typography-headline-reduced {
+		line-height: 1.23;
+	}
+	.typography-intro-product-elevated:lang(th) {
+		  font-size: 32px;
+	}
+} 
+
+/*medium*/ 
+@media only screen and (min-width: 736px) and (max-width: 1068px) { 
+	body:lang(th) {
+	   line-height: 1.64706;
+	}
+	.page-overview .section-content .typography-headline-reduced:lang(th){
+ 	   font-size: 32px;
+       line-height: 1.125;
+	}
+	.page-overview .section-billboard.ipod h2.typography-headline-reduced {
+		line-height: 1.26;
+	}
+	.page-overview .section-billboard.accessories h2.typography-headline-reduced {
+		line-height: 1.24;
+	}
+	.typography-intro-product-elevated:lang(th) {
+		  font-size: 28px;
+	}
+} 
+
+/*Small*/ 
+@media only screen and (max-width: 735px) {
+	body:lang(th) {
+			line-height: 1.64706;
+	}
+	.page-overview .section-content .typography-headline-reduced:lang(th){
+ 	    font-size: 28px;
+    	line-height: 1.14286;
+		}
+	.page-overview .section-billboard.ipod h2.typography-headline-reduced {
+		line-height: 1.23;
+	}
+		.typography-intro-product-elevated:lang(th) {
+		  font-size: 22px;
+	}
+}
+
+
+
+
+
+
+
+
+

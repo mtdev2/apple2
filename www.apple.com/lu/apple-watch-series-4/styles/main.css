@@ -1,0 +1,150 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_static_landscape_large.jpg"); }
+@media only screen and (max-width: 735px) {
+  html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_static_landscape_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_static_portrait_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_static_portrait_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health,html.no-js .image-hero-static-health,html.static-fallback .image-hero-static-health,html.height-fallback .image-hero-static-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_static_portrait_small.jpg"); }
+}
+html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_static_landscape_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_static_landscape_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_static_landscape_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_static_portrait_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_static_portrait_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout,html.no-js .image-hero-static-workout,html.static-fallback .image-hero-static-workout,html.height-fallback .image-hero-static-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_static_portrait_small.jpg"); }
+}
+html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_static_landscape_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_static_landscape_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_static_landscape_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_static_portrait_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_static_portrait_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity,html.no-js .image-hero-static-activity,html.static-fallback .image-hero-static-activity,html.height-fallback .image-hero-static-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_static_portrait_small.jpg"); }
+}
+html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_static_landscape_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_static_landscape_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_static_landscape_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_static_portrait_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_static_portrait_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect,html.no-js .image-hero-static-connect,html.static-fallback .image-hero-static-connect,html.height-fallback .image-hero-static-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_static_portrait_small.jpg"); }
+}
+.image-hero-start-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_landscape_startframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .image-hero-start-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_landscape_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-hero-start-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_landscape_startframe_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  .image-hero-start-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_portrait_startframe_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  .image-hero-start-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_portrait_startframe_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  .image-hero-start-health { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/health_portrait_startframe_small.jpg"); }
+}
+.image-hero-start-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_landscape_startframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .image-hero-start-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_landscape_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-hero-start-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_landscape_startframe_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  .image-hero-start-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_portrait_startframe_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  .image-hero-start-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_portrait_startframe_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  .image-hero-start-workout { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/workout_portrait_startframe_small.jpg"); }
+}
+.image-hero-start-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_landscape_startframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .image-hero-start-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_landscape_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-hero-start-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_landscape_startframe_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  .image-hero-start-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_portrait_startframe_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  .image-hero-start-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_portrait_startframe_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  .image-hero-start-activity { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/activity_portrait_startframe_small.jpg"); }
+}
+.image-hero-start-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_landscape_startframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .image-hero-start-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_landscape_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-hero-start-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_landscape_startframe_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  .image-hero-start-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_portrait_startframe_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  .image-hero-start-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_portrait_startframe_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  .image-hero-start-connect { background-image:url("/euro/apple-watch-series-4/a/screens_alt/images/shared/connect_portrait_startframe_small.jpg"); }
+}
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 

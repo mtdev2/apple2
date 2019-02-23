@@ -1,0 +1,218 @@
+.section-cameras .features-content .hardware-wrapper .hardware-screen {
+    width: 304px;
+    height: 658px;
+    background-size: 304px 658px;
+    background-image: url("/ca/fr/iphone-xr/images/overview/screen_depthcontrol_startframe_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-cameras .features-content .hardware-wrapper .hardware-screen {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_depthcontrol_startframe_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-cameras .features-content .hardware-wrapper .hardware-screen {
+        width: 236px;
+        height: 512px;
+        background-size: 236px 512px;
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_depthcontrol_startframe_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-cameras .features-content .hardware-wrapper .hardware-screen {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_depthcontrol_startframe_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .section-cameras .features-content .hardware-wrapper .hardware-screen {
+        width: 238px;
+        height: 514px;
+        background-size: 238px 514px;
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_depthcontrol_startframe_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-cameras .features-content .hardware-wrapper .hardware-screen {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_depthcontrol_startframe_small_2x.jpg")
+    }
+}
+
+
+
+.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+    background-size: 434px 938px;
+    background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+        background-size: 334px 724px;
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+        background-size: 234px 508px;
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_small_2x.jpg")
+    }
+}
+
+.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+    background-size: 434px 938px;
+    background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+        background-size: 334px 724px;
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+        background-size: 234px 508px;
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+        background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_small_2x.jpg")
+    }
+}
+
+.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+	background-size: 434px 938px;
+	background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_large_2x.jpg")
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+		background-size: 334px 724px;
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_medium.jpg")
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_medium_2x.jpg")
+	}
+}
+@media only screen and (max-width: 735px) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+		background-size: 234px 508px;
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_small.jpg")
+	}
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-static {
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_static_small_2x.jpg")
+	}
+}
+
+.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+	background-size: 434px 938px;
+	background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_large_2x.jpg")
+	}
+}
+@media only screen and (max-width: 1068px) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+		background-size: 334px 724px;
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_medium.jpg")
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_medium_2x.jpg")
+	}
+}
+@media only screen and (max-width: 735px) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+		background-size: 234px 508px;
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_small.jpg")
+	}
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-face-id .faceid-sticky-container .faceid-device-zoom .inline-video-frame-start {
+		background-image: url("/ca/fr/iphone-xr/images/overview/screen_faceid_startframe_small_2x.jpg")
+	}
+}
+
+.section-a12-bionic .chip-grid-asset-container .screen-image-1 {
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/iphone-xr/images/overview/a12/a12_screen_image_1_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-a12-bionic .chip-grid-asset-container .screen-image-1 {
+        background-image: url("/ca/fr/iphone-xr/images/overview/a12/a12_screen_image_1_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-a12-bionic .chip-grid-asset-container .screen-image-1 {
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/iphone-xr/images/overview/a12/a12_screen_image_1_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-a12-bionic .chip-grid-asset-container .screen-image-1 {
+        background-image: url("/ca/fr/iphone-xr/images/overview/a12/a12_screen_image_1_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .section-a12-bionic .chip-grid-asset-container .screen-image-1 {
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/iphone-xr/images/overview/a12/a12_screen_image_1_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-a12-bionic .chip-grid-asset-container .screen-image-1 {
+        background-image: url("/ca/fr/iphone-xr/images/overview/a12/a12_screen_image_1_small_2x.jpg")
+    }
+}
+
+
+/* CAFR Specific */
+.section-a12-bionic .badge-caption {
+    width: 200px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-a12-bionic .badge-caption {
+        width: 150px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-a12-bionic .badge-caption {
+        width: auto
+    }
+}
+

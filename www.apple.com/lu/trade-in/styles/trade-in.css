@@ -1,0 +1,80 @@
+/*------------------------------------*\
+		LOCAL SCREENS
+\*------------------------------------*/
+
+.section-faqs .image-disposal {
+	width: 49px;
+	height: 49px;
+	background-size: 49px 49px;
+	background-repeat: no-repeat;
+	background-image: url("/euro/trade-in/a/generic/images/icon_wheel_bin_large.png");
+	margin: 20px 0 20px 3px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-faqs .image-disposal {
+		background-image: url("/euro/trade-in/a/generic/images/icon_wheel_bin_large_2x.png")
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-faqs .image-disposal {
+		width: 42px;
+		height: 42px;
+		background-size: 42px 42px;
+		background-repeat: no-repeat;
+		background-image: url("/euro/trade-in/a/generic/images/icon_wheel_bin_small.png")
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-faqs .image-disposal {
+		background-image: url("/euro/trade-in/a/generic/images/icon_wheel_bin_small_2x.png")
+	}
+}
+
+
+
+
+
+/*------------------------------------*\
+		END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+		LOCAL FIXES
+\*------------------------------------*/
+
+a.block:hover .block-link .nowrap {
+	text-decoration: underline;
+}
+
+.section-trade-in-alt {
+	background-image: none;
+	background-color: #f2f2f2;
+}
+
+.section-trade-in-alt .section-content {
+	padding-bottom: 145px;
+}
+@media only screen and (max-width: 1068px) {
+	.section-trade-in-alt .section-content {
+		padding-bottom: 111px;
+	}
+}
+@media only screen and (max-width: 735px) {
+	.section-trade-in-alt .section-content {
+		padding-bottom: 80px;
+	}
+}
+
+.recycle-typography { margin-top: 35px; }
+.section-faqs .faq-item ol { padding-left: 5px; }
+
+
+/*------------------------------------*\
+		END LOCAL FIXES
+\*------------------------------------*/

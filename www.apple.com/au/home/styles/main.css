@@ -1,0 +1,42 @@
+/* ====[  LOCAL FIXES — START  ]==== */
+
+/* Legacy V styles*/
+
+/* */
+
+
+.no-transform{
+transform: none !important;
+}
+
+.hero-wad .headline .registered {
+    left: -0.25em;
+    font-weight: 400;
+}
+
+.hero-wad .headline .period {
+	position: relative;
+	left: -0.2em;
+	bottom: -0.1em;
+}
+
+/* GiveBack promo START */
+.main [data-module-template="give-back"] .subhead { max-width: 23em; }
+
+@media only screen and (max-width: 1068px)
+{
+	.main [data-module-template="give-back"] .subhead { max-width: 24.5em; }
+}
+
+@media only screen and (max-width: 735px)
+{
+	.main [data-module-template="give-back"] .subhead { max-width: 13em; }
+}
+
+.small-caps {
+    font-variant-caps: all-small-caps;
+}
+
+/* GiveBack promo END */
+
+/* ====[  LOCAL FIXES — END  ]==== */

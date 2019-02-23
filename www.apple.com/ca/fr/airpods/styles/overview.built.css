@@ -1,0 +1,84 @@
+/*CAFR Screens*/
+.page-overview .section-devices .image-devices {
+    width: 1969px;
+    height: 1060px;
+    background-size: 1969px 1060px;
+    background-image: url("https://images.apple.com/ca/fr/airpods/images/devices_large.jpg");
+    margin-left: -146px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-devices .image-devices {
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/devices_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-devices .image-devices {
+        width: 1361px;
+        height: 733px;
+        background-size: 1361px 733px;
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/devices_medium.jpg");
+        margin-left: -85px;
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-devices .image-devices {
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/devices_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-devices .image-devices {
+        width: 780px;
+        height: 421px;
+        background-size: 780px 421px;
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/devices_small.jpg");
+        margin-left: -182px;
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-devices .image-devices {
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/devices_small_2x.jpg")
+    }
+}
+
+.page-overview .section-wireless-charging .image-wireless-charging {
+    background-size: 629px 502px;
+    background-image: url("https://images.apple.com/ca/fr/airpods/images/wireless_charging_airpower_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-wireless-charging .image-wireless-charging {
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/wireless_charging_airpower_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-wireless-charging .image-wireless-charging {
+        background-size: 482px 429px;
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/wireless_charging_airpower_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-wireless-charging .image-wireless-charging {
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/wireless_charging_airpower_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-wireless-charging .image-wireless-charging {
+        background-size: 357px 352px;
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/wireless_charging_airpower_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-wireless-charging .image-wireless-charging {
+        background-image: url("https://images.apple.com/ca/fr/airpods/images/wireless_charging_airpower_small_2x.jpg")
+    }
+}
+

@@ -1,0 +1,124 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+.section-player .player-gallery .player-gallery-browse { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery1_large.jpg"); }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+    .section-player .player-gallery .player-gallery-browse { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery1_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1024px) {
+    .section-player .player-gallery .player-gallery-browse { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery1_medium.jpg"); }
+}
+@media only screen and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1024px) and (min-resolution: 144dpi), only screen and (max-width: 1024px) and (min-resolution: 144dppx) {
+    .section-player .player-gallery .player-gallery-browse { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery1_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .section-player .player-gallery .player-gallery-browse { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery1_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dpi), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dppx) {
+    .section-player .player-gallery .player-gallery-browse { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery1_small_2x.jpg"); }
+}
+.section-player .player-gallery .player-gallery-expand { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery2_large.jpg"); }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+    .section-player .player-gallery .player-gallery-expand { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery2_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1024px) {
+    .section-player .player-gallery .player-gallery-expand { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery2_medium.jpg"); }
+}
+@media only screen and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1024px) and (min-resolution: 144dpi), only screen and (max-width: 1024px) and (min-resolution: 144dppx) {
+    .section-player .player-gallery .player-gallery-expand { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery2_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .section-player .player-gallery .player-gallery-expand { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery2_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dpi), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dppx) {
+    .section-player .player-gallery .player-gallery-expand { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/itunes_player_gallery2_small_2x.jpg"); }
+}
+.section-player .organize-screen { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/organize_large.jpg"); }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+    .section-player .organize-screen { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/organize_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1024px) {
+    .section-player .organize-screen { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/organize_medium.jpg"); }
+}
+@media only screen and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1024px) and (min-resolution: 144dpi), only screen and (max-width: 1024px) and (min-resolution: 144dppx) {
+    .section-player .organize-screen { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/organize_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .section-player .organize-screen { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/organize_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dpi), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dppx) {
+    .section-player .organize-screen { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/organize_small_2x.jpg"); }
+}
+.section-everywhere .everywhere-hero { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/ios_large.jpg"); }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+    .section-everywhere .everywhere-hero { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/ios_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1024px) {
+    .section-everywhere .everywhere-hero { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/ios_medium.jpg"); }
+}
+@media only screen and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1024px) and (min-resolution: 144dpi), only screen and (max-width: 1024px) and (min-resolution: 144dppx) {
+    .section-everywhere .everywhere-hero { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/ios_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    .section-everywhere .everywhere-hero { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/ios_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dpi), only screen and (max-width: 735px) and (max-device-width: 768px) and (min-resolution: 144dppx) {
+    .section-everywhere .everywhere-hero { background-image: url("https://images.apple.com/euro/itunes/g_alt/screens_g2/images/ios_small_2x.jpg"); }
+}
+
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+/*------------------------------------*\
+    GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+.footer-global .footer-sosumi ul li a { border-left: none; border-right: 1px solid #e3e3e3; padding-left: 0em; padding-right: 10px; margin-right: 5px; margin-left: 0px; }
+.footer-global .footer-sosumi ul li:last-child a { border-right: none; }
+.footer-sosumi ul { display:inline-flex; }
+
+.gf-iphonefootnote { font-size: 0.6667em; padding-bottom:10px;}
+
+
+/* Medium & Below */
+@media only screen and (max-width: 1068px) {
+	.gf-sosumi.footer-sosumi { display:table; }
+	.gf-sosumi.footer-sosumi p { display:table-footer-group; }
+	.gf-sosumi.footer-sosumi .footer-links { display:table-header-group; float:left; }	
+}
+
+
+/* Medium & Below - Devices Only */
+@media only screen and (max-device-width: 1068px) {
+	.footer-links { width:94%; }
+}
+
+
+/*------------------------------------*\
+    END GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.section-player .play p { margin-top: 0; }
+.section-player .app-icon-blurb div { margin-bottom: 15px; }
+
+@media only screen and (max-width: 1023px) { 
+	.page-overview { min-width: 768px; }
+}
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 

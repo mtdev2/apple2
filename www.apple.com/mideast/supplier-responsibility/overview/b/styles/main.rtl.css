@@ -1,0 +1,650 @@
+@media only screen and (max-width: 735px) {
+	.icon-before::before {
+		padding-left: 0.3em;
+		padding-right: 0;
+	}
+
+	.section-hero .section-content-hero .headline,
+	.section-hero .section-content-hero .intro,
+	.section-hero .section-content-hero .logo,
+	.section-infographic .quote,
+	.section-infographic .caption {
+		text-align: right;
+		direction: rtl;
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+	.responsive-background,
+	.hero-gallery-container,
+	.section-hero .section-content-hero,
+	.badge-content,
+	.section-content,
+	.section-bonded .infographic-list .item:nth-child(n) .no-flow,
+	.section-infographic .item .headline,
+	.section-bonded .section-block:first-child {
+		direction: rtl;
+		text-align: right;
+	}
+
+	.section.section-feedback {
+		direction: rtl;
+	}
+
+	.hero-gallery-container,
+	.section-waste .infographic-list .list-labels .item p,
+	.section-stats .badge .badge-caption,
+	.section-digging .infographic-list .list-labels .item .headline,
+	.section-infographic .item,
+	.section-reports .report-column,
+	.section-download .headline {
+		text-align: right;
+	}
+
+	.section-digging .infographic-list .infographic,
+	.section-bonded .infographic-list .infographic {
+		left: auto;
+		right: 50%;
+		-webkit-transform: translateX(50%);
+		-ms-transform: translateX(50%);
+		transform: translateX(50%);
+	}
+
+	.section-bonded .infographic-list .item .icon {
+		padding-right: 0;
+	}
+
+	.section-bonded .infographic-list .item:nth-child(n) .item-container {
+		max-width: 240px;
+	}
+
+	.section-bonded .infographic-list .item:nth-child(2) .item-container {
+		max-width: 220px;
+	}
+
+	.section-bonded .infographic-list .item {
+		margin-right: 28px;
+		margin-left: 0;
+	}
+
+	.legend .icon-bullet:before {
+		margin-left: 8px;
+		margin-right: 0;
+	}
+
+	.section-download .report-icon,
+	.section-download .headline {
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	.section-download .report-icon-static {
+		margin-right: 45px;
+	}
+
+	.section-conservation .badge .badge-content .badge-value {
+		position: relative;
+		left: 83%;
+	}
+
+	.section-digging .badge .badge-content .badge-value {
+		position: relative;
+		left: 78%;
+	}
+
+	.section-bonded .infographic-list .item.item-2 .flex {
+		margin-top: -20px;
+	}
+
+	.section-bonded .infographic-list .item.item-4 .flex {
+		margin-top: 20px;
+	}
+
+	.section-digging .infographic-list .list-labels {
+		margin-right: 60px;
+		margin-left: 0;
+	}
+
+	.section-environment .badge-2 {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.section-progress .badge-2 {
+		padding-right: 0;
+		padding-left: 0;
+	}
+}
+
+@media only screen and (min-width: 735px) {
+	.section,
+	.responsive-background,
+	.hero-gallery-container,
+	.section-safety .headline,
+	.section-safety .intro,
+	.section-safety .badge-1 .badge-caption,
+	.section-learning .headline,
+	.section-learning .intro,
+	.section-infographic .item .headline,
+	.section-content-bonded .section-block:first-child,
+	.section-environment .badge-content,
+	.section-waste .infographic-list .list-labels .item p,
+	.section-stats .badge .badge-caption,
+	.section-progress .caption,
+	.section-safety .badge-value,
+	.section-download .headline,
+	.section-bonded .caption {
+		direction: rtl;
+	}
+
+	.image-title,
+	.section-empowering .headline,
+	.section-empowering .intro,
+	.section-digging .headline,
+	.section-digging .intro,
+	.section-digging .badge .badge-caption,
+	.section-digging .paragraph,
+	.section-content-bonded .section-block:first-child,
+	.section-bonded .caption,
+	.section-environment .headline,
+	.section-environment .intro,
+	.section-environment .badge-caption,
+	.section-environment .badge-content,
+	.section-waste .headline,
+	.section-waste .intro,
+	.section-waste .caption,
+	.section-waste .infographic-list .list-labels .item p,
+	.section-conservation .headline,
+	.section-conservation .intro,
+	.section-conservation .badge .badge-caption,
+	.section-stats .badge .badge-caption,
+	.section-stats .badge .badge-value,
+	.section-efforts .headline,
+	.section-efforts .intro,
+	.section-progress .headline,
+	.section-progress .paragraph,
+	.section-progress .caption,
+	.section-safety .headline,
+	.section-safety .intro,
+	.section-learning .headline,
+	.section-learning .intro,
+	.section-safety .badge-caption,
+	.section-reports .report-column {
+		text-align: right;
+	}
+
+	.section-content.section-content-safety,
+	.section-content.section-content-learning,
+	.section-content.section-content-environment .badges,
+	.section-stats .badge .badge-value,
+	.section-content.section-content-download {
+		direction: ltr;
+	}
+
+	.section-digging .caption {
+		direction: rtl;
+		text-align: right;
+		margin-right: 0;
+	}
+
+	.section-bonded .infographic-list .item p,
+	.section-infographic .item .headline {
+		direction: rtl;
+		text-align: right;
+		padding-right: 10px;
+	}
+
+	.section-digging .infographic-list .list-labels .item .headline {
+		padding-right: 0;
+	}
+
+	.section-content.section-content-environment .badges {
+		flex-direction: row-reverse;
+		text-align: right;
+	}
+
+	.icon-before::before {
+		padding-left: 0.3em;
+		padding-right: unset;
+	}
+
+	.section-content-progress .badges .badge-content {
+		direction: rtl;
+		text-align: right;
+	}
+
+	.section-download .cta {
+		direction: rtl;
+		display: inline-block;
+	}
+
+	.legend .icon-bullet:before {
+		margin-right: 0;
+		margin-left: 8px;
+	}
+
+	.legend .legend-item:not(:first-child) {
+		margin-right: 50px;
+		margin-left: 0;
+	}
+
+	.section-safety .headline {
+		max-width: 380px;
+	}
+
+	.section-progress .headline {
+		max-width: 560px;
+	}
+
+	.section-efforts .headline {
+		max-width: 500px;
+	}
+
+	.section-conservation .headline {
+		max-width: 480px;
+	}
+
+	.section-feedback .feedback-greeting {
+		padding-right: 37px;
+		padding-left: 0;
+	}
+
+	.section-feedback .feedback-greeting .feedback-icon {
+		margin-right: -37px;
+		margin-left: 6px;
+	}
+
+	.section-conservation .badge .badge-content .badge-value,
+	.section-digging .badge .badge-content .badge-value {
+		left: 65%;
+	}
+
+	.badge {
+		text-align: right;
+	}
+	.badge-content {
+		direction: rtl;
+	}
+
+	.center-3-columns .column {
+		float: right;
+	}
+
+	.center-3-columns .column.large-3:nth-child(3n-2) {
+		margin-left: 8.33333%;
+		margin-right: 0;
+	}
+
+	.section-hero
+		.hero-gallery-container
+		.hero-gallery
+		#hero-gallery-item-3
+		.image-title-text {
+		right: 60px;
+		top: 10px;
+		position: relative;
+	}
+
+	.center-3-columns .column.large-3:nth-child(3n) {
+		margin-right: 8.33333%;
+		margin-left: 0;
+	}
+
+	#learning-background-image {
+		right: 330px;
+	}
+
+	#safety-background-image {
+		right: 404px;
+	}
+
+	#safety-background-image .image-title-text,
+	#learning-background-image .image-title-text {
+		color: #fff;
+	}
+
+	.section-safety .badge-value {
+		right: -2px;
+	}
+
+	.section-progress .badge-value {
+		right: -4px;
+	}
+
+	.section-progress .badge-2 {
+		padding-right: 85px;
+		padding-left: 0;
+	}
+}
+
+@media only screen and (min-width: 1068px) {
+	.section-safety .headline {
+		max-width: 470px;
+	}
+
+	#learning-background-image {
+		right: 579px;
+	}
+
+	#safety-background-image {
+		right: 517px;
+	}
+
+	#safety-background-image .image-title-text,
+	#learning-background-image .image-title-text {
+		color: #fff;
+	}
+
+	.section-learning .headline {
+		max-width: 405px;
+	}
+
+	.section-progress .headline {
+		max-width: 630px;
+	}
+
+	.section-conservation .badge .badge-content .badge-value,
+	.section-digging .badge .badge-content .badge-value {
+		left: 55%;
+	}
+
+	.section-progress .badge-2 {
+		padding-right: 117px;
+		padding-left: 0;
+	}
+
+	.section-bonded .infographic-list .item .icon {
+		padding-right: 32px;
+	}
+
+	.section-content-safety .badges {
+		position: relative;
+		right: 25px;
+	}
+
+	.section-content-safety .badge.badge-1 {
+		margin-left: 44px;
+	}
+}
+
+.icon-after::after,
+.more::after {
+	padding-right: 0.3em;
+}
+
+more::before,
+.more::after {
+	content: "";
+}
+
+.section-content-stats .badge.badge-1 .badge-value {
+	direction: rtl;
+}
+
+.section-content-stats .badge.badge-2 .badge-value {
+	direction: rtl;
+}
+
+.section-waste .infographic-list .list-icons {
+	direction: ltr;
+}
+
+.quote-copy > ::before {
+	margin-right: -2em;
+	margin-left: 0;
+	text-align: left;
+}
+
+.quote-copy > ::after {
+	margin-left: -2em;
+	margin-right: 0;
+	text-align: right;
+}
+
+.section.section-safety .image-title .image-title-text {
+	color: #333;
+}
+
+.section-empowering .infographic {
+	background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/empowering_large.jpg");
+}
+
+.badge-value-small {
+	color: #307f0f;
+	font-weight: 600;
+}
+
+.section-stats .badge:before {
+	margin-left: unset;
+	margin-right: 0;
+}
+
+.section-environment .badge-2 {
+	padding-left: 0;
+	padding-right: 66px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-environment .badge-2 {
+		padding-left: 0;
+		padding-right: 26px;
+	}
+	.section-bonded .infographic-list .item .icon {
+		padding-right: 0;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-environment .badge-2 {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
+
+@media only screen and (min-width: 1150px) {
+	.section-safety .badge-2 {
+		padding-right: 44px;
+		padding-left: 0;
+	}
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (min-resolution: 1.5dppx),
+	(-webkit-min-device-pixel-ratio: 1.5),
+	(min-resolution: 144dpi) {
+	.section-empowering .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/empowering_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-empowering .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/empowering_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-empowering .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/empowering_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-empowering .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/empowering_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-empowering .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/empowering_small_2x.jpg");
+	}
+}
+
+.section-bonded .infographic {
+	background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/immediate_action_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (min-resolution: 1.5dppx),
+	(-webkit-min-device-pixel-ratio: 1.5),
+	(min-resolution: 144dpi) {
+	.section-bonded .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/immediate_action_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-bonded .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/immediate_action_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-bonded .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/immediate_action_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-bonded .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/immediate_action_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-bonded .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/immediate_action_small_2x.jpg");
+	}
+}
+
+.section-waste .infographic {
+	background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/our_goal_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (min-resolution: 1.5dppx),
+	(-webkit-min-device-pixel-ratio: 1.5),
+	(min-resolution: 144dpi) {
+	.section-waste .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/our_goal_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-waste .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/our_goal_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-waste .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/our_goal_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-waste .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/our_goal_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-waste .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/our_goal_small_2x.jpg");
+	}
+}
+
+.section-stats .infographic {
+	background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/energy_usage_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (min-resolution: 1.5dppx),
+	(-webkit-min-device-pixel-ratio: 1.5),
+	(min-resolution: 144dpi) {
+	.section-stats .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/energy_usage_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-stats .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/energy_usage_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-stats .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/energy_usage_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-stats .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/energy_usage_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-stats .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/energy_usage_small_2x.jpg");
+	}
+}
+
+.section-digging .infographic {
+	background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/mapping_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (min-resolution: 1.5dppx),
+	(-webkit-min-device-pixel-ratio: 1.5),
+	(min-resolution: 144dpi) {
+	.section-digging .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/mapping_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-digging .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/mapping_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-digging .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/mapping_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-digging .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/mapping_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+	only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-digging .infographic {
+		background-image: url("/mideast/supplier-responsibility/overview/b/images/overview/mapping_small_2x.jpg");
+	}
+}

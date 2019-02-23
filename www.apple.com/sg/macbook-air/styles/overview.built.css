@@ -1,0 +1,17 @@
+@media only screen and (max-width: 735px){
+	.section-router .section-content {
+    	margin: 0 auto;
+    	width: 87.5%;
+	}
+}
+section.no-inline-video.section-macos .figure-wrapper .image-iphone {
+    -webkit-transition: none;
+    transition: none;
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0)
+}
+
+section.no-inline-video.section-macos .video-container .video-elm .ac-video-player{
+    display:none;
+}

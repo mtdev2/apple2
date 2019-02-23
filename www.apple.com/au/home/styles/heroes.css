@@ -1,0 +1,399 @@
+/* ====[  LOCALISED SCREENS Ñ HEROES Ñ START  ]==== */
+
+/* Apple Watch Series 3 "Freedom calls." Ñ START */
+.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_small_2x.jpg"); }
+}
+.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_small_2x.jpg"); }
+}
+/* Apple Watch Series 3 "Freedom calls." Ñ END */
+
+
+
+/* Apple TV 4K "The 4K HDR era. Now playing." Ñ START */
+.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_small_2x.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 778px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_largetall.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 778px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 778px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 778px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_largetall_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_mediumtall.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_mediumtall_2x.jpg"); }
+}
+.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_small_2x.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 778px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_largetall.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 778px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 778px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 778px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_largetall_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_mediumtall.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 736px) and (min-resolution: 144dpi) {
+	.main #section-tier-one-heroes .unit-image-wrapper .unit-image.image-size-scaled.unit-image-apple-tv-tv-4k { background-image: url("/au/home/images/heroes/apple-tv/tv_4k_mediumtall_2x.jpg"); }
+}
+/* Apple TV 4K "The 4K HDR era. Now playing." Ñ END */
+
+
+
+
+/* EVERNGREEN APPLE WATCH START */
+/******** Localised images start ********/
+
+
+.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+    .main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+    .main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch { background-image: url("/au/home/images/heroes/apple-watch/watch_small_2x.jpg"); }
+}
+
+/******** Localised images end ********/
+
+/* EVERNGREEN APPLE WATCH END */
+
+
+
+/* For Mardi Gras */
+
+
+.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_large_short.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_large_short_2x.jpg"); }
+}
+
+@media only screen and (min-height: 778px) and (min-width: 1069px) {
+.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_large.jpg"); }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-height: 778px) and (min-width: 1069px), only screen and (min-height: 778px) and (min-resolution: 1.5dppx) and (min-width: 1069px), only screen and (min-height: 778px) and (min-resolution: 144dpi) and (min-width: 1069px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_large_2x.jpg"); }
+}
+
+@media only screen and (max-width: 1068px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_medium_short.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_medium_short_2x.jpg"); }
+}
+
+@media only screen and (max-width: 1068px) and (min-height: 736px) and (min-width: 736px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_medium.jpg"); }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-width: 1068px) and (min-height: 736px) and (min-width: 736px), only screen and (max-width: 1068px) and (min-height: 736px) and (min-resolution: 1.5dppx) and (min-width: 736px), only screen and (max-width: 1068px) and (min-height: 736px) and (min-resolution: 144dpi) and (min-width: 736px){
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_medium_2x.jpg"); }
+}
+
+@media only screen and (max-width: 735px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film { background-image: url("/au/home/images/heroes/mardi-gras/mardi-gras_banner_small.jpg"); }
+}
+
+h2.headline.mardi-gras-heading, h4.mardi-gras-heading, .main #section-heroes.homepage-section .subhead.mardi-gras-heading {
+	    text-shadow: 2px 4px 7px rgba(0,0,0,0.3);
+}
+.main #section-promos .homepage-section-positions>.homepage-section-item .holiday-film .unit-subheader.mardi-gras-heading {
+    color: #ffffff;
+    text-shadow: 2px 4px 7px rgba(0,0,0,0.3);
+}
+
+
+
+
+
+.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero { background-image: url("/au/home/images/heroes/accessibility/hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero { background-image: url("/au/home/images/heroes/accessibility/hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero { background-image: url("/au/home/images/heroes/accessibility/hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero { background-image: url("/au/home/images/heroes/accessibility/hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero { background-image: url("/au/home/images/heroes/accessibility/hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero { background-image: url("/au/home/images/heroes/accessibility/hero_small_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short { background-image: url("/au/home/images/heroes/accessibility/hero_short_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short { background-image: url("/au/home/images/heroes/accessibility/hero_short_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short { background-image: url("/au/home/images/heroes/accessibility/hero_short_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short { background-image: url("/au/home/images/heroes/accessibility/hero_short_small_2x.jpg"); }
+}
+
+
+
+
+
+
+
+
+
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_large.jpg"); }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_large_2x.jpg"); }
+}
+
+@media only screen and (max-width: 1068px)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_medium.jpg"); }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_medium_2x.jpg"); }
+}
+
+@media only screen and (max-width: 735px)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_small.jpg"); }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 735px) and (min-resolution: 144dpi)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_small_2x.jpg"); }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_largetall.jpg"); }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx),
+only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_largetall_2x.jpg"); }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_mediumtall.jpg"); }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi)
+{
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff { background-image: url("/au/home/images/heroes/apple-watch/apple_watch_series_4_mediumtall_2x.jpg"); }
+}
+
+
+
+
+
+
+/* Holidays Hero START */
+.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_small_2x.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_largetall.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_largetall_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_mediumtall.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] [data-unit-id="holiday"].bg-option-2 .unit-image-wrapper .unit-image { background-image: url("/au/home/images/heroes/holiday/holiday_hero_1c_mediumtall_2x.jpg"); }
+}
+/* Holidays Hero END */
+
+
+/* WAD Hero START */
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_small_2x.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_largetall.jpg"); }
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx),
+only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_largetall_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_mediumtall.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red { background-image: url("/au/home/images/heroes/wad/choose_red_mediumtall_2x.jpg"); }
+}
+/* WAD Hero END */
+
+
+
+
+/* ====[  LOCALISED SCREENS Ñ HEROES Ñ END  ]==== */
+
+/* 
+.theme-dark .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select):hover,
+.theme-dark .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="touch"]:not(input):not(textarea):not(select):hover {
+    background-color: rgba(214, 214, 214, 0.3);
+    color: #888;
+}
+ */
+
+
+@media only screen and (max-width: 735px) {
+	
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film:active{
+		opacity: 0.8;
+	}
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-holiday-film-holiday-film:active{
+		opacity: 0.8;
+	}
+}
+
+/* 
+.main #section-heroes .homepage-section-positions>.homepage-section-item .homepod-film.hero{
+	padding-top: 0px;
+}
+*/

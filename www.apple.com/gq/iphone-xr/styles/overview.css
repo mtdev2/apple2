@@ -1,0 +1,44 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+@media only screen and (max-width: 1068px) {
+    .badge .badge-value {
+        left:0px;
+    }
+}
+
+html.static-interaction .section-a12-bionic .section-content {
+	height: 100%;
+}
+
+.masked-copy {
+    margin-bottom: -9px;
+}
+
+.section-face-id .masked-copy { margin-bottom: 87px; }
+@media only screen and (max-width: 1068px) {
+	.section-face-id .masked-copy { margin-bottom: 80px; }
+}
+
+.section-hero .copy .preorder span {
+	white-space: normal;
+}
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 

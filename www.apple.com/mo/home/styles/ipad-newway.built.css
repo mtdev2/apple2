@@ -1,0 +1,178 @@
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-shotOn-shot-on-iphone {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/mo/home/images/promos/iphone-shotOn/shot_on_iphone_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-shotOn-shot-on-iphone {
+        background-image: url("/mo/home/images/promos/iphone-shotOn/shot_on_iphone_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-shotOn-shot-on-iphone {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/mo/home/images/promos/iphone-shotOn/shot_on_iphone_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-shotOn-shot-on-iphone {
+        background-image: url("/mo/home/images/promos/iphone-shotOn/shot_on_iphone_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-shotOn-shot-on-iphone {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/mo/home/images/promos/iphone-shotOn/shot_on_iphone_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-iphone-shotOn-shot-on-iphone {
+        background-image: url("/mo/home/images/promos/iphone-shotOn/shot_on_iphone_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .headline {
+    max-width: 430px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .headline {
+        max-width: 215px
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .subhead {
+    max-width: 430px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .subhead {
+        max-width: 300px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .subhead {
+        max-width: 215px
+    }
+}
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .headline,
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .subhead,
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .cta-links a {
+    color: #fff
+}
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+    width: 474px;
+    height: 369px;
+    background-size: 474px 369px;
+    background-repeat: no-repeat;
+    background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        width: 472px;
+        height: 368px;
+        background-size: 472px 368px;
+        background-repeat: no-repeat;
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        width: 236px;
+        height: 327px;
+        background-size: 236px 327px;
+        background-repeat: no-repeat;
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_small_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        width: 591px;
+        height: 467px;
+        background-size: 591px 467px;
+        background-repeat: no-repeat;
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        width: 554px;
+        height: 436px;
+        background-size: 554px 436px;
+        background-repeat: no-repeat;
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-ipad-pro-ipad-pro--24cc72b072 {
+        background-image: url("/mo/home/images/heroes/ipad-pro/ipad_pro__24cc72b072_mediumtall_2x.jpg")
+    }
+}
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .cta-links {
+    margin-top: 13px
+}
+
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .cta-links a:last-child {
+    margin-left: 0
+}
+.main [data-module-template="heroes"] [data-unit-id="ipad-pro"] .litany .unit-copy-wrapper .subhead,
+.main [data-module-template="heroes"] [data-unit-id="ipad-pro"] .litany .unit-copy-wrapper .cta {
+    font-size: 24px;
+    line-height: 1.33349;
+    font-weight: 400;
+    letter-spacing: .009em;
+    font-family: "SF Pro HK","SF Pro TC","SF Pro Display","SF Pro Icons","PingFang HK","Helvetica Neue","Helvetica","Arial",sans-serif
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="ipad-pro"] .litany .unit-copy-wrapper .subhead,
+    .main [data-module-template="heroes"] [data-unit-id="ipad-pro"] .litany .unit-copy-wrapper .cta {
+        font-size: 21px;
+        line-height: 1.38105;
+        font-weight: 400;
+        letter-spacing: .011em;
+        font-family: "SF Pro HK","SF Pro TC","SF Pro Display","SF Pro Icons","PingFang HK","Helvetica Neue","Helvetica","Arial",sans-serif
+    }
+    }

@@ -1,0 +1,26 @@
+/* ==========================================================================
+  Modal
+========================================================================== */
+.has-modal {
+  overflow: auto; }
+
+.has-modal.modal-open {
+  overflow: hidden; }
+
+.has-modal.modal-open .modal {
+  visibility: visible;
+  z-index: 9999; }
+
+.modal.modal-standard .modal-content,
+.modal.modal-full-viewport .modal-content {
+  height: auto;
+  margin-left: 0;
+  position: static;
+  width: auto; }
+
+.modal-standard .content-padding {
+  padding-top: 100px;
+  padding-bottom: 100px; }
+
+.modal-standard p:last-child {
+  margin-bottom: 0; }

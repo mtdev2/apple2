@@ -1,0 +1,33 @@
+
+.image-mac-11in-macbookair { background-image:url("https://images.apple.com/mac/compare/images/11in_macbookair_large.jpg"); background-size:88px 48px; width:88px; height:48px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-11in-macbookair { background-image:url("https://images.apple.com/mac/compare/images/11in_macbookair_large_2x.jpg"); }
+}
+.image-mac-12in-macbookedge { background-image:url("https://images.apple.com/mac/compare/images/12in_macbookedge_large.jpg"); background-size:88px 48px; width:88px; height:48px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-12in-macbookedge { background-image:url("https://images.apple.com/mac/compare/images/12in_macbookedge_large_2x.jpg"); }
+}
+.image-mac-13in-macbookair { background-image:url("https://images.apple.com/mac/compare/images/13in_macbookair_large.jpg"); background-size:88px 48px; width:88px; height:48px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-13in-macbookair { background-image:url("https://images.apple.com/mac/compare/images/13in_macbookair_large_2x.jpg"); }
+}
+.image-mac-13in-macbookpro { background-image:url("https://images.apple.com/mac/compare/images/13in_macbookpro_large.jpg"); background-size:88px 48px; width:88px; height:48px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-13in-macbookpro { background-image:url("https://images.apple.com/mac/compare/images/13in_macbookpro_large_2x.jpg"); }
+}
+.image-mac-13in-macbookpro-retina { background-image:url("https://images.apple.com/mac/compare/images/13in_macbookpro_retina_large.jpg"); background-size:88px 48px; width:88px; height:48px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-13in-macbookpro-retina { background-image:url("https://images.apple.com/mac/compare/images/13in_macbookpro_retina_large_2x.jpg"); }
+}
+.image-mac-15in-macbookpro-retina { background-image:url("https://images.apple.com/mac/compare/images/15in_macbookpro_retina_large.jpg"); background-size:88px 48px; width:88px; height:48px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-15in-macbookpro-retina { background-image:url("https://images.apple.com/mac/compare/images/15in_macbookpro_retina_large_2x.jpg"); }
+}
+.image-mac-all-desktops { background-image:url("https://images.apple.com/mac/compare/images/all_desktops_large.png"); background-size:376px 136px; width:376px; height:136px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-all-desktops { background-image:url("https://images.apple.com/mac/compare/images/all_desktops_large_2x.png"); }
+}
+.image-mac-all-notebooks { background-image:url("https://images.apple.com/mac/compare/images/all_notebooks_large.png"); background-size:376px 136px; width:376px; height:136px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 144), (min-resolution: 144dppx) {
+  .image-mac-all-notebooks { background-image:url("https://images.apple.com/mac/compare/images/all_notebooks_large_2x.png"); }
+}

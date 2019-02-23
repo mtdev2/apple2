@@ -1,0 +1,930 @@
+/* hero ipad */
+.main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+    background-image: url("/hk/home/images/heroes/ipad/ipad_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_small_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/hk/home/images/heroes/ipad/ipad_mediumtall_2x.jpg")
+    }
+}
+
+
+/* hero accessibility */
+.main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero {
+    background-image: url("/hk/home/images/custom-heroes/accessibility/hero_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .unit-image-wrapper .unit-image.unit-image-accessibility-hero-short {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_small_2x.jpg")
+    }
+}
+
+.main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+    background-image: url("/hk/home/images/custom-heroes/accessibility/hero_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-height: 420px) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_small.jpg");
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-height: 420px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-height: 420px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (max-height: 420px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 520px) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_medium.jpg");
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 520px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (max-height: 520px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (max-height: 520px) and (min-resolution: 144dpi) {
+    .main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-image-accessibility-hero {
+        background-image: url("/hk/home/images/custom-heroes/accessibility/hero_short_medium_2x.jpg")
+    }
+}
+
+.main .section-promos .unit-image-wrapper .unit-image.unit-image-ios {
+    background-image: url("/hk/home/images/promos/ios_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-ios {
+        background-image: url("/hk/home/images/promos/ios_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-ios {
+        background-image: url("/hk/home/images/promos/ios_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-ios {
+        background-image: url("/hk/home/images/promos/ios_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-ios {
+        background-image: url("/hk/home/images/promos/ios_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-ios {
+        background-image: url("/hk/home/images/promos/ios_small_2x.jpg")
+    }
+}
+
+.main .section-promos .unit-image-wrapper .unit-image.unit-image-macos {
+    background-image: url("/hk/home/images/promos/macos_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-macos {
+        background-image: url("/hk/home/images/promos/macos_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-macos {
+        background-image: url("/hk/home/images/promos/macos_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-macos {
+        background-image: url("/hk/home/images/promos/macos_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-macos {
+        background-image: url("/hk/home/images/promos/macos_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-macos {
+        background-image: url("/hk/home/images/promos/macos_small_2x.jpg")
+    }
+}
+
+.main .section-promos .unit-image-wrapper .unit-image.unit-image-tvos {
+    background-image: url("/hk/home/images/promos/tvos_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-tvos {
+        background-image: url("/hk/home/images/promos/tvos_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-tvos {
+        background-image: url("/hk/home/images/promos/tvos_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-tvos {
+        background-image: url("/hk/home/images/promos/tvos_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-tvos {
+        background-image: url("/hk/home/images/promos/tvos_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-tvos {
+        background-image: url("/hk/home/images/promos/tvos_small_2x.jpg")
+    }
+}
+
+.main .section-promos .unit-image-wrapper .unit-image.unit-image-watchos {
+    background-image: url("/hk/home/images/promos/watchos_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-watchos {
+        background-image: url("/hk/home/images/promos/watchos_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-watchos {
+        background-image: url("/hk/home/images/promos/watchos_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-watchos {
+        background-image: url("/hk/home/images/promos/watchos_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-watchos {
+        background-image: url("/hk/home/images/promos/watchos_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-watchos {
+        background-image: url("/hk/home/images/promos/watchos_small_2x.jpg")
+    }
+}
+
+
+.logo-image-music-white {
+    width: 129px;
+    height: 33px;
+    background-size: 129px 33px;
+    background-repeat: no-repeat;
+    background-image: url("/hk/home/images/promos/music_black_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-music-white {
+        background-image: url("/hk/home/images/promos/music_black_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-music-white {
+        width: 107px;
+        height: 27px;
+        background-size: 107px 27px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/promos/music_black_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-music-white {
+        background-image: url("/hk/home/images/promos/music_black_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-music-white {
+        width: 103px;
+        height: 26px;
+        background-size: 103px 26px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/promos/music_black_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-music-white {
+        background-image: url("/hk/home/images/promos/music_black_small_2x.png")
+    }
+}
+
+.main .section-promos .unit-image-wrapper .unit-image.unit-image-music-three-months {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/hk/home/images/promos/music_three_months_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        background-image: url("/hk/home/images/promos/music_three_months_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/promos/music_three_months_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        background-image: url("/hk/home/images/promos/music_three_months_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/promos/music_three_months_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-promos .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        background-image: url("/hk/home/images/promos/music_three_months_small_2x.jpg")
+    }
+}
+
+.main .section-promos .homepage-section-positions > .homepage-section-item .apple-music-three-months .subhead {
+    color: #111;
+}
+
+.main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+    width: 2560px;
+    height: 624px;
+    background-size: 2560px 624px;
+    background-repeat: no-repeat;
+    background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        width: 1068px;
+        height: 617px;
+        background-size: 1068px 617px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_small_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        width: 2560px;
+        height: 736px;
+        background-size: 2560px 736px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        width: 1068px;
+        height: 698px;
+        background-size: 1068px 698px;
+        background-repeat: no-repeat;
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main .section-heroes .unit-image-wrapper .unit-image.unit-image-macos-mojave-preview-macos {
+        background-image: url("/hk/home/images/heroes/macos-mojave-preview/macos_mediumtall_2x.jpg")
+    }
+}
+
+/* links */
+.main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links {
+    position: absolute;
+    z-index: 4;
+    bottom: 394px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links {
+        bottom: 371px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links {
+        bottom: 371px
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links {
+        bottom: 466px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links {
+        bottom: 420px
+    }
+}
+
+.main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links.cta {
+    text-decoration: none
+}
+
+.main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links a:last-child {
+    margin-left: 26px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links a:last-child {
+        margin-left: 20px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .ipad .links a:last-child {
+        margin-left: 20px
+    }
+}
+
+/* behind-the-mac-daito */
+.main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-daito .links a:last-child {
+    margin-left: 26px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-daito .links a:last-child {
+        margin-left: 24px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-daito .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-daito .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+.main .section-promos .homepage-section-positions > .homepage-section-item .behind-the-mac-peter .links a:last-child {
+    margin-left: 26px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-promos .homepage-section-positions > .homepage-section-item .behind-the-mac-peter .links a:last-child {
+        margin-left: 20px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-promos .homepage-section-positions > .homepage-section-item .behind-the-mac-peter .links a:last-child {
+        margin-left: -8px;
+    }
+}
+@media only screen and (max-width: 321px) {
+    .main .section-promos .homepage-section-positions > .homepage-section-item .behind-the-mac-peter .links a:last-child {
+        margin-left: -8px;
+    }
+}
+.main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-boniface .links a:last-child {
+    margin-left: 26px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-boniface .links a:last-child {
+        margin-left: 24px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-boniface .links a:last-child {
+        margin-left: -8px;
+    }
+}
+@media only screen and (max-width: 321px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-boniface .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+.main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-majid .links a:last-child {
+    margin-left: 26px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-majid .links a:last-child {
+        margin-left: 24px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-majid .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-majid .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+.main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-makato .links a:last-child {
+    margin-left: 26px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-makato .links a:last-child {
+        margin-left: 24px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-makato .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-makato .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+.main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-phoebe .links a:last-child {
+    margin-left: 26px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-phoebe .links a:last-child {
+        margin-left: 24px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-phoebe .links a:last-child {
+        margin-left: -8px;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .behind-the-mac-phoebe .links a:last-child {
+        margin-left: -8px;
+    }
+}
+/* macbook-pro link*/
+.main .section-heroes .homepage-section-positions > .homepage-section-item .macbook-pro .links {
+    position: absolute;
+    z-index: 4;
+    bottom: 380px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .macbook-pro .links {
+        bottom: 375px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .macbook-pro .links {
+        bottom: 316px
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .macbook-pro .links {
+        bottom: 482px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .macbook-pro .links {
+        bottom: 430px
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .macbook-pro .links {
+        bottom: 332px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-promos .homepage-section-positions > .homepage-section-item .iphone-8 .links {
+        bottom: 370px
+    }
+}
+/**the bucket**/
+
+
+.overview-iphone-xs {
+    background-size: 100% auto;
+    display: inline-block;
+    width: 148px;
+    height: 30px;
+    margin-bottom: -6px
+}
+
+@media only screen and (max-width: 1068px) {
+    .overview-iphone-xs {
+        width: 130px;
+        margin-bottom: -9px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .overview-iphone-xs {
+        width: 116px;
+        margin-bottom: -11px
+    }
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image {
+    top: auto;
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image {
+    top: auto;
+}
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image {
+    top: 0;
+}
+}
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > * .cta-links a:last-child {
+    margin-left: 0;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+    text-align: center;
+    padding-top: 66px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 75px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 170px
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 78px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 115px
+    }
+}
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    font-size: 34px;
+    font-weight: 500;
+    margin-top: 1.2em;
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 27px;
+}
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    margin-top: 39px;
+}
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+     .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    margin-top: 28px;
+}
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    font-size: 26px;
+    font-weight: 500;
+    margin-top: 21px;
+}
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta, .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta-links {
+    margin-top: 1.4em;
+}
+@media only screen and (max-width: 1068px) {
+   .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta, .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta-links {
+    margin-top: 8px;
+}
+}
+/****/
+/**apple music **/
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper h5.subhead {
+    color: #111;
+}
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .cta-links a {
+    color: #0070c9;
+}
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .unit-copy-wrapper>*.subhead {
+    width: 600px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .unit-copy-wrapper>*.subhead{
+        width: 525px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .unit-copy-wrapper>*.subhead {
+        width: 90%
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .unit-copy-wrapper .headline, 
+.main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .unit-copy-wrapper .subhead{
+    color:#000;
+    max-width: 500px;
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .unit-copy-wrapper .subhead {
+       max-width: 400px;
+    }
+    .main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .cta-link a#tv-spot-holiday{
+    color:#0070c9;
+    }
+}
+/* 
+.main [data-module-template="heroes"]:not(.standalone-module) .unit-wrapper {
+        height: 580px;
+        width: 100%
+    }
+ */
+/****/
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 76px;
+    }
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+        margin-top: 40px;
+    }
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta, .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta-links {
+        margin-top: 35px;
+    }
+}
+
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="give-back"].standalone-module {
+    border-bottom-color: #222
+}
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="the-bucket"],
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xr"],
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"] {
+    border-top-color: #222;
+    border-bottom-color: #222
+}
+
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"] {
+    border-bottom-color: #FFF
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper h3.subhead {
+       color: #eee;
+    }
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.cta, 
+    .main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.cta-links {
+        margin-top: 0;
+    }
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.subhead {
+        line-height: 1.22115;
+    }
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta-links a:last-child {
+    margin-left: 0px
+}
+
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper>*.cta-links a:last-child{
+    margin-left: 0px
+}
+
+.main [data-module-template="promos"] [data-unit-id="app-store"] .unit-copy-wrapper>*.cta-links a:last-child{
+    margin-left: 0px
+}
+
+.cny-gift-guide .cny_centerall {
+    padding-left: 0.2em;
+}
+
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .cta-links {margin-top: 0.5em;}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="give-back"] .subhead {
+        max-width: 13em
+    }
+}
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper>*.cta-links a:last-child{
+    margin-left: 0px
+}

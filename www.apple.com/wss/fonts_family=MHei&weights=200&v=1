@@ -1,0 +1,14 @@
+@font-face {
+	font-family:'MHei';
+	font-style:normal;
+	font-weight:200;
+	src:local('☺︎'), url("/wss/fonts/MHei/v1/MHeiHK-Light.woff") format("woff"), url("/wss/fonts/MHei/v1/MHeiHK-Light.ttf") format("truetype");
+	/* (C) Copyright 1991-2008 China Type Design Ltd. Monotype Imaging Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'MHei 200';
+	src:url("/wss/fonts/MHei/v1/MHeiHK-Light.eot");
+	/* (C) Copyright 1991-2008 China Type Design Ltd. Monotype Imaging Inc. All rights reserved. */
+}
+

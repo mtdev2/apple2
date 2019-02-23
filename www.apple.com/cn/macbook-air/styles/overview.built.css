@@ -1,0 +1,19 @@
+/* 2018-10-24 built overview */
+@media only screen and (max-width: 1068px) {
+	.section-retina .badge .badge-unit:lang(zh-CN){font-size: 23px;}
+}
+@media only screen and (max-width: 735px) {
+	.section-retina .badge .badge-unit:lang(zh-CN){font-size: 32px;}
+}
+
+@media only screen and (max-width: 320px){
+    .icon-item.xsmall-7 {
+       width:58%
+    }
+}
+
+
+
+html[lang=zh-CN] .centeralign_05 { padding-left: 0.5em; }
+@media only screen and (max-width: 735px) { html[lang=zh-CN] .centeralign_05 { padding-left: 0; } }
+@media only screen and (max-width: 735px) and (max-device-width: 768px) { html[lang=zh-CN] .centeralign_05 { padding-left: 0.5em; } }

@@ -1,0 +1,4 @@
+@media only screen and (max-width: 1068px) and (min-width: 768px) {#ac-localnav .ac-ln-action {margin-left: 10px; } #ac-localnav .ac-ln-menu .ac-ln-menu-tray .ac-ln-menu-items .ac-ln-menu-item {margin-left: 10px; } #ac-localnav .ac-ln-menu .ac-ln-menu-tray .ac-ln-menu-items .ac-ln-menu-item:first-child {margin-left: 0; } }
+
+/*Fix for availability buttons*/
+@media only screen and (max-width: 767px){#ac-localnav .ac-ln-actions.ac-ln-actions-center .ac-ln-action.ac-ln-action-menucta { width: calc(100% - 102px); }}

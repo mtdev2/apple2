@@ -1,0 +1,634 @@
+.section-ios .ios12 .promo-image {
+    width: 651px;
+    height: 389px;
+    background-size: 651px 389px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/ios_12__d6lf3qvcvyaa_large.jpg");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ios .ios12 .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/ios_12__d6lf3qvcvyaa_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ios .ios12 .promo-image {
+        width: 358px;
+        height: 350px;
+        background-size: 358px 350px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/ios_12__d6lf3qvcvyaa_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ios .ios12 .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/ios_12__d6lf3qvcvyaa_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-ios .ios12 .promo-image {
+        width: 411px;
+        height: 324px;
+        background-size: 411px 324px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/ios_12__d6lf3qvcvyaa_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-ios .ios12 .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/ios_12__d6lf3qvcvyaa_small_2x.jpg")
+    }
+}
+.section-ios .icloud .promo-image {
+    width: 610px;
+    height: 316px;
+    background-size: 610px 316px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/icloud__cdale8bavfv6_large.jpg");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ios .icloud .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/icloud__cdale8bavfv6_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ios .icloud .promo-image {
+        width: 417px;
+        height: 216px;
+        background-size: 417px 216px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/icloud__cdale8bavfv6_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ios .icloud .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/icloud__cdale8bavfv6_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-ios .icloud .promo-image {
+        width: 417px;
+        height: 216px;
+        background-size: 417px 216px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/icloud__cdale8bavfv6_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-ios .icloud .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/icloud__cdale8bavfv6_small_2x.jpg")
+    }
+}
+
+.section-ios .applepay .promo-image {
+    width: 675px;
+    height: 311px;
+    background-size: 675px 311px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/apple_pay__m8illnwatky2_large.jpg");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-ios .applepay .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/apple_pay__m8illnwatky2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ios .applepay .promo-image {
+        width: 314px;
+        height: 199px;
+        background-size: 314px 199px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/apple_pay__m8illnwatky2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-ios .applepay .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/apple_pay__m8illnwatky2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-ios .applepay .promo-image {
+        width: 375px;
+        height: 236px;
+        background-size: 375px 236px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/apple_pay__m8illnwatky2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-ios .applepay .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/apple_pay__m8illnwatky2_small_2x.jpg")
+    }
+}
+
+.section-get-more .music .promo-image {
+    width: 797px;
+    height: 427px;
+    background-size: 797px 427px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/apple_music__dk7jajratiqa_large.png");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-get-more .music .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/apple_music__dk7jajratiqa_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-get-more .music .promo-image {
+        width: 398px;
+        height: 367px;
+        background-size: 398px 367px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/apple_music__dk7jajratiqa_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-get-more .music .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/apple_music__dk7jajratiqa_medium_2x.png")
+    }
+}
+
+
+@media only screen and (max-width: 735px) {
+    .section-get-more .music .promo-image {
+        width: 308px;
+        height: 283px;
+        background-size: 308px 283px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/apple_music__dk7jajratiqa_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-get-more .music .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/apple_music__dk7jajratiqa_small_2x.png")
+    }
+}
+
+.section-get-more .clips .promo-image {
+    width: 488px;
+    height: 404px;
+    background-size: 488px 404px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/clips__fgbvcyagodyu_large.png");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-get-more .clips .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/clips__fgbvcyagodyu_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-get-more .clips .promo-image {
+        width: 420px;
+        height: 317px;
+        background-size: 420px 317px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/clips__fgbvcyagodyu_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-get-more .clips .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/clips__fgbvcyagodyu_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-get-more .clips .promo-image {
+        width: 361px;
+        height: 299px;
+        background-size: 361px 299px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/clips__fgbvcyagodyu_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-get-more .clips .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/clips__fgbvcyagodyu_small_2x.png")
+    }
+}
+
+.section-essentials .keyboard .promo-image {
+    width: 545px;
+    height: 328px;
+    background-size: 545px 328px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/smart_keyboard_folio__d2zeyydmvjwy_large.jpg");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-essentials .keyboard .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/smart_keyboard_folio__d2zeyydmvjwy_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .keyboard .promo-image {
+        width: 358px;
+        height: 243px;
+        background-size: 358px 243px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/smart_keyboard_folio__d2zeyydmvjwy_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-essentials .keyboard .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/smart_keyboard_folio__d2zeyydmvjwy_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-essentials .keyboard .promo-image {
+        width: 297px;
+        height: 231px;
+        background-size: 297px 231px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/smart_keyboard_folio__d2zeyydmvjwy_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-essentials .keyboard .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/smart_keyboard_folio__d2zeyydmvjwy_small_2x.jpg")
+    }
+}
+
+
+.section-essentials .accessories .promo-image {
+    width: 675px;
+    height: 345px;
+    background-size: 675px 345px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/accessories__b1l0i60hjaqa_large.jpg");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-essentials .accessories .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/accessories__b1l0i60hjaqa_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-essentials .accessories .promo-image {
+        width: 500px;
+        height: 282px;
+        background-size: 500px 282px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/accessories__b1l0i60hjaqa_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-essentials .accessories .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/accessories__b1l0i60hjaqa_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-essentials .accessories .promo-image {
+        width: 439px;
+        height: 291px;
+        background-size: 439px 291px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/accessories__b1l0i60hjaqa_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-essentials .accessories .promo-image {
+        background-image: url("/ca/fr/ipad/home/images/accessories__b1l0i60hjaqa_small_2x.jpg")
+    }
+}
+
+
+.section-ios .ios12 .promo-copy {
+    padding-bottom: 425px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-ios .ios12 .promo-copy {
+        padding-bottom: 360px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-ios .ios12 .promo-copy {
+        padding-bottom: 356px;
+    }
+}
+
+
+/* iPad for Business- CA specific */
+.section-get-more .business {
+    background-size: 675px 823px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/ipad_for_business__b5qsg5qr8qnm_large.jpg");
+    background-position-x: center;
+    background-position-y: bottom
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-get-more .business {
+        background-image: url("/ca/fr/ipad/home/images/ipad_for_business__b5qsg5qr8qnm_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .section-get-more .business {
+        background-size: 358px 625px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/ipad_for_business__b5qsg5qr8qnm_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-get-more .business {
+        background-image: url("/ca/fr/ipad/home/images/ipad_for_business__b5qsg5qr8qnm_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .section-get-more .business {
+        background-size: 736px 562px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/ipad_for_business__b5qsg5qr8qnm_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-get-more .business {
+        background-image: url("/ca/fr/ipad/home/images/ipad_for_business__b5qsg5qr8qnm_small_2x.jpg")
+    }
+}
+
+
+/* PRODUCT RED */
+.banner-promo.product-red .promo-image {
+	width: 608px;
+	height: 424px;
+	background-size: 608px 424px;
+	background-repeat: no-repeat;
+	background-image: url("/ca/fr/ipad/home/images/banner_ipad__gl1rh6wjbdiu_large.jpg");
+	height: 100%;
+	background-position-y: bottom;
+	margin-left: auto
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.banner-promo.product-red .promo-image {
+		background-image: url("/ca/fr/ipad/home/images/banner_ipad__gl1rh6wjbdiu_large_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.banner-promo.product-red .promo-image {
+		width: 349px;
+		height: 332px;
+		background-size: 349px 332px;
+		background-repeat: no-repeat;
+		background-image: url("/ca/fr/ipad/home/images/banner_ipad__gl1rh6wjbdiu_medium.jpg");
+		height: 100%;
+		background-position-y: bottom;
+		margin-left: auto;
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.banner-promo.product-red .promo-image {
+		background-image: url("/ca/fr/ipad/home/images/banner_ipad__gl1rh6wjbdiu_medium_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.banner-promo.product-red .promo-image {
+		width: 341px;
+		height: 287px;
+		background-size: 341px 287px;
+		background-repeat: no-repeat;
+		background-image: url("/ca/fr/ipad/home/images/banner_ipad__gl1rh6wjbdiu_small.jpg");
+ 		margin-left: -133.5px; 
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.banner-promo.product-red .promo-image {
+		background-image: url("/ca/fr/ipad/home/images/banner_ipad__gl1rh6wjbdiu_small_2x.jpg")
+	}
+}
+
+
+/* iPad New Way tile css */
+
+.section-new-way {
+    background: #fff;
+    padding-top: 74px
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-new-way {
+        padding-top: 82px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-new-way {
+        padding-top: 32px
+    }
+}
+
+.section-new-way .section-content {
+    text-align: center
+}
+
+.section-new-way .section-content .cta-wrapper {
+    color: #0070c9;
+    font-size: 24px;
+    line-height: 1.33349;
+    font-weight: 400;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(ar) {
+    line-height: 1.52099;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(ja) {
+    line-height: 1.375;
+    font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(ko) {
+    line-height: 1.45849;
+    font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(th) {
+    line-height: 1.375;
+    font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.section-new-way .section-content .cta-wrapper:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-new-way .section-content .cta-wrapper {
+        font-size: 21px;
+        line-height: 1.38105;
+        font-weight: 400;
+        letter-spacing: .011em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(ar) {
+        line-height: 1.54762;
+        font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(ja) {
+        line-height: 1.42863;
+        font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(ko) {
+        line-height: 1.52381;
+        font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(th) {
+        line-height: 1.38105;
+        font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(zh-HK) {
+        font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(zh-MO) {
+        font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .section-new-way .section-content .cta-wrapper:lang(zh-TW) {
+        font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+.section-new-way .image-everything_on_ipadpro_hero {
+    width: 1289px;
+    height: 636px;
+    background-size: 1289px 636px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/ipad/home/images/everything_on_ipadpro_hero__bbedvtibhvua_large.jpg");
+    position: relative;
+    left: 50%;
+    margin-left: -754.5px;
+    margin-top: 67px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        background-image: url("/ca/fr/ipad/home/images/everything_on_ipadpro_hero__bbedvtibhvua_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        width: 1067px;
+        height: 538px;
+        background-size: 1067px 538px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/everything_on_ipadpro_hero__bbedvtibhvua_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        background-image: url("/ca/fr/ipad/home/images/everything_on_ipadpro_hero__bbedvtibhvua_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        width: 474px;
+        height: 255px;
+        background-size: 474px 255px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/ipad/home/images/everything_on_ipadpro_hero__bbedvtibhvua_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        background-image: url("/ca/fr/ipad/home/images/everything_on_ipadpro_hero__bbedvtibhvua_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        left: 50%;
+        margin-left: -719.5px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        left: 50%;
+        margin-left: -260px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        margin-top: 60px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-new-way .image-everything_on_ipadpro_hero {
+        margin-top: 30px
+    }
+}
+
+
+

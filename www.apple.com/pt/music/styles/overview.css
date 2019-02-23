@@ -1,0 +1,52 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+.page-overview .section-hero .card-hero .image-music-hero { background-image:url("/euro/music/f/screens_alt/images/overview/music_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/euro/music/f/screens_alt/images/overview/music_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/euro/music/f/screens_alt/images/overview/music_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/euro/music/f/screens_alt/images/overview/music_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/euro/music/f/screens_alt/images/overview/music_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/euro/music/f/screens_alt/images/overview/music_hero_small_2x.jpg"); }
+}
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.chapternav-alt .chapternav-items .chapternav-item-itunes {
+    padding-right: 45px;
+}
+
+.page-overview .section-hero .card-hero {
+	background: #fafafa;
+}
+
+
+
+
+@media only screen and (max-width: 735px) {
+ .page-overview .ase-ribbon {
+  height:189px;
+ }
+}
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/

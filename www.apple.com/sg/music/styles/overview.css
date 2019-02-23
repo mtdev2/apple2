@@ -1,0 +1,29 @@
+.chapternav .chapternav-items .chapternav-item-airpods {
+    padding-left: 20px;
+    padding-right: 36px;
+}
+.chapternav .chapternav-items .chapternav-item-accessories {
+    padding-left: 0px;
+    padding-right: 22px;
+}
+.page-overview .section-billboard.airpods {
+    background-color: #fafafa;
+}
+.page-overview .section-billboard.ipod {
+    background-color: #fff;
+}
+.page-overview .section-billboard.accessories{
+    background-color: #fafafa;
+}
+.page-overview .section-billboard.gift-cards{
+    background-color: #fff;
+}
+.page-overview .section-billboard.itunes{
+    background-color: #fafafa;
+}
+.page-overview .section-apps{
+    background-color: #fff;
+}
+.page-overview .section-working-with{
+    background-color: #fafafa;
+}

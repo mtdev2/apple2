@@ -1,0 +1,44 @@
+/* Local fix */
+div.airpods .promo-copy-wrapper.full-height{height: 100%;}
+.promo-section .banner-airpods{height: 400px;}
+@media only screen and (max-width: 735px){.promo-section .banner-airpods{height: auto;}}
+
+@media only screen and (max-width: 735px){.section-promos .compare .promo-image{margin-top:2px;}}
+
+.section-promos.promo-section .banner-promo {margin-top: 0;margin-bottom: 0;}
+
+/* Local image */
+.section-ios .ios12 .promo-image{background-image:url("/la/i/ipad/home/images/overview/ios_12__d6lf3qvcvyaa_large.jpg");}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){.section-ios .ios12 .promo-image{background-image:url("/la/i/ipad/home/images/overview/ios_12__d6lf3qvcvyaa_large_2x.jpg")}}
+@media only screen and (max-width: 1068px){.section-ios .ios12 .promo-image{background-image:url("/la/i/ipad/home/images/overview/ios_12__d6lf3qvcvyaa_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi){.section-ios .ios12 .promo-image{background-image:url("/la/i/ipad/home/images/overview/ios_12__d6lf3qvcvyaa_medium_2x.jpg")}}
+@media only screen and (max-width: 735px){.section-ios .ios12 .promo-image{background-image:url("/la/i/ipad/home/images/overview/ios_12__d6lf3qvcvyaa_small.jpg")}}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi){.section-ios .ios12 .promo-image{background-image:url("/la/i/ipad/home/images/overview/ios_12__d6lf3qvcvyaa_small_2x.jpg")}}
+
+.section-ios .icloud .promo-image{background-image:url("/co/ipad/home/images/overview/icloud__cdale8bavfv6_large.jpg");}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){.section-ios .icloud .promo-image{background-image:url("/co/ipad/home/images/overview/icloud__cdale8bavfv6_large_2x.jpg")}}
+@media only screen and (max-width: 1068px){.section-ios .icloud .promo-image{background-image:url("/co/ipad/home/images/overview/icloud__cdale8bavfv6_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi){.section-ios .icloud .promo-image{background-image:url("/co/ipad/home/images/overview/icloud__cdale8bavfv6_medium_2x.jpg")}}
+@media only screen and (max-width: 735px){.section-ios .icloud .promo-image{background-image:url("/co/ipad/home/images/overview/icloud__cdale8bavfv6_small.jpg")}}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi){.section-ios .icloud .promo-image{background-image:url("/co/ipad/home/images/overview/icloud__cdale8bavfv6_small_2x.jpg")}}
+
+.section-essentials .keyboard .promo-image{background-image:url("/la/i/ipad/home/images/overview/smart_keyboard_folio__d2zeyydmvjwy_large.jpg");}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){.section-essentials .keyboard .promo-image{background-image:url("/la/i/ipad/home/images/overview/smart_keyboard_folio__d2zeyydmvjwy_large_2x.jpg")}}
+@media only screen and (max-width: 1068px){.section-essentials .keyboard .promo-image{background-image:url("/la/i/ipad/home/images/overview/smart_keyboard_folio__d2zeyydmvjwy_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi){.section-essentials .keyboard .promo-image{background-image:url("/la/i/ipad/home/images/overview/smart_keyboard_folio__d2zeyydmvjwy_medium_2x.jpg")}}
+@media only screen and (max-width: 735px){.section-essentials .keyboard .promo-image{background-image:url("/la/i/ipad/home/images/overview/smart_keyboard_folio__d2zeyydmvjwy_small.jpg")}}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi){.section-essentials .keyboard .promo-image{background-image:url("/la/i/ipad/home/images/overview/smart_keyboard_folio__d2zeyydmvjwy_small_2x.jpg")}}
+
+.section-get-more .music .promo-image-wrapper{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}.section-get-more .music .promo-image{background-image:url("/la/i/ipad/home/images/overview/apple_music__dk7jajratiqa_large.png");}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){.section-get-more .music .promo-image{background-image:url("/la/i/ipad/home/images/overview/apple_music__dk7jajratiqa_large_2x.png")}}
+@media only screen and (max-width: 1068px){.section-get-more .music .promo-image{background-image:url("/la/i/ipad/home/images/overview/apple_music__dk7jajratiqa_medium.png")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi){.section-get-more .music .promo-image{background-image:url("/la/i/ipad/home/images/overview/apple_music__dk7jajratiqa_medium_2x.png")}}
+@media only screen and (max-width: 735px){.section-get-more .music .promo-image{background-image:url("/la/i/ipad/home/images/overview/apple_music__dk7jajratiqa_small.png")}}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi){.section-get-more .music .promo-image{background-image:url("/la/i/ipad/home/images/overview/apple_music__dk7jajratiqa_small_2x.png")}}
+
+.section-get-more .clips .promo-image{background-image:url("/la/i/ipad/home/images/overview/clips__fgbvcyagodyu_large.png");}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){.section-get-more .clips .promo-image{background-image:url("/la/i/ipad/home/images/overview/clips__fgbvcyagodyu_large_2x.png")}}
+@media only screen and (max-width: 1068px){.section-get-more .clips .promo-image{background-image:url("/la/i/ipad/home/images/overview/clips__fgbvcyagodyu_medium.png")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi){.section-get-more .clips .promo-image{background-image:url("/la/i/ipad/home/images/overview/clips__fgbvcyagodyu_medium_2x.png")}}
+@media only screen and (max-width: 735px){.section-get-more .clips .promo-image{background-image:url("/mx/ipad/home/images/overview/clips__fgbvcyagodyu_small.png")}}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi){.section-get-more .clips .promo-image{background-image:url("/mx/ipad/home/images/overview/clips__fgbvcyagodyu_small_2x.png")}}

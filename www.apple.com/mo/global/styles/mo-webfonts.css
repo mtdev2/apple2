@@ -1,0 +1,104 @@
+/* WEB FONT 2016.4.8 v/ac-localnav.fixed.built/2.0*/
+#ac-globalnav[lang=zh-MO], #ac-globalnav[lang=zh-MO] select, #ac-globalnav[lang=zh-MO] button,
+#ac-globalnav[lang=zh-MO] #ac-gn-segmentbar, #ac-globalnav[lang=zh-MO] #ac-gn-segmentbar select,
+#ac-globalnav[lang=zh-MO] #ac-gn-segmentbar button {
+    font-family: "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalnav[lang=zh-MO] input, #ac-globalnav[lang=zh-MO] textarea,
+#ac-globalnav[lang=zh-MO] #ac-gn-segmentbar input, #ac-globalnav[lang=zh-MO] #ac-gn-segmentbar textarea {
+    font-family: "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalnav[lang=zh-MO] .ac-gn-bagview-button {
+    font-family: "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalnav[lang=zh-MO], #ac-globalnav[lang=zh-MO] select, #ac-globalnav[lang=zh-MO] button,
+#ac-globalnav[lang=zh-MO] #ac-gn-segmentbar, #ac-globalnav[lang=zh-MO] #ac-gn-segmentbar select,
+#ac-globalnav[lang=zh-MO] #ac-gn-segmentbar button {
+    font-family: "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalnav[lang=zh-MO] input, #ac-globalnav[lang=zh-MO] textarea,
+#ac-globalnav[lang=zh-MO] #ac-gn-segmentbar input, #ac-globalnav[lang=zh-MO] #ac-gn-segmentbar textarea {
+    font-family: "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalnav[lang=zh-MO] .ac-gn-bagview-button {
+    font-family: "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+
+
+
+#ac-globalfooter[lang=zh-MO], #ac-globalfooter[lang=zh-MO] select,
+#ac-globalfooter[lang=zh-MO] button {
+    font-family: "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalfooter[lang=zh-MO] input, #ac-globalfooter[lang=zh-MO] textarea {
+    font-family: "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalfooter.ie7 #ac-globalfooter[lang=zh-MO] .ac-gf-buystrip-hero-title,
+#ac-globalfooter.ie8 #ac-globalfooter[lang=zh-MO] .ac-gf-buystrip-hero-title {
+    font-family: "HanHei TC 300", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalfooter.ie7 #ac-globalfooter[lang=zh-MO] .ac-gf-buystrip-info-title,
+#ac-globalfooter.ie8 #ac-globalfooter[lang=zh-MO] .ac-gf-buystrip-info-title {
+    font-family: "HanHei TC 300", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-globalfooter.ie7 #ac-globalfooter[lang=zh-MO] .ac-gf-directory-column-section-title,
+#ac-globalfooter.ie8 #ac-globalfooter[lang=zh-MO] .ac-gf-directory-column-section-title {
+    font-family: "HanHei TC 600", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+@media only screen and (max-width: 767px) {
+    #ac-globalfooter.ie7 #ac-globalfooter[lang=zh-MO] .ac-gf-directory-column-section-state:target + .ac-gf-directory-column-section .ac-gf-directory-column-section-title,
+    #ac-globalfooter.ie8 #ac-globalfooter[lang=zh-MO] .ac-gf-directory-column-section-state:target + .ac-gf-directory-column-section .ac-gf-directory-column-section-title,
+    #ac-globalfooter.ie7 #ac-globalfooter[lang=zh-MO] .ac-gf-directory-column-section-state:checked + .ac-gf-directory-column-section .ac-gf-directory-column-section-title,
+    #ac-globalfooter.ie8 #ac-globalfooter[lang=zh-MO] .ac-gf-directory-column-section-state:checked + .ac-gf-directory-column-section .ac-gf-directory-column-section-title {
+        font-family: "HanHei TC 600", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+    }}
+
+/*v/ac-localnav.fixed.built/3.0*/
+
+
+
+#ac-localnav[lang=zh-MO], #ac-localnav[lang=zh-MO] select, #ac-localnav[lang=zh-MO] button {
+    font-family: "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-localnav[lang=zh-MO] input, #ac-localnav[lang=zh-MO] textarea {
+    font-family: "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-localnav.ie7 #ac-localnav[lang=zh-MO] .ac-ln-title, #ac-localnav.ie8 #ac-localnav[lang=zh-MO] .ac-ln-title {
+    font-family: "HanHei TC 300", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-localnav.ie7 #ac-localnav[lang=zh-MO] .ac-ln-title-subhead,
+#ac-localnav.ie8 #ac-localnav[lang=zh-MO] .ac-ln-title-subhead,
+#ac-localnav.ie7 #ac-localnav[lang=zh-MO] .ac-ln-title-comingsoon,
+#ac-localnav.ie8 #ac-localnav[lang=zh-MO] .ac-ln-title-comingsoon {
+    font-family: "HanHei TC 300", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-localnav.ie7 #ac-localnav[lang=zh-MO] .ac-ln-button, #ac-localnav.ie8 #ac-localnav[lang=zh-MO] .ac-ln-button {
+    font-family: "HanHei TC 500", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-localnav[lang=zh-MO] .ac-ln-button {
+    font-family: "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+
+#ac-localnav.ie7 #ac-localnav[lang=zh-MO] .ac-ln-button-buynow,
+#ac-localnav.ie8 #ac-localnav[lang=zh-MO] .ac-ln-button-buynow,
+#ac-localnav.ie7 #ac-localnav[lang=zh-MO] .ac-ln-button-compact,
+#ac-localnav.ie7 #ac-localnav[lang=zh-MO] .ac-ln-button, #ac-localnav.ie8 #ac-localnav[lang=zh-MO] .ac-ln-button-compact,
+#ac-localnav.ie8 #ac-localnav[lang=zh-MO] .ac-ln-button {
+    font-family: "HanHei TC 500", "HanHei TC", "Helvetica Neue", "Helvetica", "STHeitiTC-Light", "Arial", sans-serif
+}
+

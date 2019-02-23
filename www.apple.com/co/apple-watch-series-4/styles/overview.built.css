@@ -1,0 +1,57 @@
+/*LOCAL FIXES*/
+html.ie .section-content .section-content-inside{padding-top: 80px;}
+
+@media only screen and (max-width: 735px){.typography-headline-super {font-size: 38px; }}
+
+@media only screen and (max-width: 1068px){.typography-intro-elevated {font-size: 19px; }}
+
+/* SCREENS */
+.section-overview-hero .hero-image .image-hero-startframe { background-image:url("/co/apple-watch-series-4/images/overview/hero_landscape_startframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .section-overview-hero .hero-image .image-hero-startframe { background-image:url("/co/apple-watch-series-4/images/overview/hero_landscape_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-overview-hero .hero-image .image-hero-startframe { background-image:url("/co/apple-watch-series-4/images/overview/hero_landscape_startframe_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  .section-overview-hero .hero-image .image-hero-startframe { background-image:url("/co/apple-watch-series-4/images/overview/hero_portrait_startframe_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  .section-overview-hero .hero-image .image-hero-startframe { background-image:url("/co/apple-watch-series-4/images/overview/hero_portrait_startframe_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  .section-overview-hero .hero-image .image-hero-startframe { background-image:url("/co/apple-watch-series-4/images/overview/hero_portrait_startframe_small.jpg"); }
+}
+.section-overview-hero .hero-image .image-hero-fallback { background-image:url("/co/apple-watch-series-4/images/overview/hero_landscape_endframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .section-overview-hero .hero-image .image-hero-fallback { background-image:url("/co/apple-watch-series-4/images/overview/hero_landscape_endframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-overview-hero .hero-image .image-hero-fallback { background-image:url("/co/apple-watch-series-4/images/overview/hero_landscape_endframe_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  .section-overview-hero .hero-image .image-hero-fallback { background-image:url("/co/apple-watch-series-4/images/overview/hero_portrait_endframe_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  .section-overview-hero .hero-image .image-hero-fallback { background-image:url("/co/apple-watch-series-4/images/overview/hero_portrait_endframe_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  .section-overview-hero .hero-image .image-hero-fallback { background-image:url("/co/apple-watch-series-4/images/overview/hero_portrait_endframe_small.jpg"); }
+}
+
+.section-design .image-hero-start-design { background-image:url("/la/apple-watch-series-4/images/overview/design_landscape_startframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .section-design .image-hero-start-design { background-image:url("/la/apple-watch-series-4/images/overview/design_landscape_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-design .image-hero-start-design { background-image:url("/la/apple-watch-series-4/images/overview/design_landscape_startframe_small.jpg"); }
+}
+@media only screen and (orientation: portrait) {
+  .section-design .image-hero-start-design { background-image:url("/la/apple-watch-series-4/images/overview/design_portrait_startframe_large.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  .section-design .image-hero-start-design { background-image:url("/la/apple-watch-series-4/images/overview/design_portrait_startframe_medium.jpg"); }
+}
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  .section-design .image-hero-start-design { background-image:url("/la/apple-watch-series-4/images/overview/design_portrait_startframe_small.jpg"); }
+}

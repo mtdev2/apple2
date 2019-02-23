@@ -1,0 +1,293 @@
+/*Learn more alt*/
+
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper >*.cta-links a:last-child {
+    margin-left: 0px;
+}
+
+.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta-links a:last-child {
+    margin-left: 0px;
+}
+
+.main [data-module-template="promos"] [data-unit-id].promo-apple-music .unit-copy-wrapper .cta-links a:last-child,
+.main [data-module-template="promos"] [data-unit-id].promo-elvis .unit-copy-wrapper .cta-links a:last-child  {
+    margin-left: 26px;
+}
+
+
+.main [data-module-template="event-takeover-products"] .cta-links {
+    margin-left: 16px;
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-products"] .cta-links {
+        margin-left: 0px;
+    }
+}
+
+.main [data-module-template="event-takeover-promos"] .cta-links{
+    margin-left: 17px;
+}
+
+@media only screen and (max-width: 735px) {
+   .main [data-module-template="event-takeover-promos"] .cta-links{
+     margin-left: 0px;
+    }
+}
+
+
+.main [data-module-template="promos"] .cta-links{
+    margin-left:10px
+}
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .cta-links{
+        margin-left:0px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] .cta-links{
+        margin-left: 0px;
+    }
+}
+
+.main [data-module-template="event-takeover-promos"] .event-takeover-promo-iphone-xr .cta-links{
+    margin-left: 9px;
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-promos"] .event-takeover-promo-iphone-xr .cta-links{
+    margin-left: 12px;
+}
+}
+
+html[lang=zh-MO] .centerall_42 { padding-left: 0.4em; }
+@media only screen and (max-width: 735px) { html[lang=zh-MO] .centerall_42 { padding-left: 0.2em; } }
+
+.main [data-module-template="give-back"] .section-content {
+    width: 1020px
+}
+
+@media only screen and (min-width: 1442px) and (min-width: 1442px) {
+    .main [data-module-template="give-back"] .section-content {
+        width: 1020px
+    }
+}
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .main [data-module-template="give-back"] .section-content {
+        margin-left: auto;
+        margin-right: auto;
+        width: 692px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="give-back"] .section-content {
+        width: 87.5%
+    }
+}
+
+/*add hack for homepage giveback section for eyebrow not center on ie11 cause 'font' 20190108*/
+@media all and (-ms-high-contrast:none){
+  .main [data-module-template="give-back"] .violator{
+    padding-top: 8px;
+    padding-bottom: 0;
+  }
+}
+
+/**the bucket**/
+
+
+.overview-iphone-xs {
+    background-size: 100% auto;
+    display: inline-block;
+    width: 148px;
+    height: 30px;
+    margin-bottom: -6px
+}
+
+@media only screen and (max-width: 1068px) {
+    .overview-iphone-xs {
+        width: 130px;
+        margin-bottom: -9px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .overview-iphone-xs {
+        width: 116px;
+        margin-bottom: -11px
+    }
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image {
+    top: auto;
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image {
+    top: auto;
+}
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image {
+    top: 0;
+}
+}
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > * .cta-links a:last-child {
+    margin-left: 0;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+    text-align: center;
+    padding-top: 66px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 75px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 170px
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 78px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 115px
+    }
+}
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    font-size: 34px;
+    font-weight: 500;
+    margin-top: 1.2em;
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 27px;
+}
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    margin-top: 39px;
+}
+}
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+     .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    margin-top: 28px;
+}
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+    font-size: 26px;
+    font-weight: 500;
+    margin-top: 21px;
+}
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta, .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta-links {
+    margin-top: 1.4em;
+}
+@media only screen and (max-width: 1068px) {
+   .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta, .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta-links {
+    margin-top: 8px;
+}
+}
+/****/
+/**apple music **/
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper h5.subhead {
+    color: #111;
+}
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .cta-links a {
+    color: #0070c9;
+}
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .unit-copy-wrapper>*.subhead {
+    width: 600px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .unit-copy-wrapper>*.subhead{
+        width: 525px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .unit-copy-wrapper>*.subhead {
+        width: 90%
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .unit-copy-wrapper .headline, 
+.main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .unit-copy-wrapper .subhead{
+    color:#000;
+    max-width: 500px;
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .unit-copy-wrapper .subhead {
+       max-width: 400px;
+    }
+    .main [data-module-template="promos"] [data-unit-id="holiday-tv-spot"] .cta-link a#tv-spot-holiday{
+    color:#0070c9;
+    }
+}
+/* 
+.main [data-module-template="heroes"]:not(.standalone-module) .unit-wrapper {
+        height: 580px;
+        width: 100%
+    }
+ */
+/****/
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper {
+        padding-top: 76px;
+    }
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper > *.subhead {
+        margin-top: 40px;
+    }
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta, .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.cta-links {
+        margin-top: 35px;
+    }
+}
+
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="give-back"].standalone-module {
+    border-bottom-color: #222
+}
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="the-bucket"],
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xr"],
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"] {
+    border-top-color: #222;
+    border-bottom-color: #222
+}
+
+html[data-layout-name=holiday-tv-spot] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"] {
+    border-bottom-color: #FFF
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper h3.subhead {
+       color: #eee;
+    }
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.cta, 
+    .main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.cta-links {
+        margin-top: 0;
+    }
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-copy-wrapper>*.subhead {
+        line-height: 1.22115;
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"].promo-apple-music .unit-copy-wrapper>*.cta-links a:last-child{
+    margin-left: 0px
+}

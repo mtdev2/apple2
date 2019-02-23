@@ -1,0 +1,15 @@
+/*addational for MO 2018.03.20*/
+
+#ac-globalfooter .ac-gf-buystrip-hero-title:lang(zh-MO){font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
+
+#ac-globalfooter .ac-gf-buystrip-hero:lang(zh-MO),
+#ac-globalfooter .ac-gf-sosumi p:lang(zh-MO), 
+#ac-globalfooter .ac-gf-sosumi li:lang(zh-MO),
+#ac-globalfooter .ac-gf-breadcrumbs-path:lang(zh-MO),
+#ac-globalfooter .ac-gf-directory-column-section-title:lang(zh-MO),
+#ac-globalfooter:lang(zh-MO),
+#ac-globalfooter .ac-gf-directory:lang(zh-MO),
+#ac-globalnav .ac-gn-link:lang(zh-MO){font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
+
+
+sup.big_size { font-size: 1em; bottom: 0 }

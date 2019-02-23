@@ -1,0 +1,206 @@
+.pd-billboard-info {
+	margin: 0 12%;
+}
+
+.section-faqs #toggle-menu-faqs + label .typography-quote-reduced:after {
+	font-size: 22px;
+	color: #888888;
+	display: block;
+	content: "";
+	position: absolute;
+	right: 0;
+	top: 0;
+	-webkit-transition: all .2s;
+	transition: all .2s;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg)
+}
+
+.section-faqs #toggle-menu-faqs + label .btn {
+	margin: 0;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 1px;
+	height: 1px;
+	z-index: -1
+}
+
+.section-faqs #toggle-menu-faqs + label .btn:focus {
+	width: 25px;
+	height: 33px;
+	margin-right: 17px
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-faqs #toggle-menu-faqs + label .btn:focus {
+		margin-right: -3px
+	}
+}
+
+.section-faqs #toggle-menu-faqs + label .close-btn {
+	display: none
+}
+
+.section-faqs :target ~ .accordion-content, .section-faqs #toggle-menu-faqs:checked ~ .accordion-content {
+	max-height: 12000px !important;
+	visibility: visible !important;
+	padding-bottom: 2px
+}
+
+.section-faqs :target + label .close-btn, .section-faqs #toggle-menu-faqs:checked + label .close-btn {
+	display: block !important
+}
+
+.section-faqs :target + label .open-btn, .section-faqs #toggle-menu-faqs:checked + label .open-btn {
+	display: none !important
+}
+
+.section-faqs :target + label .typography-quote-reduced:after, .section-faqs #toggle-menu-faqs:checked + label .typography-quote-reduced:after {
+	-webkit-transform: rotate(0deg) !important;
+	-ms-transform: rotate(0deg) !important;
+	transform: rotate(0deg) !important
+}
+
+.section-faqs .faq-item {
+	margin-top: 1.5em
+}
+
+.section-recycle .section-content {
+	padding: 38px 22px
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-recycle .section-content {
+		padding: 28px 16px
+	}
+}
+
+.section-recycle .border-top-only {
+	box-sizing: border-box;
+	border-top: 1px solid #d6d6d6
+}
+
+.section-recycle #toggle-menu + label .typography-quote-reduced:after {
+	alt: "";
+	margin: 4px 20px
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-recycle #toggle-menu + label .typography-quote-reduced:after {
+		margin: 2px 0
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-recycle #toggle-menu + label .typography-quote-reduced:after {
+		margin: 0
+	}
+}
+
+.section-recycle #toggle-menu + label .typography-quote-reduced {
+	cursor: pointer;
+	padding-right: 30px
+}
+
+.section-recycle #toggle-menu + label .typography-quote-reduced:after {
+	font-size: 22px;
+	color: #888888;
+	display: block;
+	content: "";
+	position: absolute;
+	right: 0;
+	top: 0;
+	-webkit-transition: all .2s;
+	transition: all .2s;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg)
+}
+
+.section-recycle #toggle-menu + label .btn {
+	margin: 0;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 1px;
+	height: 1px;
+	z-index: -1
+}
+
+.section-recycle #toggle-menu + label .btn:focus {
+	width: 25px;
+	height: 33px;
+	margin-right: 17px
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-recycle #toggle-menu + label .btn:focus {
+		margin-right: -3px
+	}
+}
+
+.section-recycle #toggle-menu + label .close-btn {
+	display: none
+}
+
+.section-recycle :target ~ .accordion-content, .section-recycle #toggle-menu:checked ~ .accordion-content {
+	max-height: 3000px !important;
+	visibility: visible !important;
+	padding-bottom: 2px
+}
+
+.section-recycle :target + label .close-btn, .section-recycle #toggle-menu:checked + label .close-btn {
+	display: block !important
+}
+
+.section-recycle :target + label .open-btn, .section-recycle #toggle-menu:checked + label .open-btn {
+	display: none !important
+}
+
+.section-recycle :target + label .typography-quote-reduced:after,
+.section-recycle #toggle-menu:checked + label .typography-quote-reduced:after {
+	-webkit-transform: rotate(0deg) !important;
+	-ms-transform: rotate(0deg) !important;
+	transform: rotate(0deg) !important
+}
+
+.small-only{ display: none; }
+
+@media only screen and (max-width: 735px) {
+	.small-only{ display: block; }
+}
+.violator-secondary {
+	color: #bbb;
+	border: 1px solid;
+	border-color: #bbb;
+	border-radius: 4px;
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+@media only screen and (max-width: 735px) {
+	.violator-secondary { float: left; }
+}
+.faq-item div ol {margin-left: 1.4647em}
+
+.trade-in-caption{
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: -0.01em;
+	font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	color: #666;
+	padding-top: 6px;
+	margin-top: auto;
+}
+
+/* CAFR Chevron Fix */
+.cafr-wrap-fix {
+white-space: nowrap;
+}

@@ -1,0 +1,215 @@
+
+/* CAFR Animation startframes & Endframes */
+
+.section-overview-hero .hero-image .image-hero-startframe {
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_landscape_startframe_large.jpg")
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-overview-hero .hero-image .image-hero-startframe {
+        background-size: 1420px 800px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_landscape_startframe_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-overview-hero .hero-image .image-hero-startframe {
+        background-size: 1288px 724px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_landscape_startframe_small.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) {
+    .section-overview-hero .hero-image .image-hero-startframe {
+        background-size: 1080px 1920px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_portrait_startframe_large.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+    .section-overview-hero .hero-image .image-hero-startframe {
+        background-size: 800px 1420px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_portrait_startframe_medium.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+    .section-overview-hero .hero-image .image-hero-startframe {
+        background-size: 724px 1288px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_portrait_startframe_small.jpg")
+    }
+}
+
+.section-overview-hero .hero-image .image-hero-fallback {
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_landscape_endframe_large.jpg")
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-overview-hero .hero-image .image-hero-fallback {
+        background-size: 1420px 800px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_landscape_endframe_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-overview-hero .hero-image .image-hero-fallback {
+        background-size: 1288px 724px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_landscape_endframe_small.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) {
+    .section-overview-hero .hero-image .image-hero-fallback {
+        background-size: 1080px 1920px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_portrait_endframe_large.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+    .section-overview-hero .hero-image .image-hero-fallback {
+        background-size: 800px 1420px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_portrait_endframe_medium.jpg");
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+    .section-overview-hero .hero-image .image-hero-fallback {
+        background-size: 724px 1288px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/hero_portrait_endframe_small.jpg");
+    }
+}
+
+
+
+/*Design Animations*/
+/* Animation fallbacks */
+html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design,
+html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design,
+html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+html.height-fallback .image-hero-static-design {
+    display: block;
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_landscape_endframe_large.jpg")
+}
+
+@media only screen and (max-width: 1068px) {
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design,
+    html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design,
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design {
+        background-size: 710px 400px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_landscape_endframe_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design,
+    html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design,
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design {
+        background-size: 1288px 724px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_landscape_endframe_small.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) {
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design,
+    html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design,
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design {
+        background-size: 1080px 1920px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_portrait_endframe_large.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design,
+    html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design,
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design {
+        background-size: 400px 710px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_portrait_endframe_medium.jpg")
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design,
+    html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design,
+    html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design,
+    html.height-fallback .image-hero-static-design {
+        background-size: 724px 1288px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_portrait_endframe_small.jpg")
+    }
+}
+
+
+
+.section-design .image-hero-start-design {
+    background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_landscape_startframe_large.jpg");
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-design .image-hero-start-design {
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_landscape_startframe_medium.jpg");
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-design .image-hero-start-design {
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_landscape_startframe_small.jpg");
+    }
+}
+
+@media only screen and (orientation: portrait) {
+    .section-design .image-hero-start-design {
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_portrait_startframe_large.jpg");
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+    .section-design .image-hero-start-design {
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_portrait_startframe_medium.jpg");
+    }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+    .section-design .image-hero-start-design {
+        background-image: url("/ca/fr/apple-watch-series-4/images/overview/design_portrait_startframe_small.jpg");
+    }
+}
+
+
+/* CAFR fixes */
+@media only screen and (max-width: 735px) {
+    .typography-headline-super {
+        font-size: 40px;
+        line-height: 1.08365;
+    }
+
+}

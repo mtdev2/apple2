@@ -1,0 +1,101 @@
+
+body:lang(th) {
+	line-height: 1.47059;
+}
+
+@media only screen and (min-width: 1069px) {
+
+	.typography-headline-super:lang(th) {
+		line-height: 1.1;
+	}
+	.badge .badge-content .badge-caption {
+		padding-bottom:5%;
+	}
+	.section-performance .subsection .badge-content.th-fixed-bottom {
+		margin-top:0;
+	}
+	.section-performance .subsection .badge-content.th-fixed-top {
+		margin-top:40px;	
+	}
+	.section-speakers-camera .badge-content .badge-value {
+		margin:0 0 -4px
+	}
+		.section-speakers-camera .badge .badge-content .badge-caption {
+		padding-bottom:10%;
+		padding-right:0;
+	}
+	.section-materials .badge-content {
+		margin: 0;
+	}
+	.section-materials .badge-content .badge-value {
+		margin: 0;
+	}
+	.section-materials .badge .badge-content .badge-caption{
+		padding-bottom:10%;
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+
+	.typography-headline-super:lang(th) {
+		line-height: 1.1;
+	}
+	.badge .badge-content .badge-caption {
+		padding-bottom:5%;
+	}
+	.section-performance .subsection .badge-content.th-fixed-bottom {
+		margin-top:0;
+	}
+	.section-performance .subsection .badge-content.th-fixed-top {
+		margin-top:35px;	
+	}
+	.section-speakers-camera .badge-content .badge-value {
+		margin:0 0 -4px
+	}
+		.section-speakers-camera .badge .badge-content .badge-caption {
+		padding-bottom:10%;
+	}
+	.section-materials .badge-content {
+		margin: 0;
+	}
+	.section-materials .badge-content .badge-value {
+		margin: 0;
+	}
+	.section-materials .badge .badge-content .badge-caption{
+		padding-bottom:10%;
+	}
+
+}
+@media only screen and (max-width: 735px) {
+
+	.typography-headline-super:lang(th) {
+		line-height: 1.15;
+	}
+	.section-performance .subsection .badge-content.th-fixed-bottom {
+		margin-top:30px;
+	}
+	.section-performance .subsection .badge-content.th-fixed-top {
+		margin-top:15px;
+	}
+}
+
+.section-macos .icon-calendar {
+    background-image: url("/th/macbook-air/images/overview/icon_calendar__c8fy3r2wopoy_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-macos .icon-calendar {
+        background-image:url("/th/macbook-air/images/overview/icon_calendar__c8fy3r2wopoy_large_2x.png")
+    }
+}
+
+.section-keyboard .icon-larger {
+
+    background-image: url("/th/macbook-air/images/overview/trackpad__fseybxb7lkuy_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-keyboard .icon-larger {
+        background-image:url("/th/macbook-air/images/overview/trackpad__fseybxb7lkuy_large_2x.png")
+    }
+}

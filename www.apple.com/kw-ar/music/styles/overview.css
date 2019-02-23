@@ -1,0 +1,103 @@
+.page-overview .section-billboard.itunes {
+  margin-top: 100px;
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.itunes {
+    margin-top: 150px;
+  }
+}
+
+.page-overview .section-billboard.itunes {
+  background: #fff;
+}
+
+.page-overview .section-apps {
+  background: #fafafa;
+}
+
+.page-overview .section-apps .apps-graphic {
+  background-image: url("/v/music/h/images/overview/apps_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-apps .apps-graphic {
+    background-image: url("/v/music/h/images/overview/apps_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-apps .apps-graphic {
+    background-image: url("/v/music/h/images/overview/apps_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-apps .apps-graphic {
+    background-image: url("/v/music/h/images/overview/apps_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-apps .apps-graphic {
+    background-image: url("/v/music/h/images/overview/apps_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-apps .apps-graphic {
+    background-image: url("/v/music/h/images/overview/apps_small_2x.jpg");
+  }
+}
+
+.page-overview .section-billboard.itunes .itunes-graphic {
+  background-image: url("/mideast/music/h/images/overview/alt/itunes_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/h/images/overview/alt/itunes_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/h/images/overview/alt/itunes_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/h/images/overview/alt/itunes_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/h/images/overview/alt/itunes_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/h/images/overview/alt/itunes_small_2x.jpg");
+  }
+}
+
+.page-overview .section-billboard.itunes .links-inline li {
+  margin-left: 10px;
+}

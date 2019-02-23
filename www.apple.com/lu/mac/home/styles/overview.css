@@ -1,0 +1,169 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+.section-compare .compare-image { background-image:url("/euro/mac/home/b/screens_alt/images/overview/compare__dr8zhq1ynf6u_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-compare .compare-image { background-image:url("/euro/mac/home/b/screens_alt/images/overview/compare__dr8zhq1ynf6u_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .section-compare .compare-image { background-image:url("/euro/mac/home/b/screens_alt/images/overview/compare__dr8zhq1ynf6u_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-compare .compare-image { background-image:url("/euro/mac/home/b/screens_alt/images/overview/compare__dr8zhq1ynf6u_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-compare .compare-image { background-image:url("/euro/mac/home/b/screens_alt/images/overview/compare__dr8zhq1ynf6u_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-compare .compare-image { background-image:url("/euro/mac/home/b/screens_alt/images/overview/compare__dr8zhq1ynf6u_small_2x.jpg"); }
+}
+.macos { background-image:url("/euro/mac/home/b/screens_alt/images/overview/macos__eq8x88x3iomu_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .macos { background-image:url("/euro/mac/home/b/screens_alt/images/overview/macos__eq8x88x3iomu_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .macos { background-image:url("/euro/mac/home/b/screens_alt/images/overview/macos__eq8x88x3iomu_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .macos { background-image:url("/euro/mac/home/b/screens_alt/images/overview/macos__eq8x88x3iomu_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .macos { background-image:url("/euro/mac/home/b/screens_alt/images/overview/macos__eq8x88x3iomu_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .macos { background-image:url("/euro/mac/home/b/screens_alt/images/overview/macos__eq8x88x3iomu_small_2x.jpg"); }
+}
+.education {
+	background-size: 1380px 645px;
+	background-repeat: no-repeat;
+	background-image: url("/euro/mac/home/b/generic/images/overview/education__bqqx326n7hqu_large.jpg");
+	background-position-x: center;
+	background-position-y: bottom;
+	height: 645px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.education { background-image: url("/euro/mac/home/b/generic/images/overview/education__bqqx326n7hqu_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.education {
+		background-size: 736px 400px;
+		background-repeat: no-repeat;
+		background-image: url("/euro/mac/home/b/generic/images/overview/education__bqqx326n7hqu_medium.jpg");
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.education { background-image: url("/euro/mac/home/b/generic/images/overview/education__bqqx326n7hqu_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+	.education {
+		background-size: 736px 500px;
+		background-repeat: no-repeat;
+		background-image: url("/euro/mac/home/b/generic/images/overview/education__bqqx326n7hqu_small.jpg");
+	}
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.education { background-image: url("/euro/mac/home/b/generic/images/overview/education__bqqx326n7hqu_small_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+	.education { height: 451px; }
+}
+@media only screen and (max-width: 735px) {
+	.education { height: 500px; }
+}
+
+
+.section-buystrip .image-icon-personal-setup {
+    width: 38px;
+    height: 44px;
+    background-size: 38px 44px;
+    background-repeat: no-repeat;
+    background-image: url("/euro/mac/home/b/generic/images/overview/icon_pickup_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-buystrip .image-icon-personal-setup {
+        background-image:url("/euro/mac/home/b/generic/images/overview/icon_pickup_large_2x.png")
+    }
+}
+
+ .section-holiday .banner-container {  background-image:url("/euro/mac/home/b/screens_alt/images/overview/banner_holiday_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+ .section-holiday .banner-container {  background-image:url("/euro/mac/home/b/screens_alt/images/overview/banner_holiday_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+ .section-holiday .banner-container {  background-image:url("/euro/mac/home/b/screens_alt/images/overview/banner_holiday_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+ .section-holiday .banner-container {  background-image:url("/euro/mac/home/b/screens_alt/images/overview/banner_holiday_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+ .section-holiday .banner-container {  background-image:url("/euro/mac/home/b/screens_alt/images/overview/banner_holiday_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+ .section-holiday .banner-container {  background-image:url("/euro/mac/home/b/screens_alt/images/overview/banner_holiday_small_2x.jpg"); }
+}
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.section-giveback .product-headline {
+	max-width: 705px;
+}
+
+@media only screen and (max-width: 735px) {
+	.section-holiday .promo-copy-container .promo-copy-wrapper {
+		margin-bottom: 350px;
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+.section-giveback .product-headline {
+	max-width: 560px;
+}
+}
+
+@media only screen and (max-width: 735px) {
+.section-giveback .product-headline {
+	max-width: 87.5%;
+}
+}
+
+.section-buystrip .typography-buystrip-copy {
+	max-width: 100%;
+}
+
+.section-buystrip .typography-buystrip-copy {
+	width: 100%;
+}
+
+@media only screen and (max-width: 735px) {
+ .ase-ribbon {
+  height:189px;
+ }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .ase-ribbon-content {
+        width: 640px;
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 735px) {
+    .ase-ribbon-content {
+        width: 87.5%
+    }
+}
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/

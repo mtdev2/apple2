@@ -1,0 +1,105 @@
+.section-compare .compare-image {
+    background-image: url("/hk/en/mac/home/images/overview/compare__dr8zhq1ynf6u_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-compare .compare-image {
+        background-image: url("/hk/en/mac/home/images/overview/compare__dr8zhq1ynf6u_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .section-compare .compare-image {
+        background-image: url("/hk/en/mac/home/images/overview/compare__dr8zhq1ynf6u_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-compare .compare-image {
+        background-image: url("/hk/en/mac/home/images/overview/compare__dr8zhq1ynf6u_medium_2x.jpg")}}
+@media only screen and (max-width: 735px) {
+    .section-compare .compare-image {
+        background-image: url("/hk/en/mac/home/images/overview/compare__dr8zhq1ynf6u_small.jpg")}}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-compare .compare-image {
+        background-image: url("/hk/en/mac/home/images/overview/compare__dr8zhq1ynf6u_small_2x.jpg")}}
+.macos {
+    background-image: url("/hk/en/mac/home/images/overview/macos__eq8x88x3iomu_large.jpg")}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .macos {
+        background-image: url("/hk/en/mac/home/images/overview/macos__eq8x88x3iomu_large_2x.jpg")}}
+@media only screen and (max-width: 1068px) {
+    .macos {
+        background-image: url("/hk/en/mac/home/images/overview/macos__eq8x88x3iomu_medium.jpg")}}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .macos {
+        background-image: url("/hk/en/mac/home/images/overview/macos__eq8x88x3iomu_medium_2x.jpg")}}
+@media only screen and (max-width: 735px) {
+    .macos {
+        background-image: url("/hk/en/mac/home/images/overview/macos__eq8x88x3iomu_small.jpg")}}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .macos {
+        background-image: url("/hk/en/mac/home/images/overview/macos__eq8x88x3iomu_small_2x.jpg")}}
+/*************************** START Photos ***************************/
+.built-in-apps .slide-photos-image {
+    background-image: url("/hk/en/mac/home/images/overview/bia_photos__fye89y13o5u2_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/hk/en/mac/home/images/overview/bia_photos__fye89y13o5u2_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/hk/en/mac/home/images/overview/bia_photos__fye89y13o5u2_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/hk/en/mac/home/images/overview/bia_photos__fye89y13o5u2_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/hk/en/mac/home/images/overview/bia_photos__fye89y13o5u2_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/hk/en/mac/home/images/overview/bia_photos__fye89y13o5u2_small_2x.jpg")
+    }
+}
+/***************************  END Photos  ***************************/
+
+/*************************** START iCloud ***************************/
+.icloud {
+    background-image: url("/hk/en/mac/home/images/overview/icloud__edg120vnl9me_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .icloud {
+        background-image: url("/hk/en/mac/home/images/overview/icloud__edg120vnl9me_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .icloud {
+        background-image: url("/hk/en/mac/home/images/overview/icloud__edg120vnl9me_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .icloud {
+        background-image: url("/hk/en/mac/home/images/overview/icloud__edg120vnl9me_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .icloud {
+        background-image: url("/hk/en/mac/home/images/overview/icloud__edg120vnl9me_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .icloud {
+        background-image: url("/hk/en/mac/home/images/overview/icloud__edg120vnl9me_small_2x.jpg")
+    }
+}
+/***************************  END iCloud  ***************************/

@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN" prefix="og: http://ogp.me/ns#">
+
+	<head>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8" />
+<link rel="canonical" href="https://www.apple.com/cn/retail/fieldtrip/" />
+
+
+	
+	<!--no hreflang found-->
+
+
+		
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		
+	
+	<link rel="stylesheet" type="text/css" href="/ac/globalnav/4/zh_CN/styles/ac-globalnav.built.css" />
+	<link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css" />
+	<link rel="stylesheet" type="text/css" href="/ac/globalfooter/3/zh_CN/styles/ac-globalfooter.built.css" />
+	
+
+
+		<meta property="analytics-track" content="Apple Store 零售店 - Field Trip 课外活动 - Apple" />
+		<meta property="analytics-s-channel" content="retailstore" />
+
+	<meta property="analytics-s-bucket-0" content="appleglobal,appleretail" />
+	<meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}retail" />
+	<meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global" />
+	<meta property="analytics-s-bucket-store" content="applestoreww,applestoreapaccnzh" />
+
+
+
+
+		<title>Apple Store 零售店 - Field Trip 课外活动 - Apple (中国)</title>
+		<meta name="Description" content="带领中小学生前往 Apple Store 零售店参加 Field Trip 课外活动。我们的讲座将帮助他们学习如何在 Mac 或 iPad 上创造无穷乐趣。" />
+		
+		<meta property="og:title" content="Apple Store 零售店 - Field Trip 课外活动" />
+		<meta property="og:description" content="带领中小学生前往 Apple Store 零售店参加 Field Trip 课外活动。我们的讲座将帮助他们学习如何在 Mac 或 iPad 上创造无穷乐趣。" />
+		<meta property="og:url" content="https://www.apple.com/cn/retail/fieldtrip/" />
+		
+		<meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201811221746" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Apple (中国) - 官方网站" />
+		<meta property="og:locale" content="zh_CN">
+		<link rel="stylesheet" href="/v/retail/fieldtrip/g/styles/fieldtrip.built.css" />
+		<link rel="stylesheet" href="/retail/fieldtrip/styles/fieldtrip.built.css" />
+		<link rel="stylesheet" href="/cn/retail/fieldtrip/styles/fieldtrip.built.css" />
+
+			<script src="https://images.apple.com/global/scripts/lib/prototype.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://images.apple.com/global/scripts/lib/scriptaculous.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://images.apple.com/global/scripts/lib/sizzle.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://images.apple.com/global/scripts/browserdetect.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://images.apple.com/global/scripts/apple_core.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://images.apple.com/global/scripts/search_decorator.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://images.apple.com/global/ac_base/ac_base.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://images.apple.com/global/scripts/feedstatistics.js" type="text/javascript" charset="utf-8"></script>
+
+		
+<link rel="stylesheet" href="/wss/fonts?families=SF+Pro,v1|SF+Pro+Icons,v1|SF+Pro+SC,v1" type="text/css">
+
+
+<script src="https://images.apple.com/global/scripts/lib/event_mixins.js" charset="utf-8"></script>
+<script src="https://images.apple.com/v/retail/j/scripts/util.js" charset="utf-8"></script>
+<script src="https://images.apple.com/v/retail/j/scripts/specialty_dropdown_data.js" charset="utf-8"></script>
+
+		<script src="/v/retail/fieldtrip/g/scripts/head.built.js" type="text/javascript" charset="utf-8"></script>
+		<!--<link rel="stylesheet" href="/cn/retail/fieldtrip/styles/linebreak.css" type="text/css" />-->
+		
+
+		
+
+		<script src="/v/retail/includes/a/scripts/store_selector.built.js" type="text/javascript" charset="utf-8"></script>
+		<script>
+			Event.onDOMReady(function() {
+			StoreSelector.prototype._selectAStateOptionLabel = '选择城市';
+			StoreSelector.prototype._selectAStoreOptionLabel = '查找 Apple Store 零售店';
+		var htmlLang = '/' + document.getElementsByTagName('html')[0].getAttribute('lang').replace('-','_');
+		var delegate = {
+							storeLinkForStoreWithConciergeIdStateNamed: function(storeCode, stateName) {
+								return 'https://concierge.apple.com/fieldtrip/' + storeCode + htmlLang;
+							}
+					}
+			var initStoreSelector = function(requestedCountryName) {
+				return (function(response) {
+					var responseDocument = response.responseXML.documentElement;
+					var countriesWithStores = responseDocument.getElementsByTagName('country');
+					var requestedCountry = null;
+
+					for(var i = 0; i < countriesWithStores.length; i++) {
+						var country = countriesWithStores[i];
+						if (country.getAttribute('name') == requestedCountryName) {
+							requestedCountry = country;
+							break;
+						}
+					}
+					new StoreSelector(requestedCountry, $('tripsignup-location'), $('tripsignup-store'), $('tripsignup-submit'), 'fieldtrip', delegate, null, 'fieldtrip');
+				});
+			}
+
+			new Ajax.Request('/autopush/cn/retail/storelist/stores.xml', {
+				method: 'get',
+				onSuccess: initStoreSelector("China")
+			});
+		});
+		</script>
+	</head>
+	<body class="page-fieldtrip">
+		<div style="display:none;"><img src="/cn/retail/fieldtrip/images/og_wechat.jpg" alt=""></div>
+		
+<div class="adv-wrapper">
+	<div class="adv-wrapper-text"><广告></div>
+</div>
+<style>
+	html {
+		margin-top: 40px !important;
+	}
+	body {
+		border-top: 1px solid transparent;
+		margin-top: -1px;
+		position: relative;
+	}
+	html.oldie body {
+  		overflow-x: visible;
+  	}
+	.adv-wrapper {
+		position: absolute;
+		top: -40px;
+		z-index: 9999;
+		background: #444;
+		line-height: 1;
+		top: -40px;
+		width: 100%;
+		right:0;
+		height: 40px;
+		z-index: 9999;
+	}
+	.ac-gn-segmentbar-visible .adv-wrapper {
+		position: absolute;
+		top: -40px;
+	}
+	.ac-gn-segmentbar-visible .macpro-gg .adv-wrapper {
+		top: 0px;
+	}
+	.adv-wrapper .adv-wrapper-text {
+		color: #a8a8aa;
+		display: block;
+		line-height: 40px;
+		overflow: hidden;
+		text-decoration: none;
+		text-overflow: ellipsis;
+		text-align: right;
+		max-width: 976px;
+		margin: 0 auto;
+	}
+
+	.ac-gn-segmentbar-visible .adv-wrapper{
+		background: transparent;
+		width: 20%
+	}
+	.ac-gn-segmentbar-visible .adv-wrapper .adv-wrapper-text {
+		width: 100%;
+		margin-left: 488px;
+		position: absolute;
+		left: -250%;
+		min-width: auto;
+	}
+
+	@media only screen and (max-width: 1023px) {
+		.adv-wrapper {
+			min-width: 20%
+		}
+		.adv-wrapper .adv-wrapper-text {
+			margin-left:auto;
+			width: auto;
+			padding: 0 22px;
+			position: relative;
+			left: 0;
+			padding-left: calc(max(22px, env(safe-area-inset-left)));
+			padding-right: calc(max(22px, env(safe-area-inset-right)));
+		}
+		.ac-gn-segmentbar-visible .adv-wrapper .adv-wrapper-text {
+			width: auto;
+			position: relative;
+			padding: 0 12px;
+			left: -6%;
+			margin: 0;
+		}
+		.ac-gn-segmentbar-visible #sonic-automotive.profiles.platter.full-nav.ac-gn-current-iphone .adv-wrapper .adv-wrapper-text,
+		.ac-gn-segmentbar-visible #ducati.profiles.platter.full-nav.ac-gn-current-iphone .adv-wrapper .adv-wrapper-text,
+		.ac-gn-segmentbar-visible #mayo-clinic.profiles.platter.ac-gn-current-iphone.full-nav .adv-wrapper .adv-wrapper-text
+		 {
+			left: -27%;
+		}
+	}
+	@media only screen and (max-width: 767px) {
+		.adv-wrapper .adv-wrapper-text {
+			line-height:40px;
+			margin-left:auto;
+			width: auto;
+			padding: 0 16px;
+			position: relative;
+			left: 0;
+		}
+		.ac-gn-segmentbar-visible .adv-wrapper .adv-wrapper-text {
+			width: auto;
+			position: relative;
+			left: 0;
+			margin: 0;
+		}
+		.ac-gn-segmentbar-visible #sonic-automotive.profiles.platter.full-nav.ac-gn-current-iphone .adv-wrapper .adv-wrapper-text,
+		.ac-gn-segmentbar-visible #ducati.profiles.platter.full-nav.ac-gn-current-iphone .adv-wrapper .adv-wrapper-text,
+		.ac-gn-segmentbar-visible #mayo-clinic.profiles.platter.ac-gn-current-iphone.full-nav .adv-wrapper .adv-wrapper-text
+		{
+			left: -25%;
+		}
+		.adv-wrapper {
+			top:-44px;
+			height: 44px
+		}
+		.ac-gn-segmentbar-visible .adv-wrapper {
+			top:-44px;
+			height: 44px
+		}
+		.adv-wrapper .adv-wrapper-text {
+			line-height: 44px;
+		}
+		html {
+			margin-top: 44px !important;
+		}
+
+	}
+	.adv-wrapper .adv-wrapper-text {
+		color: #a8a8aa;
+		font-size: 12px;
+		font-family: "SF Pro SC", "HanHei SC", "SF Pro Text", "Myriad Set Pro", "PingFang SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+	}
+
+
+	/* Always show in IE8, whether zoom because IE8 doesnt have responsive. */
+	/* hack for IE8 without shop button */
+	/*js no-touch no-svg ie8 no-progressive no-transforms no-tablet no-handheld no-oldTablet no-maskBoxImage no-maskedParallaxAnimation no-webgl no-video no-inlineVideo no-canvas cssFilter no-cssTransition2d no-cssTransition3d ie*/
+
+	html.ie8,html.oldie,html.oldIE {
+		margin-top: 0px !important;
+	}
+	html.ie8 .adv-wrapper,html.oldie .adv-wrapper,html.oldIE .adv-wrapper {
+		position: relative;
+		top: 0px;
+		min-width: 1024px;
+	}
+	html.ie8 .adv-wrapper .adv-wrapper-text,html.oldie .adv-wrapper .adv-wrapper-text,html.oldIE .adv-wrapper .adv-wrapper-text {
+		line-height: 40px;
+	}
+	html.ie8 #ac-globalnav,html.oldie #ac-globalnav,html.oldIE #ac-globalnav {
+		top: 40px;
+	}
+	html.ie8 .ac-familybrowser,html.oldie .ac-familybrowser,html.oldIE .ac-familybrowser {
+		top: 84px;
+	}
+	html.ie8 .ac-nav-overlap .chapternav,html.oldie .ac-nav-overlap .chapternav,html.oldIE .ac-nav-overlap .chapternav {
+		margin-top: 84px;
+	}
+	/* hack for IE8 with shop button*/
+	html.ie8.ac-gn-segmentbar-visible #ac-gn-segmentbar,html.oldie.ac-gn-segmentbar-visible #ac-gn-segmentbar,html.oldIE.ac-gn-segmentbar-visible #ac-gn-segmentbar {
+		position: relative;
+		top: 0;
+	}
+	html.ie8.ac-gn-segmentbar-visible .adv-wrapper,html.oldie.ac-gn-segmentbar-visible .adv-wrapper,html.oldIE.ac-gn-segmentbar-visible .adv-wrapper {
+		position: absolute;
+		min-width: auto;
+	}
+</style>
+
+
+
+
+
+
+
+
+
+<meta name="ac-gn-store-key" content="SFX9YPYY9PPXCU9KH" />
+<aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="zh-CN" dir="ltr" data-strings="{ 'exit': '退出商店', 'view': '{%STOREFRONT%}商店首页', 'segments': { 'smb': '企业商店首页', 'eduInd': '教育商店首页', 'other': '商店首页' } }">
+</aside>
+<input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" />
+<nav id="ac-globalnav" class="no-js" role="navigation" aria-label="全部网站" data-hires="false" data-analytics-region="global nav" lang="zh-CN" dir="ltr" data-store-locale="cn" data-store-api="/[storefront]/shop/bag/status" data-search-locale="zh_CN" data-search-api="/search-services/suggestions/">
+	<div class="ac-gn-content">
+		<ul class="ac-gn-header">
+			<li class="ac-gn-item ac-gn-menuicon">
+				<label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					</span>
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					</span>
+				</label>
+				<a href="#ac-gn-menustate" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					<span class="ac-gn-menuanchor-label">Global Nav 打开菜单</span>
+				</a>
+				<a href="#" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					<span class="ac-gn-menuanchor-label">Global Nav 关闭菜单</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="/cn/" data-analytics-title="apple home" id="ac-gn-firstfocus-small">
+					<span class="ac-gn-link-text">Apple</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+				<a class="ac-gn-link ac-gn-link-bag" href="/cn/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="购物袋" data-string-badge="含商品的购物袋">
+					<span class="ac-gn-link-text">购物袋</span>
+					<span class="ac-gn-bag-badge"></span>
+				</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<div class="ac-gn-search-placeholder-container" role="search">
+			<div class="ac-gn-search ac-gn-search-small">
+				<a id="ac-gn-link-search-small" class="ac-gn-link" href="/cn/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="搜索 apple.com">
+					<div class="ac-gn-search-placeholder-bar">
+						<div class="ac-gn-search-placeholder-input">
+							<div class="ac-gn-search-placeholder-input-text" aria-hidden="true">
+								<div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div>
+								<span class="ac-gn-search-placeholder">搜索 apple.com</span>
+							</div>
+						</div>
+						<div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close">
+							<span class="ac-gn-searchview-close-cancel" aria-hidden="true">取消</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<ul class="ac-gn-list">
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="/cn/" data-analytics-title="apple home" id="ac-gn-firstfocus">
+						<span class="ac-gn-link-text">Apple</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+				<a class="ac-gn-link ac-gn-link-mac" href="/cn/mac/" data-analytics-title="mac">
+						<span class="ac-gn-link-text">Mac</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+				<a class="ac-gn-link ac-gn-link-ipad" href="/cn/ipad/" data-analytics-title="ipad">
+						<span class="ac-gn-link-text">iPad</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+				<a class="ac-gn-link ac-gn-link-iphone" href="/cn/iphone/" data-analytics-title="iphone">
+						<span class="ac-gn-link-text">iPhone</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+				<a class="ac-gn-link ac-gn-link-watch" href="/cn/watch/" data-analytics-title="watch">
+						<span class="ac-gn-link-text">Watch</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+				<a class="ac-gn-link ac-gn-link-music" href="/cn/music/" data-analytics-title="music">
+						<span class="ac-gn-link-text">Music</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+				<a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com/zh-cn" data-analytics-title="support">
+						<span class="ac-gn-link-text">技术支持</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+				<a id="ac-gn-link-search" class="ac-gn-link ac-gn-link-search" href="/cn/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="搜索 apple.com"></a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+				<a class="ac-gn-link ac-gn-link-bag" href="/cn/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="购物袋" data-string-badge="含商品的购物袋">
+						<span class="ac-gn-link-text">购物袋</span>
+						<span class="ac-gn-bag-badge" aria-hidden="true"></span>
+					</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search">
+			<div class="ac-gn-searchview-content">
+				<div class="ac-gn-searchview-bar">
+					<div class="ac-gn-searchview-bar-wrapper">
+						<form id="ac-gn-searchform" class="ac-gn-searchform" action="/cn/search" method="get">
+							<div class="ac-gn-searchform-wrapper">
+								<input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="搜索 apple.com" placeholder="搜索 apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions" />
+								<input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" />
+								<button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="提交搜索"></button>
+								<button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="清除搜索">
+										<span class="ac-gn-searchform-reset-background"></span>
+									</button>
+							</div>
+						</form>
+						<button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="取消搜索">
+								<span class="ac-gn-searchview-close-cancel" aria-hidden="true">
+									取消
+								</span>
+							</button>
+					</div>
+				</div>
+				<aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="快速链接" data-string-suggestions="搜索结果建议" data-string-noresults=""></aside>
+			</div>
+			<button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="取消搜索">
+					<span class="ac-gn-searchview-close-wrapper">
+						<span class="ac-gn-searchview-close-left"></span>
+						<span class="ac-gn-searchview-close-right"></span>
+					</span>
+				</button>
+		</aside>
+		<aside class="ac-gn-bagview" data-analytics-region="bag">
+			<div class="ac-gn-bagview-scrim">
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+			</div>
+			<div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+			</div>
+		</aside>
+	</div>
+</nav>
+<div class="ac-gn-blur"></div>
+<div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+<div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+<script type="text/javascript" src="/ac/globalnav/4/zh_CN/scripts/ac-globalnav.built.js"></script>
+
+		<script src="/metrics/ac-analytics/1.1/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/metrics/ac-analytics/1.1/scripts/auto-init.js" type="text/javascript" charset="utf-8"></script>
+
+		<div id="main" class="main" role="main">
+			<!-- hero section -->
+			<section class="section section-hero section-nopad" data-analytics-section-engagement="name:hero">
+				<div>
+					<figure class="image-retail-fieldtrip-hero image-hero">
+						<div class="section-content">
+							<div class="hero-text large-9 small-12 large-offset-1 small-offset-0">
+								<h1 class="fieldtrip-hero-headline typography-product-elevated centeralign">来 Apple 参加 <br/>Field Trip <br class="hide-for-small" />课外活动</h1>
+								<p class="fieldtrip-hero-subhead typography-intro">使用 Apple 产品培养协作<br class="show-only-for-medium" />能力，<br class="show-only-for-large" />激发创造力。<br class="show-only-for-small" /></p>
+							</div>
+						</div>
+					</figure>
+				</div>
+			</section>
+			<!-- store selector section -->
+			<section class="section section-store" data-analytics-section-engagement="name:store_selector">
+				<div class="section-content subsection-shine">
+					<div class="row">
+						<div class="column large-8 large-offset-2 small-12 small-offset-0 small-gutter text-centered small-align-left">
+							<h2 class="typography-hero-headline">让学生们的才华，<br />在这里<span class="nowrap">展现。</span></h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="column subsection-copy large-10 large-centered medium-10 medium-offset-1 small-12 small-offset-0 small-gutter text-centered small-align-left">
+							<p class="typography-intro">
+								带上你的学生或教师同伴，来参加 Apple 的 Field&nbsp;Trip 课外活动，收获一段难忘的学习经历。在实践课程中，师生们可以借助 Apple 产品，将自己的想象力提升到新的高度，并能创作出各种方案，完善课堂内容。
+							</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="column large-8 large-offset-2 small-12 small-offset-0 small-gutter text-centered small-align-left">
+							<p class="typography-intro">查找你附近的零售店并报名参加 Field&nbsp;Trip 课外活动。</p>
+						</div>
+					</div>
+					<form action="#" method="POST" accept-charset="utf-8" id="tripsignup">
+						<div class="row">
+							<div class="column form-select-items large-12 large-centered large-offset-1 small-12 small-offset-0 small-gutter">
+								<div class="column large-6 small-12 states-select">
+									<div class="reserve-online">
+										<fieldset>
+											<div class="select-style">
+												<select name="storestate" id="tripsignup-location" disabled>
+													<option selected="selected" value="">正在载入......</option>
+												</select>
+											</div>
+										</fieldset>
+									</div>
+								</div>
+								<div class="column large-6 small-12 stores-select">
+									<div class="reserve-online">
+										<fieldset>
+											<div class="select-style">
+												<select name="storecity" id="tripsignup-store" disabled>
+													<option selected="selected" value="">正在载入......</option>
+												</select>
+											</div>
+										</fieldset>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="column large-10 large-centered small-12 align-center small-gutter">
+								<div class="reserve-online">
+									<fieldset class="fieldtrip-submit-button">
+										<div class="submit button disabled" id="tripsignup-submit" data-hires="false"><input type="submit" value="注册" /></div>
+									</fieldset>
+								</div>
+							</div>
+						</div>
+					</form>
+				</div>
+			</section>
+			<!-- reptiles section -->
+			<section class="section section-create section-gray" data-analytics-section-engagement="name:tiles">
+				<div class="section-content">
+					<div class="row">
+						<div class="column large-5 large-offset-half medium-5-and-half medium-offset-half-clear small-12 small-offset-0 small-offset-reset">
+							<figure class="image-retail-fieldtrip-create-products align-large-left-small-center"></figure>
+						</div>
+						<div class="column copy-content copy-content-1 large-5-and-half large-offset-half medium-6 medium-offset-1 small-12 small-gutter small-offset-reset">
+							<h3 class="typography-subsection-headline">创建精彩项目</h3>
+							<p class="typography-body">活动现场就是他们的学习园地。学生们能够生动直观地展现自己的想法、用音乐表达心声、开始学习编程，甚至还能帮助激发社会的改变。</p>
+						</div>
+					</div>
+					<div class="row subsection-experience">
+						<div class="column large-5 large-offset-half medium-5-and-half medium-offset-half-clear small-12 small-offset-0 small-offset-reset">
+							<figure class="image-retail-fieldtrip-experience-teachers align-large-left-small-center"></figure>
+						</div>
+						<div class="column copy-content copy-content-2 large-5-and-half large-offset-half small-12 small-gutter small-offset-reset">
+							<h3 class="typography-subsection-headline">老师们也能收获精彩体验</h3>
+							<p class="fieldtrip-experience-p typography-body ">Field&nbsp;Trip 课外活动也非常适合老师的参与。老师们可以探索如何充分利用 Apple 的工具和资源，并实践各种课堂教学方案。</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- choose fieldtrip section -->
+			<section class="section section-choose" data-analytics-section-engagement="name:topics">
+				<div class="section-content ">
+					<div class="row subsection-choose-trip">
+						<div class="column large-8 large-centered small-12 align-center small-gutter small-align-left">
+							<h3 class="typography-subsection-headline">Field Trip 课外活动随你选</h3>
+						</div>
+						<div class="column large-8 large-centered medium-10 small-12 align-center small-gutter small-align-left">
+							<p class="typography-body">每个班级都有各自的特点，每次 Apple 的 Field&nbsp;Trip 课外活动也都可以有所不同。老师可以对课外活动进行量身定制，以完善学生们在课堂上学到的知识。Field&nbsp;Trip 课外活动的主题和内容包括：</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="column subsection-exploring large-5 large-offset-half medium-6 medium-offset-half-clear small-12 small-gutter small-offset-reset">
+							<h4 class="typography-label">用创造性的方式讲故事</h4>
+							<p class="typography-body subsection-copy-1">学生们可以结合自己的表达能力和创作技巧，用视频和音乐等数字化的方式生动地讲述故事。</p>
+							<h4 class="typography-label">培养多感官学习能力</h4>
+							<p class="typography-body subsection-copy-2">利用 <a href="/cn/shop/product/HJAV2ZM/A/skoogmusic-skoog-20-tactile-musical-interface-for-ios-mac">Skoog</a> 触感式音乐立方体，残障学生可学习制作音乐，还可使用他们自己录制的对话来创作故事。</p>												
+						</div>
+						<div class="column subsection-elevating large-5 large-offset-1 medium-5-and-half medium-offset-half small-12 small-gutter">	
+							<h4 class="typography-label title-developing">将想法付诸行动</h4>
+							<p class="typography-body subsection-copy-1">学生们将围绕他们关注的话题来进行创作，例如制作有关节约能源的海报或录制有关反校园欺凌的播客，从而提高人们对这些问题的关注度。</p>						
+							<h4 class="typography-label">编程和机器人入门</h4>
+							<p class="typography-body">学生们将学习编程的基础知识，动手操控机器人，并通过相互间的合作解决问题。参与者无需编程基础。</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- field trip basics section -->
+			<section class="section section-basics section-gray" data-analytics-section-engagement="name:basics">
+				<div class="section-content">
+					<div class="row">
+						<div class="column large-11 large-offset-half medium-11-and-half medium-offset-half-clear small-12 align-left small-gutter">
+							<h3 class="typography-subsection-headline">Field Trip 课外活动基本信息</h3>
+							<p class="typography-body"><b>参与者：</b>中小学生和教师，以及青少年团体</p>
+							<p class="typography-body"><b>时长：</b>60 至 90 分钟 (请提前 15 分钟到达店内，以完成准备工作) </p>
+							<p class="typography-body"><b>地点：</b>指定 Apple Store 零售店</p>
+							<p class="typography-body"><b>人数：</b>30 人或以下</p>
+							<p class="typography-body"><b>需要携带的物品：</b>每名学生必须提供一份 Apple 的<a href="/cn/retail/fieldtrip/Youth_Permission_Statement_2017_CN.pdf">未成年人许可声明</a>，并由其家长或法定监护人签字。</p>
+							<p class="typography-body">当预定者收到“Apple&nbsp;Store 零售店 Field&nbsp;Trip 课外活动确认函”的电子邮件时，Field&nbsp;Trip 课外活动才正式预定成功。Field&nbsp;Trip 课外活动的最终细节，包括日期、时间、地点，由 Apple&nbsp;Store 零售店全权决定，可能随时更改或取消，恕不另行通知。如要取消预定，请提前至少三天联系你的 Apple&nbsp;Store 零售店。</p>
+							<p class="typography-body">想参加 Field&nbsp;Trip 课外活动，请前往页面顶部，选择一家零售店。</p>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div><!--/main-->
+		<footer id="ac-globalfooter" class="no-js" lang="zh-CN" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label">
+			<div class="ac-gf-content">
+				<h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
+				<nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation">
+					<a href="/cn/" class="home ac-gf-breadcrumbs-home">
+						<span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true"></span>
+						<span class="ac-gf-breadcrumbs-home-label">Apple</span>
+						<span class="ac-gf-breadcrumbs-home-chevron"></span>
+						<span class="ac-gf-breadcrumbs-home-mask"></span>
+					</a>
+					<div class="ac-gf-breadcrumbs-path">
+						<ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
+							<li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><a class="ac-gf-breadcrumbs-link" href="/cn/retail/" property="item" typeof="WebPage" ><span property="name">Apple Store 零售店</span></a><meta property="position" content="1" /></li>
+							<li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">到 Apple Store 零售店参加 Field Trip 课外活动</span><meta property="position" content="2" /></li>
+						</ol>
+					</div>
+				</nav>
+				<nav class="ac-gf-directory with-5-columns" aria-label="Apple 网站目录" role="navigation">
+	<!--googleoff: all-->
+	<div class="ac-gf-directory-column"><input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products">
+		<h3 class="ac-gf-directory-column-section-title">选购及了解</h3>
+	</label>
+			<a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">打开菜单</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">关闭菜单</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/mac/">Mac</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/ipad/">iPad</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/iphone/">iPhone</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/watch/">Watch</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/music/">Music</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/itunes/">iTunes</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/homepod/">HomePod</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/ipod-touch/">iPod touch</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/buy_accessories">配件</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/giftcards">App Store 充值卡</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column"><input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices">
+		<h3 class="ac-gf-directory-column-section-title">Apple Store 商店</h3>
+	</label>
+			<a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">打开菜单</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">关闭菜单</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/retail/">查找零售店</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/retail/geniusbar/">Genius Bar 天才吧</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/today/">Today at Apple</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/today/camp/">Apple 夏令营</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/retail/fieldtrip/">Field Trip 课外活动</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/cn/app/apple-store/id375380948?pt&#x3D;2003&amp;ct&#x3D;footer&amp;mt&#x3D;8">Apple Store App</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/special_deals">翻新和优惠</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/ww/financing">分期付款</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/trade_in">Apple GiveBack 回馈计划</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/account">订单状态</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/help">选购帮助</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column">
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education">
+								<h3 class="ac-gf-directory-column-section-title">教育应用</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">打开菜单</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">关闭菜单</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/education/">Apple 与教育</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/educationrouting">高校师生选购</a></li>
+			</ul>
+		</div>
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business">
+								<h3 class="ac-gf-directory-column-section-title">商务应用</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">打开菜单</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">关闭菜单</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/business/">Apple 与商务</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/retail/business/">商务选购</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column">
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts">
+								<h3 class="ac-gf-directory-column-section-title">账户</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">打开菜单</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">关闭菜单</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/cn/">管理你的 Apple ID</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/shop/goto/account">Apple Store 账户</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li>
+			</ul>
+		</div>
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility">
+								<h3 class="ac-gf-directory-column-section-title">Apple 价值观</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">打开菜单</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">关闭菜单</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/accessibility/">辅助功能</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/environment/">环境责任</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/privacy/">隐私</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/supplier-responsibility/">供应商责任</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column">
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about">
+						<h3 class="ac-gf-directory-column-section-title">关于 Apple</h3>
+					</label>
+			<a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">打开菜单</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">关闭菜单</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/newsroom/">Newsroom</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/leadership/">Apple 管理层</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/jobs/cn/">工作机会</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/job-creation/">创造就业</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/apple-events/">活动</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/cn/contact/">联系 Apple</a></li>
+			</ul>
+		</div>
+	</div>
+	<!--googleon: all-->
+</nav>
+
+<section class="ac-gf-footer">
+	<div class="ac-gf-footer-shop" x-ms-format-detection="none">
+		更多选购方式：<a href="/cn/retail/">前往 <span class="nowrap">Apple Store 零售店</a></span>，致电 400-666-8800 或查找在你附近的<span class="nowrap"><a href="https://locate.apple.com/cn/zh/">授权经销商</a>。</span>
+	</div>
+	<div class="ac-gf-footer-locale">
+	</div>
+	<div class="ac-gf-footer-legal">
+		<div class="ac-gf-footer-legal-copyright">Copyright ©
+			
+			2019
+			Apple Inc. 保留所有权利。</div>
+		<div class="ac-gf-footer-legal-links">
+			<a class="ac-gf-footer-legal-link" href="/cn/privacy/privacy-policy/">隐私政策</a>
+			<a class="ac-gf-footer-legal-link" href="/cn/legal/terms/site.html">使用条款</a>
+			<a class="ac-gf-footer-legal-link" href="/cn/shop/goto/help/sales_refunds">销售政策</a>
+			<a class="ac-gf-footer-legal-link" href="/cn/legal/">法律信息</a>
+			<a class="ac-gf-footer-legal-link" href="/cn/sitemap/">网站地图</a>
+		</div>
+	</div>
+</section>
+
+<script type="text/javascript" src="/ac/globalfooter/3/zh_CN/scripts/ac-globalfooter.built.js"></script>
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@id": "https://www.apple.com/#organization",
+		"@type": "Organization",
+		"name": "Apple",
+		"url": "https://www.apple.com/",
+		"logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201811221746",
+		"contactPoint": [
+			{
+				"@type": "ContactPoint",
+				"telephone": "+1-800-692-7753",
+				"contactType": "sales",
+				"areaServed": "US"
+			},
+			{
+				"@type": "ContactPoint",
+				"telephone": "+1-800-275-2273",
+				"contactType": "technical support",
+				"areaServed": "US",
+				"availableLanguage": ["EN", "ES"] 
+			},
+			{
+				"@type": "ContactPoint",
+				"telephone": "+1-800-275-2273",
+				"contactType": "customer support",
+				"areaServed": "US",
+				"availableLanguage": ["EN", "ES"] 
+			}
+		],
+		"sameAs": [
+			"http://www.wikidata.org/entity/Q312",
+			"https://www.youtube.com/user/Apple",
+			"https://www.linkedin.com/company/apple",
+			"https://www.facebook.com/Apple",
+			"https://www.twitter.com/Apple"
+		]
+	}
+</script>
+
+
+<script type="text/javascript" src="/ac/localeswitcher/2/zh_CN/scripts/localeswitcher.built.js"></script>
+
+
+			</div>
+		</footer>
+		<script src="/v/retail/fieldtrip/g/scripts/fieldtrip.built.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
+

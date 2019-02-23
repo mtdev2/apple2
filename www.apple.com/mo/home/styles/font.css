@@ -1,0 +1,88 @@
+/* HL */
+/*.main .section-heroes.homepage-section .iphone-x .headline:lang(zh-MO),
+.main .section-heroes.homepage-section .ipad .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .macbook-pro .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .imac-pro .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .macos-mojave-preview .headline:lang(zh-MO) {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+	.main .section-heroes.homepage-section .iphone-x .headline:lang(zh-MO),
+	.main .section-heroes.homepage-section .ipad .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .macbook-pro .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .imac-pro .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .macos-mojave-preview .headline:lang(zh-MO) {
+        font-size: 44px;
+        line-height: 1.09091;
+        font-weight: 600;
+        letter-spacing: -.002em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.main .section-heroes.homepage-section .iphone-x .headline:lang(zh-MO),
+	.main .section-heroes.homepage-section .ipad .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .macbook-pro .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .imac-pro .headline:lang(zh-MO) ,
+.main .section-heroes.homepage-section .macos-mojave-preview .headline:lang(zh-MO) {
+        font-size: 32px;
+        line-height: 1.125;
+        font-weight: 600;
+        letter-spacing: .004em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}*/
+
+/* ACC hero > position */
+/*.main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-copy-wrapper .icon::after {
+    top: -1.5px;
+}*/
+
+/* Product-RED */
+/*.main .section-heroes .homepage-section-positions > .homepage-section-item .product-red .violator:lang(zh-MO) {
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .homepage-section-positions > .homepage-section-item .product-red .violator:lang(zh-MO) {
+        letter-spacing: -.01em;
+    }
+}
+
+.main .section-heroes .homepage-section-positions>.homepage-section-item .product-red .links:lang(zh-MO) .order{
+	color: #fff;
+	line-height: 1.49048;
+}*/
+
+/* Global Footer */
+#ac-globalfooter .ac-gf-sosumi li,
+#ac-globalfooter .ac-gf-directory-column-section-title,
+#ac-globalfooter .ac-gf-directory-column-section-list,
+#ac-globalfooter .ac-gf-directory+.ac-gf-footer {
+	font-family: "SF Pro HK", "HanHei TC", "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+#ac-globalfooter .ac-gf-sosumi li,
+#ac-globalfooter .ac-gf-directory-column-section-title {
+    letter-spacing: 0em;
+}
+
+
+
+
+.main .section-fall-launch-products .homepage-section-positions>.homepage-section-item .iphone-xs-preorder-alt .custom-subhead-preorder,
+.main .section-fall-launch-products .homepage-section-positions>.homepage-section-item .iphone-xs-preorder .custom-subhead-preorder{
+	padding-left:0.6em;
+}
+
+@media only screen and (max-width: 735px) { .main .section-fall-launch-products .homepage-section-positions>.homepage-section-item .iphone-xs-preorder-alt .custom-subhead-preorder, .main .section-fall-launch-products .homepage-section-positions>.homepage-section-item .iphone-xs-preorder .custom-subhead-preorder { padding-left: 0; } }
+@media only screen and (max-width: 735px) and (max-device-width: 768px) { .main .section-fall-launch-products .homepage-section-positions>.homepage-section-item .iphone-xs-preorder-alt .custom-subhead-preorder, .main .section-fall-launch-products .homepage-section-positions>.homepage-section-item .iphone-xs-preorder .custom-subhead-preorder { padding-left: 0; } }
+
+
+

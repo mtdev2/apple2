@@ -1,0 +1,340 @@
+/*Web Font 2016-10-22*/
+/*html[lang=zh-CN] .centeralign {
+    padding-left: 0.4em;
+}
+
+html[lang=zh-CN] .centeralignevent {
+    padding-left: 0.6em;
+}
+
+html[lang=zh-CN] .page-home .homepage-headline .font-adjustment-1 {font-size:37px;vertical-align: 1px;}
+html[lang=zh-CN] .page-home .homepage-headline .font-adjustment-2 {font-size:37px;}
+
+@media only screen and (max-width: 1068px) {
+html[lang=zh-CN] .page-home .homepage-headline .font-adjustment-1 {font-size:34px;vertical-align: 1px;}
+html[lang=zh-CN] .page-home .homepage-headline .font-adjustment-2 {font-size:34px;}
+}
+
+@media only screen and (max-width: 735px) {
+html[lang=zh-CN] .page-home .homepage-headline .font-adjustment-1 {font-size:29px;vertical-align: 1px;}
+html[lang=zh-CN] .page-home .homepage-headline .font-adjustment-2 {font-size:29px;}
+}
+
+@media only screen and (max-width: 735px) {
+    nav ul, nav ol {
+      margin: 0;
+    }
+}
+
+.homepage-headline {
+    font-size: 40px;
+    line-height: 1.2;
+}
+
+@media only screen and (max-width: 1068px) {
+    .homepage-headline {
+        font-size: 36px;
+        line-height: 1.2;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .homepage-headline {
+        font-size: 30px;
+        line-height: 1.1;
+    }
+}
+
+#homepage-gallery-iphone .homepage-headline {
+    font-size: 42px;
+    line-height: 1;
+}
+
+@media only screen and (max-width: 1068px) {
+    #homepage-gallery-iphone .homepage-headline {
+        font-size: 38px;
+        line-height: 1;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    #homepage-gallery-iphone .homepage-headline {
+        font-size: 32px;
+        line-height: 1;
+    }
+}
+
+.enhanced-gallery .gallery-item-gift-guide .homepage-headline { font-size: 60px;}
+@media only screen and (max-width: 735px) {.enhanced-gallery .gallery-item-gift-guide .homepage-headline { font-size: 44px; }}
+@media only screen and (max-width: 370px){.enhanced-gallery .gallery-item-gift-guide .homepage-headline { font-size: 35px; }}
+
+.enhanced-gallery .gallery-item-gift-guide span.more {font-size: 22px;}
+@media only screen and (max-width: 370px){.enhanced-gallery .gallery-item-gift-guide span.more {font-size: 20px;}}
+@media only screen and (max-width: 375px){.enhanced-gallery .gallery-item-gift-guide span.more {font-size: 18px;}}
+
+@media only screen and (max-width: 370px){.left{margin-left: 20px;}}
+@media only screen and (max-width: 370px){.enhanced-gallery .gallery-item-gift-guide .homepage-headline {margin-bottom:0px;}}
+
+.left{
+        margin-left: 1em;}
+*/
+/* gallery-item-new-years */
+/*
+html[lang=zh-CN] .beats-offer-banner .table-label{line-height: 1.2;}
+@media only screen and (max-width: 1068px) {
+    html[lang=zh-CN] .beats-offer-banner .table-label {
+        line-height: 1.25;
+    }
+}
+@media only screen and (max-width: 735px) {
+    html[lang=zh-CN] .beats-offer-banner .table-label {
+        line-height: 1.11;
+    }
+}
+
+.enhanced-gallery .gallery-item-new-years .homepage-headline {
+    font-size: 38px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .enhanced-gallery .gallery-item-new-years .homepage-headline {
+        font-size: 36px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .enhanced-gallery .gallery-item-new-years .homepage-headline {
+        font-size: 18px;
+    }
+}
+
+html[lang=zh-CN] .beats-offer-banner .more{font-size: 17px;}
+@media only screen and (max-width: 735px) {
+    html[lang=zh-CN] .beats-offer-banner .more{font-size: 17px;}
+}
+*/
+
+/* center align all */
+html[lang=zh-CN] .centerall { padding-left: 0.4em; }
+
+.main #section-heroes.homepage-section .headline:lang(zh) {
+    letter-spacing: -.005em;
+}
+
+@media only screen and (max-width: 1068px) {
+	.main #section-heroes.homepage-section .headline:lang(zh) {
+    letter-spacing: -.002em;
+}
+}
+
+@media only screen and (max-width: 735px) {
+    .main #section-heroes.homepage-section .headline:lang(zh) {
+    letter-spacing: .004em;
+}
+}
+
+
+html[lang=zh-CN] #homepage-gallery-today .centerall { padding-left: 0.4em; }
+@media only screen and (max-width: 320px) { html[lang=zh-CN] #homepage-gallery-today .centerall { padding-left: 0; } }
+@media only screen and (max-width: 320px) { html[lang=zh-CN] .accessibility .centerall { padding-left: 0; } }
+
+
+.main #section-heroes .homepage-section-positions > .homepage-section-item .iphone-x-preorder .unit-copy-wrapper .preorder-links {
+ min-width: 1px
+}
+
+.main #section-heroes .homepage-section-positions > .homepage-section-item .iphone-x-preorder .unit-copy-wrapper .preorder-links li:first-child {
+    padding-left: 0.5em;
+}
+@media only screen and (max-width: 735px) {
+    .main #section-heroes .homepage-section-positions>.homepage-section-item .iphone-x-preorder .unit-copy-wrapper .preorder-links li:last-child{
+   padding-left: 8px;
+}
+.main #section-heroes .homepage-section-positions > .homepage-section-item .iphone-x-preorder .unit-copy-wrapper .preorder-links li:first-child {
+    padding-left: 0.5em;
+}
+}
+
+/*
+.main #section-heroes.homepage-section .iphone-x .headline:lang(zh-CN),
+.main #section-heroes.homepage-section .iphone-8 .headline:lang(zh-CN) {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+   .main #section-heroes.homepage-section .iphone-x .headline:lang(zh-CN),
+	.main #section-heroes.homepage-section .iphone-8 .headline:lang(zh-CN) {
+        font-size: 44px;
+        line-height: 1.09091;
+        font-weight: 600;
+        letter-spacing: -.002em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+	}
+}
+
+@media only screen and (max-width: 735px) {
+     .main #section-heroes.homepage-section .iphone-x .headline:lang(zh-CN),
+	.main #section-heroes.homepage-section .iphone-8 .headline:lang(zh-CN) {
+        font-size: 32px;
+        line-height: 1.125;
+        font-weight: 600;
+        letter-spacing: .004em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+*/
+.apple-watch-series-3 span.quote-subcredit{color:#111;line-height: 2em;}
+
+@media only screen and (max-width: 735px) {
+    .main #section-promos .homepage-section-positions > .homepage-section-item .education .unit-subheader {
+        width: 220px
+    }
+}
+
+
+.main .section-heroes.homepage-section .iphone-x .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .ipad .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .macbook-pro .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .imac-pro .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .macos-mojave-preview .headline:lang(zh-CN) {
+   font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+@media only screen and (max-width: 1068px) {
+  .main .section-heroes.homepage-section .iphone-x .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .ipad .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .macbook-pro .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .imac-pro .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .macos-mojave-preview .headline:lang(zh-CN) {
+       font-size: 44px;
+        line-height: 1.09091;
+        font-weight: 600;
+        letter-spacing: -.002em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+	}
+}
+
+@media only screen and (max-width: 735px) {
+   .main .section-heroes.homepage-section .iphone-x .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .ipad .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .macbook-pro .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .imac-pro .headline:lang(zh-CN) ,
+.main .section-heroes.homepage-section .macos-mojave-preview .headline:lang(zh-CN) {
+        font-size: 32px;
+        line-height: 1.125;
+        font-weight: 600;
+        letter-spacing: .004em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+@media only screen and (max-width: 1068px) {html[lang=zh-CN] br.show-for-medium {display: block;}}
+@media only screen and (max-width: 735px) {html[lang=zh-CN] br.hide-for-small {display: none}}
+@media only screen and (max-width: 320px) {html[lang=zh-CN] br.show-for-xsmall {display: block;}}
+
+.center-medium-xsmall{
+	padding-left: 0.55em;
+}
+@media only screen and (max-width: 1068px) {
+	.center-medium-xsmall{
+	padding-left: 0.8em;
+	}
+}
+@media only screen and (max-width: 735px) {
+	.center-medium-xsmall{
+	padding-left: 0.4em;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.center-medium-xsmall{
+	padding-left: 0.8em;
+	}
+}
+.center-medium-xsmall-2{
+    padding-left: 0;
+}
+@media only screen and (max-width: 1068px) {
+    .center-medium-xsmall-2{
+    padding-left: 0.8em;
+    }
+}
+@media only screen and (max-width: 735px) {
+    .center-medium-xsmall-2{
+    padding-left: 0;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .center-medium-xsmall-2{
+    padding-left: 0.8em;
+    }
+}
+
+
+/* red */
+
+.main .section-heroes.homepage-section .product-red .headline:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+		color:#fff;
+		 margin: 10px 0 10px;
+ }
+
+.main .section-heroes .unit-copy-wrapper {
+    text-align: center;
+    padding-top: 47px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main .section-heroes .unit-copy-wrapper {
+        padding-top: 70px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main .section-heroes .unit-copy-wrapper {
+        padding-top: 27px
+    }
+}
+
+.main .section-heroes.homepage-section .cta.icon-chevronright::after{
+    top: -1.5px;
+}
+/*acc*/
+/* ACC hero > position */
+.main .section-custom-heroes .homepage-section-positions > .homepage-section-item .accessibility .unit-copy-wrapper .icon::after {
+    top: -1.5px;
+}
+
+/* Global Footer */
+/* Global Footer */
+#ac-globalfooter .ac-gf-sosumi li,
+#ac-globalfooter .ac-gf-directory-column-section-title,
+#ac-globalfooter .ac-gf-directory-column-section-list,
+#ac-globalfooter .ac-gf-directory+.ac-gf-footer {
+	font-family: "SF Pro SC", "HanHei SC", "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+#ac-globalfooter .ac-gf-sosumi li,
+#ac-globalfooter .ac-gf-directory-column-section-title {
+    letter-spacing: 0em;
+}
+
+.main [data-module-template="give-back"] .subhead.subhead1 {
+    max-width: 35em
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="give-back"] .subhead.subhead1 {
+        max-width: 24.5em
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="give-back"] .subhead.subhead1 {
+        max-width: 13em
+    }
+}

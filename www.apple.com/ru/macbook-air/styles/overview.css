@@ -1,0 +1,297 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+.section-macos .video-container .image-endframe {
+	background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_large_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_medium.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_medium_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_small.jpg")
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_small_2x.jpg")
+	}
+}
+
+.section-macos .figure-wrapper .image-iphone {
+	background-image: url("/ru/macbook-air/images/overview/macos_iphone__c662gzwqkioi_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-macos .figure-wrapper .image-iphone {
+		background-image: url("/ru/macbook-air/images/overview/macos_iphone__c662gzwqkioi_large_2x.png")
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-macos .figure-wrapper .image-iphone {
+		background-image: url("/ru/macbook-air/images/overview/macos_iphone__c662gzwqkioi_medium.png")
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-macos .figure-wrapper .image-iphone {
+		background-image: url("/ru/macbook-air/images/overview/macos_iphone__c662gzwqkioi_medium_2x.png")
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-macos .figure-wrapper .image-iphone {
+		background-image: url("/ru/macbook-air/images/overview/macos_iphone__c662gzwqkioi_small.png")
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-macos .figure-wrapper .image-iphone {
+		background-image: url("/ru/macbook-air/images/overview/macos_iphone__c662gzwqkioi_small_2x.png")
+	}
+}
+
+.section-macos .subsection-continuity .image-messages {
+	background-image: url("/ru/macbook-air/images/overview/messages__cmaxxxi74c2u_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-macos .subsection-continuity .image-messages {
+		background-image: url("/ru/macbook-air/images/overview/messages__cmaxxxi74c2u_large_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-macos .subsection-continuity .image-messages {
+		background-image: url("/ru/macbook-air/images/overview/messages__cmaxxxi74c2u_medium.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-macos .subsection-continuity .image-messages {
+		background-image: url("/ru/macbook-air/images/overview/messages__cmaxxxi74c2u_medium_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-macos .subsection-continuity .image-messages {
+		background-image: url("/ru/macbook-air/images/overview/messages__cmaxxxi74c2u_small.jpg")
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-macos .subsection-continuity .image-messages {
+		background-image: url("/ru/macbook-air/images/overview/messages__cmaxxxi74c2u_small_2x.jpg")
+	}
+}
+
+.section-macos .icon-calendar {
+	background-image: url("/ru/macbook-air/images/overview/icon_calendar__c8fy3r2wopoy_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-macos .icon-calendar {
+		background-image: url("/ru/macbook-air/images/overview/icon_calendar__c8fy3r2wopoy_large_2x.png")
+	}
+}
+
+.section-macos .video-container .image-endframe {
+	background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_large_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_medium.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_medium_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_small.jpg")
+	}
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+	.section-macos .video-container .image-endframe {
+		background-image: url("/ru/macbook-air/images/overview/macos_endframe__b7x2ikus2rde_small_2x.jpg")
+	}
+}
+
+.section-keyboard .icon-larger {
+	background-image: url("/ru/macbook-air/images/overview/trackpad__fseybxb7lkuy_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-keyboard .icon-larger {
+		background-image: url("/ru/macbook-air/images/overview/trackpad__fseybxb7lkuy_large_2x.png")
+	}
+}
+
+.section-materials .icon-aluminum {
+	background-image: url("/ru/macbook-air/images/overview/materials_element__f5h9esszvpe2_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-materials .icon-aluminum {
+		background-image: url("/ru/macbook-air/images/overview/materials_element__f5h9esszvpe2_large_2x.png")
+	}
+}
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.router-alt-divider {
+	background-color: #d6d6d6;
+	height: 1px;
+	overflow: hidden;
+	border: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 980px
+}
+
+@media only screen and (min-width: 1442px) {
+	.router-alt-divider {
+		margin-left: auto;
+		margin-right: auto;
+		width: 980px
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.router-alt-divider {
+		margin-left: auto;
+		margin-right: auto;
+		width: 692px
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.router-alt-divider {
+		margin-left: auto;
+		margin-right: auto;
+		width: 87.5%
+	}
+}
+
+.section-macos .figure-wrapper .has-ended .image-iphone {
+	opacity: 1;
+	-webkit-transform: translateX(0);
+	transform: translateX(0)
+}
+
+.badge-content-speakers-camera {
+	margin-top: .32em;
+}
+
+.badge-content-materials {
+	margin-top: .18em;
+}
+
+.badge .badge-content .badge-caption.badge-caption-no-right-padding {
+	padding-right: 0;
+}
+
+.badge-unit-before {
+	margin-top: -10px;
+	position: relative;
+	display: block;
+}
+
+.section-speakers-camera .badge-content .badge-value {
+    margin: -4px 0 -4px;
+}
+
+@media only screen and (max-width: 735px) {
+    .section-speakers-camera .badge-content .badge-value {
+        margin: -4px 0 -5px
+    }
+}
+
+.section-materials .badge-content .badge-value {
+    margin: -4px 0 2px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-materials .badge-content .badge-value {
+        margin: -4px 0 4px;
+        min-height: 60px
+    }
+}
+
+.typography-headline-elevated {
+    font-size: 50px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .typography-headline-elevated {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .typography-headline-elevated {
+        font-size: 39px;
+    }
+}
+
+br.xsmall {
+    display:none
+}
+
+@media only screen and (max-width: 1068px) {
+    br.xsmall {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    br.xsmall {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    br.xsmall {
+        display:block
+    }
+}
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/

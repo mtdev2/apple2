@@ -1,0 +1,37 @@
+@font-face {
+	font-family:'HanHei TC';
+	font-style:normal;
+	font-weight:300;
+	src:local('☺︎'), url("/wss/fonts/HanHei-TC/v2/HanHei-TC-thin.woff") format("woff"), url("/wss/fonts/HanHei-TC/v2/HanHei-TC-thin.ttf") format("truetype");
+	/* Copyright © 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'HanHei TC 300';
+	src:url("/wss/fonts/HanHei-TC/v2/HanHei-TC-thin.eot");
+	/* Copyright © 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'HanHei TC';
+	font-style:normal;
+	font-weight:600;
+	src:local('☺︎'), url("/wss/fonts/HanHei-TC/v2/HanHei-TC-semibold.woff") format("woff"), url("/wss/fonts/HanHei-TC/v2/HanHei-TC-semibold.ttf") format("truetype");
+	/* Copyright © 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'HanHei TC 600';
+	src:url("/wss/fonts/HanHei-TC/v2/HanHei-TC-semibold.eot");
+	/* Copyright © 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'HanHei TC';
+	font-style:normal;
+	font-weight:400;
+	src:url("/wss/fonts/HanHei-TC/v2/HanHei-TC-text.eot");
+	src:local('☺︎'), url("/wss/fonts/HanHei-TC/v2/HanHei-TC-text.woff") format("woff"), url("/wss/fonts/HanHei-TC/v2/HanHei-TC-text.ttf") format("truetype");
+	/* Copyright © 2015 Apple Inc. All rights reserved. */
+}
+

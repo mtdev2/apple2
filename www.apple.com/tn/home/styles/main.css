@@ -1,0 +1,87 @@
+/*------------------------------------*\
+   HERO CSS
+\*------------------------------------*/
+
+
+/* HERO 1 IPHONE-XR */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END HERO 1 IPHONE-XR */
+
+
+
+
+
+/* HERO 2 IPHONE-XS */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+@media only screen and (min-width: 1069px) {
+  .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-image {
+    bottom: -60px;
+  }
+}
+
+/* END HERO 2 IPHONE-XS */
+
+
+
+
+
+/* PROMO 1 IPAD-PRO */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 1 IPAD-PRO */
+
+
+
+
+/* PROMO 2 MACBOOK-AIR */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 2 MACBOOK-AIR */
+
+
+
+
+/* PROMO 3 MAC MINI */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 3 MAC MINI */
+
+
+
+
+/* PROMO 4 AIRPODS */
+
+/* SCREENS */
+
+/* LOCAL FIXES */
+
+/* END PROMO 4 AIRPODS */
+
+
+
+
+
+
+
+
+
+/*------------------------------------*\
+  END HERO CSS
+\*------------------------------------*/

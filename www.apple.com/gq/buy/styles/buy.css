@@ -1,0 +1,124 @@
+@import url('/euro/global/styles/blackout.css');
+
+html, body { background-color:#f5f6f7; }
+
+/* general
+----------------------------- */
+
+#content h2 { padding-top:1em; margin-top:3px; margin-bottom:6px; }
+ul.logos {margin-bottom: 0px;}
+ul.logos { margin-top:10px; margin-bottom:4x; }
+#buymacipod { width:275px; margin-left: 25px; }
+#buymacipod h4 { color: #888888; margin-bottom: 15px; margin-top: 10px; }
+#buymacipod ul.logos { margin-bottom:8px; }
+#contacts { margin:18px auto; width:980px;	}
+
+
+/* productnav
+----------------------------- */
+#main #productheader { border:0; padding-bottom: 0.5em; _padding-bottom:0; }
+#main #productheader h1 { width: 133px; margin: 3px 0 5px 8px; }
+#main #productheader h1 a { text-indent: 0; height:22px; }
+#productheader h1 a { width:275px; height:32px; background:url(/euro/cemea_fr/buy/images/product_title20090909.png) no-repeat; }
+
+/* content
+----------------------------- */
+
+
+#content { height: 436px; background: #ffffff; }
+
+img#products { margin: 20px 0 0 -20px; _margin: 0; _position: relative; _top: 20px; _left: -20px; }
+
+
+
+#content #reseller a#mylocation { font-size:11px; }
+#content #reseller #goBuy { display: inline; float: right; height: 20px; margin-right: -2px; margin-top: 9px; width: 34px; }
+#content #reseller #viaProduct { width:200px; margin-top:8px; }
+
+#content #reseller img.mac { margin: 20px 0px 15px 0px; }
+#content #reseller ul.logos li { display: inline-block; vertical-align: top; padding-left:20px; }
+#content #reseller { margin-top:45px; width:364px; _margin-right:80px; }
+
+
+#content img.carrier { display:block; padding-bottom:5px; padding-top:15px; }
+#content img.carrier.top { padding-top:0px; }
+#content img.carrier.tmobile { padding-bottom:0px; }
+
+#content h1, h2 { margin-bottom: 5px; }
+
+
+
+
+#content #reseller #goBuy { *margin-top: -30px; *width: 34px; }
+.search-wrapper input.prettysearch { *padding-left: 10px; }
+
+
+form#poiForm { width: 240px; height:200px; margin-top: 0px; margin-left: 0px; margin: 8px 20px 12px 0; _padding-left: 20px; *padding-left: 20px; _margin-left: 0px; *margin-left: 0px; }
+form#poiForm select { width: 200px; font-size: 11px; position: relative; margin: 10px 0;}
+
+input.prettysearch {
+    background-size: 20px 20px, 12px 20px, 190px 20px;
+    background-position: 0 0, 100% 1%, 48% 0;
+    height: 20px;
+    padding:﻿3px 10px 1px 20px;
+    width: 210px;
+}
+input::-webkit-textfield-decoration-container {
+	display: block;
+    margin-left: 5px
+}
+input::-webkit-search-results-decoration {
+	display: none;
+}
+
+ @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none){  
+	input.prettysearch {
+		background-size: 20px 20px, 12px 20px, 180px 20px;
+		padding:﻿0px 10px 1px 20px;
+		width: 170px;
+	}
+	.left,
+	.right,
+	.reset{
+		display: none;
+	}
+	.search-wrapper input.prettysearch {
+		margin-left: 0;
+    }
+    .left,.flushleft {
+		display: block;
+	}
+}
+
+@media only screen and (max-device-width: 768px) {
+ 	input.prettysearch { padding: 10px 10px 9px 20px; border: none;}
+}
+
+
+
+@media only screen and (max-device-width: 768px) {
+    #content input#resellersearch.reseller.prettysearch {
+        padding: 10px 10px 10px 20px;
+        background-position: 0 0, 100% 0, 50% 0;
+        width: 200px;
+    }
+}
+
+/* FF fixes */
+@-moz-document url-prefix(){
+	.search-wrapper input.prettysearch{
+	margin-left: 0;
+	height: 16px;
+	}
+	input.prettysearch {
+    background-size: 20px 20px, 12px 20px, 180px 20px;
+    background-position: 0 0, 100% 1%, 48% 0;
+    height: 20px;
+    padding:﻿1px 10px 1px 20px;
+    width: 170px;
+}
+}
+/* end FF fixes */
+
+
+

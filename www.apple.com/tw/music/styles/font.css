@@ -1,0 +1,7 @@
+/*web-font 2016-12-28*/
+.inner .subsection-headline:lang(zh-TW)
+ {
+    font-family: "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+sup.big_size { font-size: 1em; bottom: 0 }

@@ -1,0 +1,7 @@
+.section-macos .figure-wrapper .image-iphone {
+    -webkit-transition: none;
+    transition: none;
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0)
+}

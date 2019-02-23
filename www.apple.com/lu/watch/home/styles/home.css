@@ -1,0 +1,250 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+.image-hero-series-four { background-image:url("/euro/watch/home/h/screens_alt/images/hero_large.jpg") }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-hero-series-four { background-image:url("/euro/watch/home/h/screens_alt/images/hero_large_2x.jpg") }
+}
+@media only screen and (max-width: 1068px) {
+  .image-hero-series-four { background-image:url("/euro/watch/home/h/screens_alt/images/hero_medium.jpg") }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-hero-series-four { background-image:url("/euro/watch/home/h/screens_alt/images/hero_medium_2x.jpg") }
+}
+@media only screen and (max-width: 735px) {
+  .image-hero-series-four { background-image:url("/euro/watch/home/h/screens_alt/images/hero_small.jpg") }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-hero-series-four { background-image:url("/euro/watch/home/h/screens_alt/images/hero_small_2x.jpg") }
+}
+
+.series-4-logo { background-image:url("/euro/watch/home/h/screens_alt/images/watch_series_4_logo_large.png"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .series-4-logo { background-image:url("/euro/watch/home/h/screens_alt/images/watch_series_4_logo_large_2x.png"); }
+}
+@media only screen and (max-width: 1068px) {
+  .series-4-logo { background-image:url("/euro/watch/home/h/screens_alt/images/watch_series_4_logo_medium.png"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .series-4-logo { background-image:url("/euro/watch/home/h/screens_alt/images/watch_series_4_logo_medium_2x.png"); }
+}
+@media only screen and (max-width: 735px) {
+  .series-4-logo { background-image:url("/euro/watch/home/h/screens_alt/images/watch_series_4_logo_small.png"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .series-4-logo { background-image:url("/euro/watch/home/h/screens_alt/images/watch_series_4_logo_small_2x.png"); }
+}
+.image-logo-nike { background-image:url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_logo_large.png"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-logo-nike { background-image:url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_logo_large_2x.png"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-logo-nike { background-image:url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_logo_medium.png"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-logo-nike { background-image:url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_logo_medium_2x.png"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-logo-nike { background-image:url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_logo_small.png"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-logo-nike { background-image:url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_logo_small_2x.png"); }
+}
+
+.section-holiday-2018 .pane-holiday {
+  background-image: url("/euro/watch/home/h/screens_alt/images/holiday/2018/banner_holiday_geo_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-holiday-2018 .pane-holiday {
+      background-image: url("/euro/watch/home/h/screens_alt/images/holiday/2018/banner_holiday_geo_large_2x.jpg")
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-holiday-2018 .pane-holiday {
+      background-image: url("/euro/watch/home/h/screens_alt/images/holiday/2018/banner_holiday_geo_medium.jpg")
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-holiday-2018 .pane-holiday {
+      background-image: url("/euro/watch/home/h/screens_alt/images/holiday/2018/banner_holiday_geo_medium_2x.jpg")
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-holiday-2018 .pane-holiday {
+      background-image: url("/euro/watch/home/h/screens_alt/images/holiday/2018/banner_holiday_geo_small.jpg")
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-holiday-2018 .pane-holiday {
+      background-image: url("/euro/watch/home/h/screens_alt/images/holiday/2018/banner_holiday_geo_small_2x.jpg")
+  }
+}
+.section-product-red .pane-image .pane-content .image-product-red {
+    background-image: url("/euro/watch/home/h/screens_alt/images/product_red/banner_watch_sport_loop_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-product-red .pane-image .pane-content .image-product-red {
+        background-image: url("/euro/watch/home/h/screens_alt/images/product_red/banner_watch_sport_loop_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-product-red .pane-image .pane-content .image-product-red {
+        background-image: url("/euro/watch/home/h/screens_alt/images/product_red/banner_watch_sport_loop_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-product-red .pane-image .pane-content .image-product-red {
+        background-image: url("/euro/watch/home/h/screens_alt/images/product_red/banner_watch_sport_loop_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-product-red .pane-image .pane-content .image-product-red {
+        background-image: url("/euro/watch/home/h/screens_alt/images/product_red/banner_watch_sport_loop_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-product-red .pane-image .pane-content .image-product-red {
+        background-image: url("/euro/watch/home/h/screens_alt/images/product_red/banner_watch_sport_loop_small_2x.jpg")
+    }
+}
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.section-holiday-2018 .pane-holiday .typography-headline {
+	max-width: 320px;
+}
+
+.section-models .availability-links {
+    font-size: 21px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-models .availability-links {
+  	  font-size: 17px;
+
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-models .availability-links {
+        font-size: 17px;
+    }
+}
+
+
+@media only screen and (max-width: 735px) {
+ .ase-ribbon {
+  height:189px;
+ }
+}
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 
+
+
+/*------------------------------------*\
+   ALT
+\*------------------------------------*/
+
+
+.pane-nike .pane-content {
+	padding-bottom: 0;
+}
+
+@media only screen and (max-width: 1068px) {
+	.pane-nike .pane-content {
+		
+	}	
+}
+
+@media only screen and (max-width: 735px) {
+	
+	@media only screen and (max-width: 735px) {
+		.pane-nike .pane-content .image-block {
+			padding: 54px 0 43px
+		}
+	}
+	
+	.pane-nike .pane-content {
+		padding-bottom: 55px;
+	}
+}
+
+.image-nike {
+    width: 357px;
+    height: 500px;
+    background-size: 357px 500px;
+    background-repeat: no-repeat;
+    background-image: url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-nike {
+        background-image: url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-nike {
+        width: 267px;
+        height: 400px;
+        background-size: 267px 400px;
+        background-repeat: no-repeat;
+        background-image: url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-nike {
+        background-image: url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-nike {
+        width: 184px;
+        height: 313px;
+        background-size: 184px 313px;
+        background-repeat: no-repeat;
+        background-image: url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-nike {
+        background-image: url("/euro/watch/home/h/screens_alt/images/nike_watch_series_4_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-holiday-2018 .pane-flex .text-block {
+        padding: 34px 10px 43px;
+    }
+}
+
+
+/*------------------------------------*\
+   END ALT
+\*------------------------------------*/ 

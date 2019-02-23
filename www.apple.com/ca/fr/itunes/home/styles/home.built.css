@@ -1,0 +1,181 @@
+.page-overview .section-hero .showcase-hero {
+    background-image: url("/ca/fr/itunes/home/images/itunes_hero_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("/ca/fr/itunes/home/images/itunes_hero_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("/ca/fr/itunes/home/images/itunes_hero_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("/ca/fr/itunes/home/images/itunes_hero_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("/ca/fr/itunes/home/images/itunes_hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("/ca/fr/itunes/home/images/itunes_hero_small_2x.jpg")
+    }
+}
+
+.page-overview .section-music .apple-music-hero {
+    background-image: url("/ca/fr/itunes/home/images/apple_music_hero_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("/ca/fr/itunes/home/images/apple_music_hero_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("/ca/fr/itunes/home/images/apple_music_hero_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("/ca/fr/itunes/home/images/apple_music_hero_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("/ca/fr/itunes/home/images/apple_music_hero_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("/ca/fr/itunes/home/images/apple_music_hero_small_2x.jpg")
+    }
+}
+
+.page-overview .section-tv .tv-hero {
+    background-image: url("/ca/fr/itunes/home/images/movie_tv_collection_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("/ca/fr/itunes/home/images/movie_tv_collection_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("/ca/fr/itunes/home/images/movie_tv_collection_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("/ca/fr/itunes/home/images/movie_tv_collection_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("/ca/fr/itunes/home/images/movie_tv_collection_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("/ca/fr/itunes/home/images/movie_tv_collection_small_2x.jpg")
+    }
+}
+
+.page-overview .section-universal {
+    background-image: url("/ca/fr/itunes/home/images/universe_entertainment_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-universal {
+        background-image: url("/ca/fr/itunes/home/images/universe_entertainment_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-universal {
+        background-image: url("/ca/fr/itunes/home/images/universe_entertainment_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-universal {
+        background-image: url("/ca/fr/itunes/home/images/universe_entertainment_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-universal {
+        background-image: url("/ca/fr/itunes/home/images/universe_entertainment_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-universal {
+        background-image: url("/ca/fr/itunes/home/images/universe_entertainment_small_2x.jpg")
+    }
+}
+
+
+
+/* Gift Card Geo Alt */
+
+.page-overview .section-gifts .gifts-hero.fall-18 {
+    width: 401px;
+    height: 290px;
+    background-size: 401px 290px;
+    background-image: url("/ca/fr/itunes/home/images/gift_cards_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-gifts .gifts-hero.fall-18 {
+        background-image: url("/ca/fr/itunes/home/images/gift_cards_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-gifts .gifts-hero.fall-18 {
+        width: 281px;
+        height: 203px;
+        background-size: 281px 203px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/itunes/home/images/gift_cards_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-gifts .gifts-hero.fall-18 {
+        background-image: url("/ca/fr/itunes/home/images/gift_cards_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-gifts .gifts-hero.fall-18 {
+        width: 281px;
+        height: 203px;
+        background-size: 281px 203px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/itunes/home/images/gift_cards_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-gifts .gifts-hero.fall-18 {
+        background-image: url("/ca/fr/itunes/home/images/gift_cards_small_2x.jpg")
+    }
+}
+
+
+
+@media only screen and (max-width: 735px) and (max-width: 735px) {
+    .page-overview .section-gifts .gifts-hero.fall-18 {
+        left: 50%;
+        margin-left: -156.5px;
+        position: relative
+    }
+}
+
+.footer-wrapper {
+	background: #FFFFFF;
+}
+

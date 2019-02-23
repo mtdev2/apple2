@@ -1,0 +1,2134 @@
+/*Overview*/
+
+.page-overview .image-hero {
+    background-size: 2560px 1325px;
+    background-image: url("/ca/fr/privacy/images/overview/hero_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-hero {
+        background-image: url("/ca/fr/privacy/images/overview/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-hero {
+        background-size: 1068px 1345px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-hero {
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-hero {
+        background-size: 736px 1125px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-hero {
+        background-image: url("/ca/fr/privacy/images/overview/hero_small_2x.jpg")
+    }
+}
+
+.page-overview .image-privacy-information-sharing {
+    background-size: 306px 504px;
+    background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-privacy-information-sharing {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-privacy-information-sharing {
+        background-size: 245px 404px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-information-sharing {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-privacy-information-sharing {
+        background-size: 233px 384px; 
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-information-sharing {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_small_2x.jpg")
+    }
+}
+
+.page-overview .image-privacy-location-services {
+    background-size: 806px 1028px;
+    background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-privacy-location-services {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-privacy-location-services {
+        background-size: 639px 808px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-location-services {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-privacy-location-services {
+        background-size: 671px 855px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-location-services {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_small_2x.jpg")
+    }
+}
+
+.page-overview .image-privacy-overview-iphone-hw {
+    background-size: 517px 808px;
+    background-image: url("/ca/fr/privacy/images/overview/privacy_overview_iphone_hw_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-privacy-overview-iphone-hw {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_overview_iphone_hw_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-privacy-overview-iphone-hw {
+        background-size: 400px 625px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_overview_iphone_hw_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-overview-iphone-hw {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_overview_iphone_hw_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-privacy-overview-iphone-hw {
+        background-size: 393px 614px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_overview_iphone_hw_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-overview-iphone-hw {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_overview_iphone_hw_small_2x.png")
+    }
+}
+
+.page-overview .image-swatch {
+    background-size: 1px 1px;
+    background-image: url("/ca/fr/privacy/images/overview/swatch_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-swatch {
+        background-image: url("/ca/fr/privacy/images/overview/swatch_large_2x.jpg")
+    }
+}
+
+.page-overview .section-hero {
+    background-size: 1px 1px;
+    background-image: url("/ca/fr/privacy/images/overview/swatch_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-hero {
+        background-image: url("/ca/fr/privacy/images/overview/swatch_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero {
+        background-image: none;
+        background-color: #fafafa
+    }
+}
+
+.page-overview .section-hero .hero-image-container--static {
+    background-size: 2560px 1325px;
+    background-image: url("/ca/fr/privacy/images/overview/hero_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--static {
+        background-image: url("/ca/fr/privacy/images/overview/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .hero-image-container--static {
+        background-size: 1068px 1345px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--static {
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-hero .hero-image-container--static {
+        background-size: 736px 1125px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--static {
+        background-image: url("/ca/fr/privacy/images/overview/hero_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .hero-image-container--static {
+        background: none;
+        display: none
+    }
+}
+
+.page-overview .section-hero .hero-image-container--animated-medium {
+    background-image: none;
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background-size: 2560px 1325px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_large.jpg");
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background-image: url("/ca/fr/privacy/images/overview/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background-size: 1068px 1345px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 735px) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background-size: 736px 1125px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background-image: url("/ca/fr/privacy/images/overview/hero_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 550px) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background: none
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 735px) {
+    .page-overview .section-hero .hero-image-container--animated-medium {
+        background: none
+    }
+}
+
+.page-overview .section-hero .hero-image-container--animated-small {
+    display: none
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 550px) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-size: 2560px 1325px;   
+        background-image: url("/ca/fr/privacy/images/overview/hero_large.jpg");
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 550px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (max-height: 550px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (max-height: 550px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-image: url("/ca/fr/privacy/images/overview/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 1068px) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-size: 1068px 1345px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 735px) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-size: 736px 1125px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (max-height: 550px) and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-image: url("/ca/fr/privacy/images/overview/hero_small_2x.jpg")
+    }
+}
+
+
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-size: 2560px 1325px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_large.jpg");
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-image: url("/ca/fr/privacy/images/overview/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 1068px) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-size: 1068px 1345px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-image: url("/ca/fr/privacy/images/overview/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 735px) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-size: 736px 1125px;
+        background-image: url("/ca/fr/privacy/images/overview/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .hero-image-container--animated-small {
+        background-image: url("/ca/fr/privacy/images/overview/hero_small_2x.jpg")
+    }
+}
+
+.page-overview .image-apple-pay {
+    background-size: 282px 610px;
+    background-image: url("/ca/fr/privacy/images/overview/apple_pay_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-apple-pay {
+        background-image: url("/ca/fr/privacy/images/overview/apple_pay_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-apple-pay {
+        background-size: 219px 474px; 
+        background-image: url("/ca/fr/privacy/images/overview/apple_pay_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-apple-pay {
+        background-image: url("/ca/fr/privacy/images/overview/apple_pay_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-apple-pay {
+        background-size: 212px 459px;
+        background-image: url("/ca/fr/privacy/images/overview/apple_pay_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-apple-pay {
+        background-image: url("/ca/fr/privacy/images/overview/apple_pay_small_2x.jpg")
+    }
+}
+
+.page-overview .image-privacy-location-services {
+    background-size: 806px 1028px;
+    background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-privacy-location-services {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-privacy-location-services {
+        background-size: 639px 808px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-location-services {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-privacy-location-services {
+        background-size: 671px 855px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-location-services {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_location_services_small_2x.jpg")
+    }
+}
+
+.page-overview .image-privacy-information-sharing {
+    background-size: 306px 504px;
+    background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-privacy-information-sharing {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_large_2x.jpg")}
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-privacy-information-sharing {
+        background-size: 245px 404px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-information-sharing {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-privacy-information-sharing {
+        background-size: 233px 384px;
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-privacy-information-sharing {
+        background-image: url("/ca/fr/privacy/images/overview/privacy_information_sharing_small_2x.jpg")
+    }
+}
+
+.page-overview .image-data-protected {
+    background-size: 282px 610px;
+    background-image: url("/ca/fr/privacy/images/overview/data_protected_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-data-protected {
+        background-image: url("/ca/fr/privacy/images/overview/data_protected_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-data-protected {
+        background-size: 219px 474px;
+        background-image: url("/ca/fr/privacy/images/overview/data_protected_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-data-protected {
+        background-image: url("/ca/fr/privacy/images/overview/data_protected_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-data-protected {
+        background-size: 212px 459px;
+        background-image: url("/ca/fr/privacy/images/overview/data_protected_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-data-protected {
+        background-image: url("/ca/fr/privacy/images/overview/data_protected_small_2x.jpg")
+    }
+}
+
+.page-overview .image-device-access {
+    background-size: 282px 610px;
+    background-image: url("/ca/fr/privacy/images/overview/device_access_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-device-access {
+        background-image: url("/ca/fr/privacy/images/overview/device_access_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-device-access {
+        background-size: 219px 474px;
+        background-image: url("/ca/fr/privacy/images/overview/device_access_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-device-access {
+        background-image: url("/ca/fr/privacy/images/overview/device_access_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-device-access {
+        background-size: 212px 459px;
+        background-image: url("/ca/fr/privacy/images/overview/device_access_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-device-access {
+        background-image: url("/ca/fr/privacy/images/overview/device_access_small_2x.jpg")
+    }
+}
+
+.page-overview .image-apps {
+    background-size: 282px 610px;
+    background-image: url("/ca/fr/privacy/images/overview/apps_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .image-apps {
+        background-image: url("/ca/fr/privacy/images/overview/apps_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .image-apps {
+        background-size: 219px 474px;
+        background-image: url("/ca/fr/privacy/images/overview/apps_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .image-apps {
+        background-image: url("/ca/fr/privacy/images/overview/apps_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .image-apps {
+        background-size: 212px 459px;
+        background-image: url("/ca/fr/privacy/images/overview/apps_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .image-apps {
+        background-image: url("/ca/fr/privacy/images/overview/apps_small_2x.jpg")
+    }
+}
+
+/*Our Approach*/
+
+.page-approach-to-privacy .approach-advertising {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_advertising_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-advertising {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_advertising_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-advertising {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_advertising_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-advertising {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_advertising_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-advertising {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_advertising_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-advertising {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_advertising_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-apple_pay {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apple_pay_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-apple_pay {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apple_pay_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-apple_pay {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apple_pay_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-apple_pay {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apple_pay_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-apple_pay {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apple_pay_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-apple_pay {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apple_pay_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-apps_resize {
+    background-size: 702px 527px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apps_resize_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-apps_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apps_resize_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-apps_resize {
+        background-size: 548px 410px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apps_resize_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-apps_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apps_resize_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-apps_resize {
+        background-size: 532px 402px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apps_resize_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-apps_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_apps_resize_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-carplay {
+    background-size: 626px 333px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_carplay_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-carplay {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_carplay_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-carplay {
+        background-size: 520px 229px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_carplay_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-carplay {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_carplay_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-carplay {
+        background-size: 694px 204px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_carplay_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-carplay {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_carplay_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-cloudkit {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_cloudkit_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-cloudkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_cloudkit_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-cloudkit {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_cloudkit_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-cloudkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_cloudkit_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-cloudkit {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_cloudkit_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-cloudkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_cloudkit_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-devicecheck {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_devicecheck_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-devicecheck {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_devicecheck_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-devicecheck {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_devicecheck_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-devicecheck {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_devicecheck_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-devicecheck {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_devicecheck_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-devicecheck {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_devicecheck_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-diagnostics {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_diagnostics_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-diagnostics {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_diagnostics_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-diagnostics {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_diagnostics_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-diagnostics {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_diagnostics_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-diagnostics {
+        background-size: 212px 458px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_diagnostics_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-diagnostics {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_diagnostics_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-education_resize {
+    background-size: 702px 527px;  
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_education_resize_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-education_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_education_resize_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-education_resize {
+        background-size: 548px 410px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_education_resize_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-education_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_education_resize_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-education_resize {
+        background-size: 532px 402px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_education_resize_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-education_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_education_resize_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-encryption {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_encryption_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-encryption {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_encryption_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-encryption { 
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_encryption_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-encryption {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_encryption_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-encryption { 
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_encryption_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-encryption {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_encryption_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-facetime { 
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_facetime_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-facetime {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_facetime_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-facetime { 
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_facetime_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-facetime {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_facetime_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-facetime {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_facetime_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-facetime {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_facetime_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-health_and_fitness {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_and_fitness_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-health_and_fitness {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_and_fitness_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-health_and_fitness {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_and_fitness_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-health_and_fitness {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_and_fitness_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-health_and_fitness {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_and_fitness_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-health_and_fitness {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_and_fitness_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-health_fitness {
+    background-size: 152px 185px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_fitness_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-health_fitness {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_fitness_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-health_fitness {
+        background-size: 121px 147px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_fitness_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-health_fitness {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_fitness_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-health_fitness {         
+        background-size: 116px 141px;    
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_fitness_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-health_fitness {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_health_fitness_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-healthkit {
+    background-size: 279px 604px;  
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_healthkit_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-healthkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_healthkit_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-healthkit {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_healthkit_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-healthkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_healthkit_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-healthkit {
+        background-size: 212px 458px;  
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_healthkit_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-healthkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_healthkit_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-homekit {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_homekit_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-homekit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_homekit_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-homekit {
+        background-size: 220px 475px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_homekit_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-homekit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_homekit_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-homekit { 
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_homekit_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-homekit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_homekit_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-icloud_resize {
+    background-size: 702px 527px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_icloud_resize_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-icloud_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_icloud_resize_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-icloud_resize {
+        background-size: 548px 410px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_icloud_resize_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-icloud_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_icloud_resize_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-icloud_resize {
+        background-size: 532px 402px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_icloud_resize_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-icloud_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_icloud_resize_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-machine {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_machine_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-machine {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_machine_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-machine {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_machine_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-machine {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_machine_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-machine {
+        background-size: 212px 458px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_machine_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-machine {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_machine_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-maps {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_maps_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-maps {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_maps_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-maps {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_maps_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-maps {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_maps_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-maps {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_maps_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-maps {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_maps_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-music {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_music_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-music {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_music_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-music {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_music_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-music {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_music_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-music {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_music_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-music {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_music_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-news {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_news_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-news {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_news_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-news {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_news_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-news {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_news_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-news {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_news_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-news {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_news_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-photos_resize {
+    background-size: 702px 527px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_photos_resize_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-photos_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_photos_resize_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-photos_resize {
+        background-size: 548px 410px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_photos_resize_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-photos_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_photos_resize_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-photos_resize { 
+        background-size: 532px 402px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_photos_resize_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-photos_resize {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_photos_resize_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-researchkit {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_researchkit_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-researchkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_researchkit_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-researchkit { 
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_researchkit_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-researchkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_researchkit_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-researchkit {
+        background-size: 212px 458px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_researchkit_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-researchkit {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_researchkit_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-safari {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_safari_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-safari {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_safari_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-safari {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_safari_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-safari {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_safari_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-safari {
+        background-size: 212px 458px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_safari_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-safari {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_safari_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-siri {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_siri_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-siri {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_siri_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-siri {
+        background-size: 220px 475px; 
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_siri_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-siri {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_siri_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-siri {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_siri_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-siri {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_siri_small_2x.jpg")
+    }
+}
+
+.page-approach-to-privacy .approach-suggestions {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_suggestions_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-suggestions {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_suggestions_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-approach-to-privacy .approach-suggestions { 
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_suggestions_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-suggestions {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_suggestions_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-approach-to-privacy .approach-suggestions {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_suggestions_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-approach-to-privacy .approach-suggestions {
+        background-image: url("/ca/fr/privacy/images/our-approach/privacy_approach_suggestions_small_2x.jpg")
+    }
+}
+
+/*Manage your privacy*/
+
+.page-manage-your-privacy .manage-browse {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_browse_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-browse {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_browse_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-browse {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_browse_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-browse {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_browse_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-browse {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_browse_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-browse {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_browse_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-children {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_children_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-children {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_children_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-children {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_children_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-children {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_children_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-children {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_children_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-children {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_children_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-control {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_control_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-control {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_control_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-control {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_control_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-control {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_control_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-control {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_control_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-control {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_control_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-emergency {
+    background-size: 152px 185px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_emergency_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-emergency {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_emergency_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-emergency {
+        background-size: 121px 147px; 
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_emergency_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-emergency {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_emergency_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-emergency {
+        background-size: 116px 141px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_emergency_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-emergency {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_emergency_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-enable_touch_id { 
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_enable_touch_id_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-enable_touch_id {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_enable_touch_id_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-enable_touch_id {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_enable_touch_id_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-enable_touch_id {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_enable_touch_id_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-enable_touch_id {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_enable_touch_id_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-enable_touch_id {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_enable_touch_id_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-icloud_settings {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_icloud_settings_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-icloud_settings {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_icloud_settings_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-icloud_settings {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_icloud_settings_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-icloud_settings {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_icloud_settings_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-icloud_settings {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_icloud_settings_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-icloud_settings {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_icloud_settings_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-information {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_information_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-information {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_information_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-information {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_information_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-information {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_information_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-information {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_information_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-information {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_information_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-limit_ads {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_limit_ads_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-limit_ads {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_limit_ads_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-limit_ads {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_limit_ads_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-limit_ads {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_limit_ads_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-limit_ads {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_limit_ads_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-limit_ads {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_limit_ads_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-location {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_location_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-location {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_location_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-location {
+        background-size: 220px 475px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_location_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-location {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_location_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-location {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_location_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-location {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_location_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-lost_resize {
+    background-size: 702px 527px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_lost_resize_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-lost_resize {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_lost_resize_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-lost_resize {
+        background-size: 548px 410px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_lost_resize_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-lost_resize {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_lost_resize_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-lost_resize {
+        background-size: 532px 402px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_lost_resize_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-lost_resize {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_lost_resize_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-notifications {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_notifications_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-notifications {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_notifications_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-notifications {
+        background-size: 220px 475px; 
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_notifications_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-notifications {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_notifications_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-notifications {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_notifications_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-notifications {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_notifications_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-passcode {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_passcode_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-passcode {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_passcode_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-passcode {
+        background-size: 220px 475px; 
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_passcode_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-passcode {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_passcode_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-passcode {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_passcode_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-passcode {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_passcode_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-password {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_password_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-password {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_password_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-password {
+        background-size: 220px 475px; 
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_password_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-password {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_password_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-password {
+        background-size: 212px 458px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_password_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-password {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_password_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-scams_resize {
+    background-size: 702px 527px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_scams_resize_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-scams_resize {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_scams_resize_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-scams_resize {
+        background-size: 548px 410px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_scams_resize_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-scams_resize {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_scams_resize_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-scams_resize {
+        background-size: 532px 402px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_scams_resize_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-scams_resize {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_scams_resize_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-two_factor {
+    background-size: 279px 604px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_two_factor_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-two_factor {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_two_factor_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-two_factor {
+        background-size: 220px 475px; 
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_two_factor_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-two_factor {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_two_factor_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-two_factor {
+        background-size: 212px 458px; 
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_two_factor_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-two_factor {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_two_factor_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .manage-unlock {
+    background-size: 152px 185px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_unlock_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-unlock {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_unlock_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .manage-unlock {
+        background-size: 121px 147px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_unlock_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-unlock {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_unlock_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .manage-unlock {
+        background-size: 116px 141px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_unlock_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .manage-unlock {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/privacy_manage_unlock_small_2x.jpg")
+    }
+}
+
+.page-manage-your-privacy .grid-take-charge .take-charge {
+    background-size: 852px 494px;
+    background-image: url("/ca/fr/privacy/images/manage-your-privacy/take_charge_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-manage-your-privacy .grid-take-charge .take-charge {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/take_charge_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-manage-your-privacy .grid-take-charge .take-charge {
+        background-size: 590px 344px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/take_charge_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .grid-take-charge .take-charge {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/take_charge_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-manage-your-privacy .grid-take-charge .take-charge {
+        background-size: 549px 319px;
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/take_charge_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-manage-your-privacy .grid-take-charge .take-charge {
+        background-image: url("/ca/fr/privacy/images/manage-your-privacy/take_charge_small_2x.jpg")
+    }
+}
+
+
+/*CAFR - Privacy*/
+@media only screen and (max-width: 1068px) {
+  a.router-link.block.medium-alignment{
+    padding-bottom: 58px;
+ 	}
+}
+
+@media only screen and (max-width: 735px) {
+  a.router-link.block.medium-alignment{
+    padding-bottom: 39px;
+  }
+}
+
+/* CAFR - Manage Privacy Jump Section*/
+@media only screen and (max-width: 1068px) {
+ .page-manage-your-privacy .jump-to-section .content {
+	width: 160px;
+	}
+}
+@media only screen and (max-width: 735px) {
+	.page-manage-your-privacy .jump-to-section .content {
+	width: 100%;
+	}
+	/*Line break fix*/
+	.remove-for-m {
+		display: block;
+	}
+}

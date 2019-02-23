@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="th-TH" lang="th-TH" prefix="og: http://ogp.me/ns#">
+<head>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8" />
+<link rel="canonical" href="https://www.apple.com/th/retail/" />
+
+
+	
+	<!--no hreflang found-->
+
+
+	
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	
+	
+	<link rel="stylesheet" type="text/css" href="/ac/globalnav/4/th_TH/styles/ac-globalnav.built.css" />
+	<link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css" />
+	<link rel="stylesheet" type="text/css" href="/ac/globalfooter/3/th_TH/styles/ac-globalfooter.built.css" />
+	
+
+
+	<title>Apple Store - ค้นหาร้าน - Apple (TH)</title>
+	<meta property="analytics-track" content="Apple Store - Find a Store - Apple" />
+	<meta property="analytics-s-channel" content="retailstore" />
+
+	<meta property="analytics-s-bucket-0" content="appleglobal,appleretail" />
+	<meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}retail" />
+	<meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global" />
+	<meta property="analytics-s-bucket-store" content="applestoreww,applestoreapacth" />
+
+
+
+	<meta name="Description" content="ค้นหา Apple Store เพื่อเลือกซื้อ Mac, iPhone, iPad, Apple Watch และอีกมากมาย ลงทะเบียนโปรแกรม Today at Apple หรือรับบริการช่วยเหลือได้ที่ Genius Bar"  />
+	
+	
+	
+	
+	<meta property="og:title" content="Apple Store - ค้นหาร้าน"  />
+	<meta property="og:description" content="ค้นหา Apple Store เพื่อเลือกซื้อ Mac, iPhone, iPad, Apple Watch และอีกมากมาย ลงทะเบียนโปรแกรม Today at Apple หรือรับบริการช่วยเหลือได้ที่ Genius Bar"  />
+	<meta property="og:url" content="https://www.apple.com/th/retail/" />
+	
+	
+	
+	<meta property="og:image" content="https://www.apple.com/th/retail/store/images/og.jpg?201901301732" />
+	<meta property="og:type" content="website" />
+	<meta property="og:locale" content="th_TH" />
+	<meta property="og:site_name" content="Apple (Thailand)" />
+	<meta property="al:ios:app_name" content="Apple Store" />
+	<meta property="al:ios:app_store_id" content="375380948" />
+	<meta property="al:ios:url" content="https://www.apple.com/th/stores" />
+	<script src="/v/retail/find-a-store/d/scripts/head.built.js" type="text/javascript" charset="utf-8"></script>
+	
+<link rel="stylesheet" href="/wss/fonts?families=SF+Pro,v1|SF+Pro+Icons,v1" type="text/css" media="all">
+
+
+	<script src="/v/retail/l/scripts/util.js" charset="utf-8"></script>
+	<script src="https://cdn.apple-mapkit.com/mk/4.x.x/mapkit.js"></script>
+	<script src="/v/retail/locator/h/scripts/head.built.js" type="text/javascript" charset="utf-8"></script>
+	<link rel="stylesheet" href="/v/retail/locator/h/styles/locator.built.css" type="text/css" />
+
+<!-- retail locator view templates -->
+<script id="retail-locator-spinner" type="text/html">
+<img src="/global/elements/zoom_view/zoom-view-image-loading.gif" width="32" height="32" alt="Loading" />
+</script>
+
+<script id="retail-locator-map-item-template" type="text/html">
+<div class="map-container">
+	<div class="close"></div>
+	<div class="map-overlay-box">
+	
+		<a href="{store_detail_link}" class="store-info selfclear">
+			<img src="{image_link}" width="150" height="100" alt="" />
+			<div class="column last store-address">
+				<h1 class="store-address-box">Apple {store_name}</h1>
+				<h2><address>{address}<br />{city_state} {zip}</address>
+				{phone}</h2>
+				<span class="more">View store details</span>
+			</div>
+		</a>
+	
+		<div class="notch"></div>
+	</div>
+</div>
+</script>
+
+<script id="retail-locator-list-item-template" type="text/html">
+<div class="row">
+	<div class="list-store-address column large-8 medium-12 small-6 small-offset-0">
+		<h1>{store_name}</h1>
+		<address>
+			<div>{address1}</div>
+			<div>{address2}</div>
+			<div class="hide-for-large">{distance}</div>
+		</address>
+
+		
+		<a href="{store_detail_link}" class="more">View store details</a>
+		
+
+	</div>
+	<div class="column large-4 small-6 hide-for-medium align-center retail-small-thumb">
+		<span class="show-only-for-large">{distance}</span>
+		<img class="show-only-for-small center" src="{image_link}" width="108" height="72" alt="" />
+	</div>
+</div>
+</script>
+
+<script id="retail-locator-list-item-template-mobile" type="text/html">
+	<h1>{store_name}</h1>
+	<address>
+		<div>{address1}</div>
+		<div>{address2}</div>
+	</address>
+</script>
+
+<script id="retail-locator-list-empty" type="text/html">
+	<li class='default'>
+	<h1 class="typography-body">Please enter a location.<br>We&rsquo;ll show you the nearest Apple Store.</h1>
+
+	</li>
+</script>
+
+<script id="retail-locator-views" type="text/html">
+<div class="grid2col retailLocatorView" data-hires="false">
+	<div class="column first listViewContainer">
+		<ul class="listView">
+		</ul>
+		<div class="nav">
+		<div class="column large-12 medium-6">
+			<a href="#" id="retail-map-list-prev" class="icon icon-chevronleft icon-before previous" rel="prev">Previous</a>
+		</div>
+		<div class="column medium-6 large-12 hide-for-small">
+			<a href="#" id="retail-map-list-next" class="more" rel="next">Next</a>
+		</div>
+		</div>
+	</div>
+	<div class="column last mapView" data-hires="false">
+	</div>
+</div>
+</script>
+
+
+
+<script src="/v/retail/locator/h/scripts/maps.built.js" charset="utf-8"></script>
+
+<script src="/v/retail/locator/h/scripts/globalsearch.locator.built.js" charset="utf-8"></script>
+<script src="/v/retail/locator/h/scripts/globalsearch.core.built.js" charset="utf-8"></script>
+
+	<link rel="stylesheet" href="/wss/fonts?families=SF+Pro+TH,v2|SF+Pro,v2|SF+Pro+Icons,v1" />
+	<link rel="stylesheet" href="/v/retail/find-a-store/d/styles/find-a-store.built.css" />
+	<link rel="stylesheet" href="/th/retail/find-a-store/styles/find-a-store.built.us.css" />
+	<link rel="stylesheet" href="/th/retail/find-a-store/styles/find-a-store.css" />
+	<link rel="stylesheet" href="/th/retail/find-a-store/styles/find-a-store.built.css" />
+	<link rel="stylesheet" href="/th/global/styles/wrapping/fluid/v7.css" />
+</head>
+
+<body class="page-find-a-store">
+	
+<meta name="ac-gn-store-key" content="SFX9YPYY9PPXCU9KH" />
+<aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="th-TH" dir="ltr" data-strings="{ 'exit': 'ออก', 'view': '{%STOREFRONT%} หน้าแรกของร้าน', 'segments': { 'smb': 'หน้าแรกของร้านสำหรับองค์กรธุรกิจ', 'eduInd': 'หน้าแรกของร้านสำหรับการศึกษา', 'other': 'หน้าแรกของร้าน' } }">
+</aside>
+<input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" />
+<nav id="ac-globalnav" class="no-js" role="navigation" aria-label="ทั่วโลก" data-hires="false" data-analytics-region="global nav" lang="th-TH" dir="ltr" data-store-locale="th" data-store-api="/[storefront]/shop/bag/status" data-search-locale="th_TH" data-search-api="/search-services/suggestions/">
+	<div class="ac-gn-content">
+		<ul class="ac-gn-header">
+			<li class="ac-gn-item ac-gn-menuicon">
+				<label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					</span>
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					</span>
+				</label>
+				<a href="#ac-gn-menustate" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					<span class="ac-gn-menuanchor-label">Global Nav เปิดเมนู</span>
+				</a>
+				<a href="#" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					<span class="ac-gn-menuanchor-label">Global Nav ปิดเมนู</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="/th/" data-analytics-title="apple home" id="ac-gn-firstfocus-small">
+					<span class="ac-gn-link-text">Apple</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+				<a class="ac-gn-link ac-gn-link-bag" href="/th/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="ถุง" data-string-badge="ถุงช้อปปิ้งพร้อมสินค้า">
+					<span class="ac-gn-link-text">ถุง</span>
+					<span class="ac-gn-bag-badge"></span>
+				</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<div class="ac-gn-search-placeholder-container" role="search">
+			<div class="ac-gn-search ac-gn-search-small">
+				<a id="ac-gn-link-search-small" class="ac-gn-link" href="/th/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="ค้นหาใน apple.com">
+					<div class="ac-gn-search-placeholder-bar">
+						<div class="ac-gn-search-placeholder-input">
+							<div class="ac-gn-search-placeholder-input-text" aria-hidden="true">
+								<div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div>
+								<span class="ac-gn-search-placeholder">ค้นหาใน apple.com</span>
+							</div>
+						</div>
+						<div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close">
+							<span class="ac-gn-searchview-close-cancel" aria-hidden="true">ยกเลิก</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<ul class="ac-gn-list">
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="/th/" data-analytics-title="apple home" id="ac-gn-firstfocus">
+						<span class="ac-gn-link-text">Apple</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+				<a class="ac-gn-link ac-gn-link-mac" href="/th/mac/" data-analytics-title="mac">
+						<span class="ac-gn-link-text">Mac</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+				<a class="ac-gn-link ac-gn-link-ipad" href="/th/ipad/" data-analytics-title="ipad">
+						<span class="ac-gn-link-text">iPad</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+				<a class="ac-gn-link ac-gn-link-iphone" href="/th/iphone/" data-analytics-title="iphone">
+						<span class="ac-gn-link-text">iPhone</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+				<a class="ac-gn-link ac-gn-link-watch" href="/th/watch/" data-analytics-title="watch">
+						<span class="ac-gn-link-text">Watch</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+				<a class="ac-gn-link ac-gn-link-tv" href="/th/tv/" data-analytics-title="tv">
+						<span class="ac-gn-link-text">TV</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+				<a class="ac-gn-link ac-gn-link-music" href="/th/music/" data-analytics-title="music">
+						<span class="ac-gn-link-text">Music</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+				<a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com/th-th" data-analytics-title="support">
+						<span class="ac-gn-link-text">บริการช่วยเหลือ</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+				<a id="ac-gn-link-search" class="ac-gn-link ac-gn-link-search" href="/th/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="ค้นหาใน apple.com"></a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+				<a class="ac-gn-link ac-gn-link-bag" href="/th/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="ถุง" data-string-badge="ถุงช้อปปิ้งพร้อมสินค้า">
+						<span class="ac-gn-link-text">ถุง</span>
+						<span class="ac-gn-bag-badge" aria-hidden="true"></span>
+					</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search">
+			<div class="ac-gn-searchview-content">
+				<div class="ac-gn-searchview-bar">
+					<div class="ac-gn-searchview-bar-wrapper">
+						<form id="ac-gn-searchform" class="ac-gn-searchform" action="/th/search" method="get">
+							<div class="ac-gn-searchform-wrapper">
+								<input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="ค้นหาใน apple.com" placeholder="ค้นหาใน apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions" />
+								<input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" />
+								<button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="ส่งการค้นหา"></button>
+								<button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="ล้างการค้นหา">
+										<span class="ac-gn-searchform-reset-background"></span>
+									</button>
+							</div>
+						</form>
+						<button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="ยกเลิกการค้นหา">
+								<span class="ac-gn-searchview-close-cancel" aria-hidden="true">
+									ยกเลิก
+								</span>
+							</button>
+					</div>
+				</div>
+				<aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="ลิงก์ด่วน" data-string-suggestions="การค้นหาที่แนะนำ" data-string-noresults=""></aside>
+			</div>
+			<button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="ยกเลิกการค้นหา">
+					<span class="ac-gn-searchview-close-wrapper">
+						<span class="ac-gn-searchview-close-left"></span>
+						<span class="ac-gn-searchview-close-right"></span>
+					</span>
+				</button>
+		</aside>
+		<aside class="ac-gn-bagview" data-analytics-region="bag">
+			<div class="ac-gn-bagview-scrim">
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+			</div>
+			<div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+			</div>
+		</aside>
+	</div>
+</nav>
+<div class="ac-gn-blur"></div>
+<div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+<div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+<script type="text/javascript" src="/ac/globalnav/4/th_TH/scripts/ac-globalnav.built.js"></script>
+
+	
+
+
+
+<script src="/metrics/ac-analytics/2.6.0/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script>
+<script src="/metrics/ac-analytics/2.6.0/scripts/auto-init.js" type="text/javascript" charset="utf-8"></script>
+
+		<div id="main">
+		<section class="section section-nopad section-locator geo-dropdown" data-analytics-section-engagement="name:locator">
+			<div class="section-content">
+				
+
+<div id="retail-nav-search" class="retail-locator row">
+	<figure class="image-find-hero"></figure>
+	<nav class="nav hero-search retail-locator-search" id="current_country" data-init-storeselector="Thailand - Thai" data-feedurl="/autopush/th/retail/storelist/stores.xml">
+		<div class="search first">
+			
+			<h1 class="align-center typography-section-headline" name="ddoption" data-ddoption="เลือกร้าน">
+					เลือกร้าน
+			</h1>
+			
+			<!--[if IE]>
+			<div class="ie-alt">
+			<![endif]-->
+			<!--[if !IE]> -->
+			<div class="retail-input-wrapper center typography-body">
+			<!-- <![endif]-->
+				<form action="#" method="POST" accept-charset="utf-8" id="tripsignup">
+					<fieldset>
+						<div class="select-style select">
+							<select class="menu typography-body" name="storestate" id="tripsignup-location">
+								<option selected="selected" value="">กำลังโหลด…</option>
+							</select>
+						</div>
+					</fieldset>
+				</form>
+			</div>
+
+		</div>
+		<div class="store-list align-center last">
+			<a href="/th/retail/storelist/" class="more typography-body underline" data-analytics-region="learn more">รายชื่อร้านทั้งหมด</a>
+		</div>
+	</nav>
+</div>
+
+<div id="retail-locator-map-parent" class="row">
+	<div id="retail-locator-map-container" class="retail-locator-search"></div>
+</div>
+
+
+			</div>
+			<div class="section-content">
+				<link rel="stylesheet" type="text/css" href="/retail/styles/giveback.built.css">
+<section class="section section-giveback" data-analytics-section-engagement="name:giveback" >
+  <div class="section-content">
+    <div class="row">
+      <div class="column large-5 large-offset-1 medium-offset-0  medium-6 small-12 giveback-text">
+        <span class="violator violator-secondary ag-giveback-font">ระยะเวลาจำกัด</span>
+
+        <div class="product-headline">
+          <h2 class='typography-callout headline ag-giveback-font ag-lh-125'>
+            <span class="nowrap">iPhone X<span class="small-caps">R</span></span> <span class="nowrap">เริ่มต้น</span>ที่ ฿22,900 <br class="thbr xlarge large ie" />หรือ <span class="nowrap">iPhone X<span class="small-caps">s</span></span> <span class="nowrap">เริ่มต้น</span>ที่ <br class="thbr xlarge large ie" /><span class="nowrap">฿32,900<sup>*</sup></span>
+          </h2>
+        </div>
+
+        <p class="typography-body ag-giveback-font">รับส่วนลดเพื่อใช้ได้ทันที เมื่อนำ iPhone ของคุณ<br class="thbr xlarge large ie" />มาแลกที่ Apple&nbsp;Store</p>
+      </div>
+      <div class="column large-5 large-offset-1 medium-5 medium-offset-0 small-10 small-offset-0 phone-image">
+      </div>
+    </div>
+  </div>
+</section>
+
+			</div>
+			<div class="section-intro" data-analytics-section-engagement="name:intro">
+				<figure alt="Today at Apple" class="title image-retail-find-a-store-todayatapple-logo typography-subsection-headline" /></figure>
+				<p class="description typography-tagline-reduced ag-lh-md-13">แวะมาที่ Apple Store <br/>แล้วมาสร้างสรรค์<br class="thbr xlarge large ie" /><wbr><span class="nowrap">อะไรดีๆ</span> <wbr><span class="nowrap">ด้วยกันที่นี่</span></p>
+				
+				
+				<p class="link typography-intro"><a class="more" href="/th/today/" data-analytics-region="learn more">ค้นหาเซสชั่น Today&nbsp;at&nbsp;Apple <br class="small-portrait" /><wbr><span class="nowrap">ใกล้คุณ</span> </a></p>
+				
+			</div>
+		</section>
+				<section class="section-gallery" data-analytics-section-engagement="name:gallery">
+			<div class="gallery-container">
+				<div id="main-gallery" class="with-paddlenav" data-ac-gallery-slide>
+					<div class="with-paddlenav inner">
+						<nav class="paddlenav paddlenav-framed">
+							<ul>
+								<li><button class="paddlenav-arrow paddlenav-arrow-previous" data-ac-gallery-previous-trigger="main-gallery" aria-label="ก่อนหน้า"></button></li>
+								<li><button class="paddlenav-arrow paddlenav-arrow-next" data-ac-gallery-next-trigger="main-gallery" aria-label="ถัดไป"></button></li>
+							</ul>
+						</nav>
+					</div>
+
+					<div class="gallery-item" id="gallery-item-1" data-ac-gallery-item>
+						<div class="gallery-content">
+							<div class="gallery-image-scale gallery-round-corners">
+								<div class="image-loader-wrapper">
+									<a href="/th/today/">
+									<figure class="gallery-image image-loader image-loader-fadein image-retail-find-a-store-event-1" ></figure>
+									</a>
+								</div>
+							</div>
+							<div class="gallery-item-desc">
+								<h3 class="typography-label">ค้นหาแรงบันดาลใจดีๆ เพื่อทำอะไรๆ ให้ได้มากขึ้น<wbr><span class="nowrap">กว่าเดิม</span></h3>
+								<p class="typography-body">เซสชั่นสร้างสรรค์ฟรีกับผลิตภัณฑ์ที่คุณชอบ ทุกสาขา สำหรับ<wbr><span class="nowrap">ทุกคน</span></p>
+								<a class="typography-body more" href="/th/today/">ดูเซสชั่น Today at Apple ทั้งหมด</a>
+							</div>
+						</div>
+					</div>
+					<div class="gallery-item" id="gallery-item-2" data-ac-gallery-item>
+						<div class="gallery-content">
+							<div class="gallery-image-scale gallery-round-corners">
+								<div class="image-loader-wrapper">
+									<a href="/th/today/calendar?topics=photography">
+									<figure class="gallery-image image-loader image-loader-fadein image-retail-find-a-store-event-2" ></figure>
+									</a>
+								</div>
+							</div>
+							<div class="gallery-item-desc">
+								<h3 class="typography-label">การถ่ายภาพ</h3>
+								<p class="typography-body">พบกับเคล็ดลับการถ่ายภาพที่ควรค่าแก่<wbr><span class="nowrap">การแชร์</span></p>
+								<a class="typography-body more" href="/th/today/calendar?topics=photography">ดูเซสชั่นทั้งหมด</a>
+							</div>
+						</div>
+					</div>
+					<div class="gallery-item" id="gallery-item-3" data-ac-gallery-item>
+						<div class="gallery-content">
+							<div class="gallery-image-scale gallery-round-corners">
+								<div class="image-loader-wrapper">
+									<a href="/th/today/calendar?topics&#x3D;video-passion">
+									<figure class="gallery-image image-loader image-loader-fadein image-retail-find-a-store-event-3" ></figure>
+									</a>
+								</div>
+							</div>
+							<div class="gallery-item-desc">
+								<h3 class="typography-label">วิดีโอ</h3>
+								<p class="typography-body">เติมความมหัศจรรย์ให้กับภาพยนตร์ของคุณด้วยเคล็ดลับและเทคนิคเล็กๆ <wbr><span class="nowrap">น้อยๆ</span></p>
+								<a class="typography-body more" href="/th/today/calendar?topics&#x3D;video-passion">ดูเซสชั่นทั้งหมด</a>
+							</div>
+						</div>
+					</div>
+					<div class="gallery-item" id="gallery-item-4" data-ac-gallery-item>
+						<div class="gallery-content">
+							<div class="gallery-image-scale gallery-round-corners">
+								<div class="image-loader-wrapper">
+									<a href="/th/today/calendar?topics&#x3D;music-passion">
+									<figure class="gallery-image image-loader image-loader-fadein image-retail-find-a-store-event-4" ></figure>
+									</a>
+								</div>
+							</div>
+							<div class="gallery-item-desc">
+								<h3 class="typography-label">ดนตรี</h3>
+								<p class="typography-body">เริ่มทำเพลงและทดลองเล่นสนุกกับเสียง<wbr><span class="nowrap">ต่างๆ</span></p>
+								<a class="typography-body more" href="/th/today/calendar?topics&#x3D;music-passion">ดูเซสชั่นทั้งหมด</a>
+							</div>
+						</div>
+					</div>
+					<div class="gallery-item" id="gallery-item-5" data-ac-gallery-item>
+						<div class="gallery-content">
+							<div class="gallery-image-scale gallery-round-corners">
+								<div class="image-loader-wrapper">
+									<a href="/th/today/calendar?topics&#x3D;coding-apps">
+									<figure class="gallery-image image-loader image-loader-fadein image-retail-find-a-store-event-5" ></figure>
+									</a>
+								</div>
+							</div>
+							<div class="gallery-item-desc">
+								<h3 class="typography-label">การเขียนโค้ดและแอพ</h3>
+								<p class="typography-body">เรียนรู้วิธีการเปลี่ยนไอเดียแอพของคุณให้<wbr><span class="nowrap">เป็นจริง</span></p>
+								<a class="typography-body more" href="/th/today/calendar?topics&#x3D;coding-apps">ดูเซสชั่นทั้งหมด</a>
+							</div>
+						</div>
+					</div>
+					<div class="gallery-item" id="gallery-item-6" data-ac-gallery-item>
+						<div class="gallery-content">
+							<div class="gallery-image-scale gallery-round-corners">
+								<div class="image-loader-wrapper">
+									<a href="/th/today/calendar?topics&#x3D;art-design">
+									<figure class="gallery-image image-loader image-loader-fadein image-retail-find-a-store-event-6" ></figure>
+									</a>
+								</div>
+							</div>
+							<div class="gallery-item-desc">
+								<h3 class="typography-label">ศิลปะและการออกแบบ</h3>
+								<p class="typography-body">เปิดประตูสู่โลกแห่งจินตนาการและสร้างสรรค์อย่าง<wbr><span class="nowrap">มั่นใจ</span></p>
+								<a class="typography-body more" href="/th/today/calendar?topics&#x3D;art-design">ดูเซสชั่นทั้งหมด</a>
+							</div>
+						</div>
+					</div>
+					<div class="gallery-item" id="gallery-item-7" data-ac-gallery-item>
+						<div class="gallery-content">
+							<div class="gallery-image-scale gallery-round-corners">
+								<div class="image-loader-wrapper">
+									<a href="/th/today/calendar?topics&#x3D;health-fitness">
+									<figure class="gallery-image image-loader image-loader-fadein image-retail-find-a-store-event-7" ></figure>
+									</a>
+								</div>
+							</div>
+							<div class="gallery-item-desc">
+								<h3 class="typography-label">สุขภาพและฟิตเนส</h3>
+								<p class="typography-body">ลองดูการเปลี่ยนแปลงเล็กๆ น้อยๆ ที่จะสร้างความแตกต่างอย่างมากให้กับสุขภาพ<wbr><span class="nowrap">ของคุณ</span></p>
+								<a class="typography-body more" href="/th/today/calendar?topics&#x3D;health-fitness">ดูเซสชั่นทั้งหมด</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+
+		<section class="section section-locator-gallery" data-analytics-section-engagement="name:locator gallery">
+			
+			
+			<div id="store-gallery" class="gallery gallery-store with-paddlenav">
+	<div class="gallery-wrapper">
+		<div class="gallery-view">
+			<div id="gallery-storedetail-view-1" class="gallery-content gallery-storedetail-view-1 revealed">
+				<figure class="image-retail-find-a-store-hero-iconsiam">
+					<figcaption class="align-center typography-body"><a href="https://www.apple.com/th/retail/iconsiam/">Apple Iconsiam</a></figcaption>
+				</figure>
+			</div>
+
+			<div id="gallery-storedetail-view-2" class="gallery-content gallery-storedetail-view-2">
+				<figure class="image-retail-find-a-store-hero-michiganave">
+					<figcaption class="align-center typography-body"><a href="https://www.apple.com/retail/michiganavenue/">Apple Michigan Avenue</a></figcaption>
+				</figure>
+			</div>
+
+			<div id="gallery-storedetail-view-3" class="gallery-content gallery-storedetail-view-3">
+				<figure class="image-retail-find-a-store-hero-parc66">
+					<figcaption class="align-center typography-body"><a href="https://www.apple.com/cn/retail/parc66jinan/">Apple Parc 66 Jinan</a></figcaption>
+				</figure>
+			</div>
+		</div>
+	</div>
+
+	<nav class="paddlenav paddlenav-onhover" aria-hidden="true">
+		<ul>
+			<li><a class="trigger paddlenav-arrow paddlenav-arrow-left disabled" data-method="showPrevious" aria-label="Previous"></a></li>
+			<li><a class="trigger paddlenav-arrow paddlenav-arrow-right" data-method="showNext" aria-label="Next"></a></li>
+		</ul>
+	</nav>
+	<nav class="dotnav" aria-hidden="true">
+		<ul>
+			<li><a href="#gallery-storedetail-view-1" class="trigger dotnav-item current"></a></li>
+			<li><a href="#gallery-storedetail-view-2" class="trigger dotnav-item"></a></li>
+		</ul>
+	</nav>
+</div>
+
+			
+		</section>
+		<section class="section section-geniusbar keyline" data-analytics-section-engagement="name:router">
+			<div class="section-content">
+				<div class="row">
+					<div class="column large-5 medium-6 small-12">
+						<figure class="image-retail-find-a-store-help-genius show-only-for-small center"></figure>
+						<h3 class="typography-subsection-headline">ไม่ว่าคุณจะมีความต้องการ<br class="thbr xlarge large ie" />แบบไหน เราก็พร้อม<br class="thbr xlarge large ie" /><wbr><span class="nowrap">ช่วยเหลือคุณ</span></h3>
+						<p class="typography-body">จะลืม Apple ID มีคำถามเกี่ยวกับแอพหรือบริการ <br class="thbr xlarge large ie" />หรือต้องการจอง Genius Bar <br class="thbr med" />เราก็มี<wbr><span class="nowrap">ตัวเลือก</span>ที่<br class="thbr xlarge large ie" />สะดวกสบายและหลากหลายจากบริการช่วยเหลือ<br class="thbr xlarge large ie" />ของ <wbr><span class="nowrap">Apple ให้คุณ</span></p>
+						<a href="/th/retail/geniusbar/" class="more typography-body" data-analytics-region="router">เริ่มเลย</a>
+					</div>
+					<div class="column large-6 large-push-1 medium-6 medium-push-0 small-12 small-0">
+						<figure class="image-retail-find-a-store-help-genius hide-for-small"></figure>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<!--/main-->
+
+	<footer id="ac-globalfooter" class="no-js" lang="th-TH" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label">
+		<div class="ac-gf-content">
+			<h2 class="ac-gf-label" id="ac-gf-label">Apple Footer </h2>
+			<section class="ac-gf-sosumi" aria-label="Footnotes">
+				<ul>
+					<li>* ราคา iPhone&nbsp;X<span style="font-variant: all-small-caps">R</span> และ iPhone&nbsp;X<span style="font-variant: all-small-caps">s</span> เป็นราคาที่คำนวณจากการนำ iPhone&nbsp;7&nbsp;Plus มาแลก มูลค่าเพิ่มเติมในการแลกมีในระยะเวลาจำกัดเท่านั้น มูลค่าการแลกจะแตกต่างกันไปตามสภาพ ปี และการกำหนดค่าของอุปกรณ์<br class="thbr xlarge large ie" />ที่คุณนำมาแลก ข้อเสนอนี้สำหรับการแลกภายในร้านเท่านั้น และไม่สามารถแลกออนไลน์ได้ คุณต้องมีอายุอย่างน้อย <span class="nowrap">20 ปี</span> โปรดแสดงบัตรประจำตัวที่มีรูปถ่ายซึ่งออกให้โดยรัฐบาลและยังไม่หมดอายุเมื่อนำอุปกรณ์มาแลก<br class="thbr xlarge large ie" />ภายในร้าน (อาจต้องมีการบันทึกข้อมูลนี้ตามกฎหมายท้องถิ่น) อาจมีข้อกำหนดเพิ่มเติมจาก Apple หรือพันธมิตรด้านการแลกอุปกรณ์<span class="nowrap">ของ Apple</span></li>
+				</ul>
+			</section>
+			<nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> <a href="/th/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true"></span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a>
+				<div class="ac-gf-breadcrumbs-path">
+					<ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
+						<li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">ร้านค้า</span>
+							<meta property="position" content="1" />
+						</li>
+					</ol>
+				</div>
+			</nav>
+			<nav class="ac-gf-directory with-5-columns" aria-label="รายการส่วนต่างๆ บนเว็บ Apple" role="navigation">
+	<!--googleoff: all-->
+	<div class="ac-gf-directory-column"><input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products">
+		<h3 class="ac-gf-directory-column-section-title">เลือกซื้อและเรียนรู้</h3>
+	</label>
+			<a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">เปิดเมนู</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">ปิดเมนู</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/mac/">Mac</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/ipad/">iPad</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/iphone/">iPhone</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/watch/">Watch</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/tv/">TV</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/music/">Music</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/itunes/">iTunes</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/ipod-touch/">iPod touch</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/shop/goto/buy_accessories">อุปกรณ์เสริม</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/shop/goto/giftcards">บัตรของขวัญ</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column"><input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices">
+		<h3 class="ac-gf-directory-column-section-title">Apple Store</h3>
+	</label>
+			<a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">เปิดเมนู</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">ปิดเมนู</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/retail/">ค้นหาร้าน</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/retail/geniusbar/">Genius Bar</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/today/">Today at Apple</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/retail/fieldtrip/">ทัศนศึกษา</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/th/app/apple-store/id375380948?pt&#x3D;2003&amp;ct&#x3D;footer&amp;mt&#x3D;8">แอพ Apple Store</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/shop/goto/ww/financing">บริการด้านการเงิน</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/trade-in/">Apple GiveBack</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/recycling/">โครงการรีไซเคิลของ Apple</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/shop/goto/account">สถานะคำสั่งซื้อ</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/shop/goto/help">บริการช่วยเหลือด้าน<span class="nowrap">การซื้อ</span></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column">
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education">
+								<h3 class="ac-gf-directory-column-section-title">สำหรับการศึกษา</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">เปิดเมนู</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">ปิดเมนู</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/education/">Apple กับการศึกษา</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/shop/goto/educationrouting">เลือกซื้อสินค้าสำหรับมหาวิทยาลัย</a></li>
+			</ul>
+		</div>
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business">
+								<h3 class="ac-gf-directory-column-section-title">สำหรับธุรกิจ</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">เปิดเมนู</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">ปิดเมนู</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/business/">Apple กับธุรกิจ</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/retail/business/">เลือกซื้อสินค้าสำหรับธุรกิจ</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column">
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts">
+								<h3 class="ac-gf-directory-column-section-title">บัญชี</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">เปิดเมนู</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">ปิดเมนู</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/th/">จัดการกับ Apple ID <span class="nowrap">ของคุณ</span></a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/shop/goto/account">บัญชีสำหรับ Apple Store</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li>
+			</ul>
+		</div>
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility">
+								<h3 class="ac-gf-directory-column-section-title">ค่านิยมของ Apple</h3>
+							</label>
+			<a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">เปิดเมนู</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">ปิดเมนู</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/accessibility/">การช่วยการเข้าถึง</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/environment/">สิ่งแวดล้อม</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/privacy/">ความเป็นส่วนตัว</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/supplier-responsibility/">ความรับผิดชอบของซัพพลายเออร์</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ac-gf-directory-column">
+		<input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about" />
+		<div class="ac-gf-directory-column-section">
+			<label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about">
+						<h3 class="ac-gf-directory-column-section-title">เกี่ยวกับ Apple</h3>
+					</label>
+			<a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open">
+				<span class="ac-gf-directory-column-section-anchor-label">เปิดเมนู</span>
+			</a>
+			<a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close">
+				<span class="ac-gf-directory-column-section-anchor-label">ปิดเมนู</span>
+			</a>
+			<ul class="ac-gf-directory-column-section-list">
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/newsroom/">Newsroom</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/leadership/">ผู้บริหาร Apple</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">นักลงทุน</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/apple-events/">กิจกรรม</a></li>
+				<li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/th/contact/">ติดต่อ Apple</a></li>
+			</ul>
+		</div>
+	</div>
+	<!--googleon: all-->
+</nav>
+
+<section class="ac-gf-footer">
+	<div class="ac-gf-footer-shop" x-ms-format-detection="none">
+		อีกหลากหลายวิธีในการเลือกซื้อ: <a href="/th/retail/">ไปที่ Apple Store</a> หรือ <a href="https://locate.apple.com/th/th/">ค้นหาตัวแทนจำหน่าย</a>
+	</div>
+	<div class="ac-gf-footer-locale">
+		<a class="ac-gf-footer-locale-link" href="/choose-country-region/" title="เลือกประเทศหรือภูมิภาค" aria-label="ไทย. เลือกประเทศหรือภูมิภาค"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>ไทย</a>
+		<a class="ac-gf-footer-locale-link ac-gf-footer-locale-shop" href="/th-en/shop/browse/home_th_en">Shop in English</a>
+	</div>
+	<div class="ac-gf-footer-legal">
+		<div class="ac-gf-footer-legal-copyright">Copyright ©
+			
+			2019
+			Apple Inc. สงวนสิทธิ์ทุกประการ</div>
+		<div class="ac-gf-footer-legal-links">
+			<a class="ac-gf-footer-legal-link" href="/th/privacy/privacy-policy/">นโยบายความเป็นส่วนตัว</a>
+			<a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">ข้อกำหนดการใช้งาน</a>
+			<a class="ac-gf-footer-legal-link" href="/th/shop/goto/help/sales_refunds">การขายและการคืนเงิน</a>
+			<a class="ac-gf-footer-legal-link" href="/th/legal/">ข้อมูลทางกฎหมาย</a>
+			<a class="ac-gf-footer-legal-link" href="/th/sitemap/">แผนผังเว็บไซต์</a>
+		</div>
+	</div>
+</section>
+
+<script type="text/javascript" src="/ac/globalfooter/3/th_TH/scripts/ac-globalfooter.built.js"></script>
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@id": "https://www.apple.com/#organization",
+		"@type": "Organization",
+		"name": "Apple",
+		"url": "https://www.apple.com/",
+		"logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201901301732",
+		"contactPoint": [
+			{
+				"@type": "ContactPoint",
+				"telephone": "+1-800-692-7753",
+				"contactType": "sales",
+				"areaServed": "US"
+			},
+			{
+				"@type": "ContactPoint",
+				"telephone": "+1-800-275-2273",
+				"contactType": "technical support",
+				"areaServed": "US",
+				"availableLanguage": ["EN", "ES"] 
+			},
+			{
+				"@type": "ContactPoint",
+				"telephone": "+1-800-275-2273",
+				"contactType": "customer support",
+				"areaServed": "US",
+				"availableLanguage": ["EN", "ES"] 
+			}
+		],
+		"sameAs": [
+			"http://www.wikidata.org/entity/Q312",
+			"https://www.youtube.com/user/Apple",
+			"https://www.linkedin.com/company/apple",
+			"https://www.facebook.com/Apple",
+			"https://www.twitter.com/Apple"
+		]
+	}
+</script>
+
+
+<script type="text/javascript" src="/ac/localeswitcher/2/th_TH/scripts/localeswitcher.built.js"></script>
+
+
+		</div>
+	</footer>
+	<script src="/v/retail/find-a-store/d/scripts/find-a-store.built.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>

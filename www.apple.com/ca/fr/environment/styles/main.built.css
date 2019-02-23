@@ -1,0 +1,24 @@
+/* Sun animation */
+/*
+.section-solar .animation-container {
+    position: relative;
+    float: right;
+    margin: 270px 90px 0 0
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-solar .animation-container {
+        margin: 300px 50px 0 0
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-solar .animation-container {
+        top: 180px
+    }
+}
+*/
+
+span.badge-unit-percent{
+	padding-left:7px;
+}

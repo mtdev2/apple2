@@ -1,0 +1,420 @@
+.page-overview .section-hero .card-hero .image-music-hero {
+  background-image: url("/mideast/music/g/images/overview/music_hero_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero {
+    background-image: url("/mideast/music/g/images/overview/music_hero_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero .card-hero .image-music-hero {
+    background-image: url("/mideast/music/g/images/overview/music_hero_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero {
+    background-image: url("/mideast/music/g/images/overview/music_hero_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .image-music-hero {
+    background-image: url("/mideast/music/g/images/overview/music_hero_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero {
+    right: 80%;
+    background-image: url("/mideast/music/g/images/overview/music_hero_small_2x.jpg");
+  }
+}
+
+.page-overview .section-hero .card-hero .image-music-hero-alt {
+  background-image: url("/mideast/music/g/images/overview/music_hero_alt_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero-alt {
+    background-image: url("/mideast/music/g/images/overview/music_hero_alt_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero .card-hero .image-music-hero-alt {
+    background-image: url("/mideast/music/g/images/overview/music_hero_alt_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero-alt {
+    background-image: url("/mideast/music/g/images/overview/music_hero_alt_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .image-music-hero-alt {
+    background-image: url("/mideast/music/g/images/overview/music_hero_alt_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero-alt {
+    right: 80%;
+    background-image: url("/mideast/music/g/images/overview/music_hero_alt_small_2x.jpg");
+  }
+}
+
+.page-overview .section-billboard.airpods .airpods-graphic {
+  background-image: url("/mideast/music/g/images/overview/airpods_large.png");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-billboard.airpods .airpods-graphic {
+    background-image: url("/mideast/music/g/images/overview/airpods_large_2x.png");
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.airpods .airpods-graphic {
+    background-image: url("/mideast/music/g/images/overview/airpods_medium.png");
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.airpods .airpods-graphic {
+    background-image: url("/mideast/music/g/images/overview/airpods_medium_2x.png");
+  }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.airpods .airpods-graphic {
+    background-image: url("/mideast/music/g/images/overview/airpods_small.png");
+  }
+}
+
+.page-overview .section-billboard.gift-cards .gift-cards-graphic {
+  background-image: url("/v/music/f/images/overview/gift_cards_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    background-image: url("/v/music/f/images/overview/gift_cards_large_2x.png");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    background-image: url("/v/music/f/images/overview/gift_cards_medium.png");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    background-image: url("/v/music/f/images/overview/gift_cards_medium_2x.png");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    background-image: url("/v/music/f/images/overview/gift_cards_small.png");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    background-image: url("/v/music/f/images/overview/gift_cards_small_2x.png");
+  }
+}
+
+.page-overview .section-billboard.ipod .ipod-touch-graphic {
+  background-image: url("/mideast/music/g/images/overview/ipod_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic {
+    background-image: url("/mideast/music/g/images/overview/ipod_large_2x.png");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic {
+    background-image: url("/mideast/music/g/images/overview/ipod_medium.png");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic {
+    background-image: url("/mideast/music/g/images/overview/ipod_medium_2x.png");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic {
+    background-image: url("/mideast/music/g/images/overview/ipod_small.png");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic {
+    background-image: url("/mideast/music/g/images/overview/ipod_small_2x.png");
+  }
+}
+
+.page-overview .section-billboard.itunes .itunes-graphic {
+  background-image: url("/mideast/music/g/images/overview/itunes_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/g/images/overview/itunes_large_2x.png");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/g/images/overview/itunes_medium.png");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/g/images/overview/itunes_medium_2x.png");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/g/images/overview/itunes_small.png");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic {
+    background-image: url("/mideast/music/g/images/overview/itunes_small_2x.png");
+  }
+}
+
+.page-overview .section-hero .card-hero .video-container-hero .poster-frame,
+.page-overview .section-hero .card-hero .video-container-hero video {
+  right: 175px;
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero .card-hero .video-container-hero .poster-frame,
+  .page-overview .section-hero .card-hero .video-container-hero video {
+    right: 20px;
+  }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .video-container-hero .poster-frame,
+  .page-overview .section-hero .card-hero .video-container-hero video {
+    right: 50%;
+  }
+}
+.page-overview .section-hero .card-hero .note-link {
+  left: 170px;
+  right: auto;
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero .card-hero .note-link {
+    left: 20px;
+  }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .note-link {
+    left: 100px;
+  }
+}
+.page-overview .section-hero .card-hero .intro-hero {
+  max-width: 403px;
+}
+.page-overview .section-billboard.airpods,
+.page-overview .section-billboard.ipod,
+.page-overview .section-billboard.accessories,
+.page-overview .section-billboard.itunes,
+.page-overview .section-billboard.gift-cards {
+  direction: ltr;
+}
+h1,
+h2,
+p,
+h3,
+h4,
+h5,
+h6,
+a,
+.chapternav,
+.section .copy-wrapper {
+  direction: rtl;
+}
+.page-overview .section-billboard.airpods .airpods-graphic {
+  left: 50%;
+  right: auto;
+}
+.page-overview .section-apps .apps-container .app .copy-wrapper {
+  padding-right: 0;
+  padding-left: 32px;
+}
+.page-overview .section-hero .card-hero .poster-frame,
+.page-overview .section-hero .card-hero video {
+  left: auto;
+  right: 135px;
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .poster-frame,
+  .page-overview .section-hero .card-hero video {
+    left: 50%;
+    right: auto;
+  }
+  .page-overview .section-hero .card-hero .poster-frame {
+    transform: translate(50%, 0);
+    left: 0;
+    right: 50%;
+  }
+}
+.page-overview .section-working-with .icon-column {
+  direction: ltr;
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-working-with .icon-column {
+    direction: rtl;
+  }
+}
+
+@media only screen and (min-width: 735px) {
+  .page-overview .section-product-red {
+    direction: ltr;
+  }
+}
+
+@media only screen and (min-width: 1068px) {
+  .page-overview .section-product-red .copy-container {
+    position: relative;
+    right: 20%;
+  }
+}
+
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+  .page-overview .section-product-red .copy-container {
+    position: relative;
+    right: 10%;
+  }
+}
+
+.page-overview .section-working-with .apps-icon-apple-music {
+  margin-left: 32px;
+  margin-right: 0;
+}
+.page-overview .chapternav .chapternav-items .chapternav-item-music,
+.page-overview .chapternav .chapternav-items .chapternav-item-itunes,
+.page-overview .chapternav .chapternav-items .chapternav-item-ipod-touch,
+.page-overview .chapternav .chapternav-items .chapternav-item-accessories {
+  padding-left: 35px;
+  padding-right: 0;
+}
+.page-overview .section-billboard.itunes .itunes-graphic {
+  margin-left: -50px;
+}
+@media only screen and (orientation: portrait) {
+  .page-overview .section-billboard.accessories .accessories-graphic {
+    margin-left: 50px;
+  }
+}
+@media only screen and (max-width: 735px) and (orientation: portrait) {
+  .page-overview .section-billboard.accessories .accessories-graphic {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 1068px) and (orientation: portrait) {
+  .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-apps .description {
+    text-align: right;
+  }
+}
+.page-overview .section-apps .apps-container .column {
+  float: right;
+}
+.section-headline:lang(ar) {
+  line-height: 1.35;
+}
+
+.icon-external::after {
+  padding-right: 0;
+  padding-left: 0.3em;
+}
+
+.page-overview .section-hero .card-hero .image-music-hero {
+  left: auto;
+  right: 450px;
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero .card-hero .image-music-hero {
+    left: auto;
+    right: auto;
+  }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .image-music-hero {
+    right: 50%;
+  }
+}
+
+.page-overview .section-billboard.airpods {
+  background-color: #fafafa;
+}
+.page-overview .section-billboard.ipod {
+  background-color: #fff;
+}
+.page-overview .section-billboard.itunes {
+  background-color: #fafafa;
+}
+.page-overview .section-apps {
+  background-color: #fff;
+}
+.page-overview .section-working-with.working-with {
+  background-color: #fafafa;
+}

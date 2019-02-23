@@ -1,0 +1,39 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.gallery-container #gallery-selected-model-series-name[data-selected-model-series="SERIES 4"] path,
+.gallery-container #gallery-selected-model-series-name[data-selected-model-series="SERIES 4"] rect,
+.gallery-container #gallery-selected-model-series-name[data-selected-model-series="SERIES 4"] polygon {
+    fill: #000;
+}
+
+
+@media only screen and (max-width: 735px) {
+	.gallery-container .gallery-selected-copy-band,
+	.gallery-container .gallery-selected-copy-case {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 

@@ -1,0 +1,1390 @@
+<!DOCTYPE html>
+
+<html lang="fr-LU" class="nojs lu fr-lu emea fr">
+
+<head>
+<meta name="viewport" content="width=1024" />
+    
+	
+<title>Panier - Apple (LU)</title>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="format-detection" content="telephone=no" />
+<script>document.cookie = "as_sfa=MnxsdXxsdXx8ZnJfTFV8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE=; path=/; domain=.apple.com; expires=Fri, 16-Feb-2029 18:44:23 GMT;";</script>
+
+
+
+	
+
+<meta name="description" content="Panier" />
+
+
+
+
+
+
+
+
+
+
+
+
+	<script>
+		
+		if ( /(iPad).*OS ([6-9]|[1-9][0-9]).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=https%3A%2F%2Fwww.apple.com%2Flu%2Fshop%2Fbag';
+			headNode.appendChild(sbNode);
+		}
+		
+	</script>
+
+ 
+ 
+	
+<script>
+    window.asUnsupportedBrowserUrl = "https://www.apple.com/lu/shop/unsupported";
+</script>
+
+
+
+
+<script>
+	//replace nojs class with js on html element
+	(function(html){
+		html.className = html.className.replace(/\bnojs\b/,'js')
+	})(document.documentElement);
+</script>
+
+
+<link rel="stylesheet" href="https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-transaction/dist/cart.css" media="screen, print" />
+
+
+
+
+
+
+
+
+	
+	<link rel="stylesheet" href="https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-external/rel/lu/external.css" media="screen, print" />
+
+
+
+
+
+<link rel="stylesheet" href="https://www.apple.com/wss/fonts?families=Myriad+Set+Pro,v2:200,300,400,500,600" media="" />
+
+
+
+
+
+	
+		<script src="https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-external/rel/external.js"></script>
+	
+
+
+
+<script>
+	window.irOn=true;
+</script>
+
+
+
+<script></script>
+
+<script src="https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-transaction/dist/cart.js"></script>
+
+
+
+
+<script>
+	window['optimizely'] = window['optimizely'] || [];
+	window['optimizely'].push(["setCookieDomain","apple.com"]);
+	window.optimizely_tm = 1550601863641;
+	
+</script>
+
+<script src="https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/rs-mvt/rel/lu_jq.js"></script>
+
+
+
+
+<script>
+    (function() {
+        var url = "https://xp.apple.com/report/2/xp_aos_clientperf";
+        var appName = "com.apple.www.Store";
+        var metadata = {
+            
+            environment: "",
+            
+            sf: "lu",
+            seg: "Consumer",
+            locale: "fr-lu",
+            referer: asGetReferrer()
+        };
+
+        var config = {
+            "performance": true,
+            "errors": true
+        };
+
+        if (typeof asTelemetry === 'function') {
+            new asTelemetry(url, appName, metadata, config);
+        }
+    })();
+</script>
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+	
+    
+
+		
+		
+			
+
+    
+				
+     
+	<link rel="stylesheet" href="https://store.storeimages.cdn-apple.com/4668/store.apple.com/shop/Catalog/global/css/web/campaigns/world-aids-day/wad.css" media="all" />
+
+
+			
+
+
+		
+	
+
+
+</head>
+<body id="body-main">
+	
+    <div id="page" class="clearfix">
+        <script>
+            if (window.acStoreClearCache) { window.acStoreClearCache(); }
+        </script>
+
+        
+	
+		
+      	  	
+<meta name="ac-gn-store-key" content="SJHJUH4YFCTTPD4F4" />
+<meta name="ac-gn-segmentbar-redirect" content="true"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<aside dir="ltr" lang="fr-LU" class="ac-gn-segmentbar" id="ac-gn-segmentbar" data-strings="{ 'exit': 'Quitter', 'view': 'Accueil&nbsp;&ndash; {%STOREFRONT%} Store', 'segments': { 'smb': '', 'eduInd': '', 'other': 'Accueil Apple Store' } }">
+</aside>
+<input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"/>
+<nav aria-label="Navigation g&eacute;n&eacute;rale" data-store-locale="lu" data-store-api="https://www.apple.com/lu/shop/bag/status" dir="ltr" id="ac-globalnav" data-hires="false" data-analytics-region="global nav" lang="fr-LU" class="no-js" role="navigation" data-search-api="/search-services/suggestions/" data-search-locale="fr_LU">
+	<div class="ac-gn-content">
+		<ul class="ac-gn-header">
+			<li class="ac-gn-item ac-gn-menuicon">
+				<label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					</span>
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					</span>
+				</label>
+				<a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					<span class="ac-gn-menuanchor-label">Ouvrir le menu</span>
+				</a>
+				<a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					<span class="ac-gn-menuanchor-label">Fermer le menu</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-apple">
+				<a href="https://www.apple.com/lu/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus-small" data-analytics-title="apple home" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+					<span class="ac-gn-link-text">Apple</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+				<a data-string-badge="Panier avec articles" href="/lu/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag">
+					<span class="ac-gn-link-text">Shopping Bag</span>
+					<span class="ac-gn-bag-badge"></span>
+				</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<div class="ac-gn-search-placeholder-container" role="search">
+			<div class="ac-gn-search ac-gn-search-small">
+				<a id="ac-gn-link-search-small" class="ac-gn-link" href="/lu/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link="" aria-label="Rechercher sur apple.com">
+					<div class="ac-gn-search-placeholder-bar">
+						<div class="ac-gn-search-placeholder-input">
+							<div class="ac-gn-search-placeholder-input-text" aria-hidden="true">
+								<div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div>
+								<span class="ac-gn-search-placeholder">Rechercher sur apple.com</span>
+							</div>
+						</div>
+						<div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close">
+							<span class="ac-gn-searchview-close-cancel" aria-hidden="true">Annuler</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<ul class="ac-gn-list">
+			<li class="ac-gn-item ac-gn-apple">
+				<a href="https://www.apple.com/lu/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus" data-analytics-title="apple home" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">Apple</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+				<a href="https://www.apple.com/lu/mac/" class="ac-gn-link ac-gn-link-mac" data-analytics-title="mac" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">Mac</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+				<a href="https://www.apple.com/lu/ipad/" class="ac-gn-link ac-gn-link-ipad" data-analytics-title="ipad" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">iPad</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+				<a href="https://www.apple.com/lu/iphone/" class="ac-gn-link ac-gn-link-iphone" data-analytics-title="iphone" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">iPhone</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+				<a href="https://www.apple.com/lu/watch/" class="ac-gn-link ac-gn-link-watch" data-analytics-title="watch" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">Watch</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+				<a href="https://www.apple.com/lu/tv/" class="ac-gn-link ac-gn-link-tv" data-analytics-title="tv" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">TV</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+				<a href="https://www.apple.com/lu/music/" class="ac-gn-link ac-gn-link-music" data-analytics-title="music" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">Music</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+				<a href="https://www.apple.com/lu/support/" class="ac-gn-link ac-gn-link-support" data-analytics-title="support" data-s-object-id="1bc72ee82798405089d0387a8b6d1e22"  data-evar1="AOS: hybrid_cart |  | " data-evar30="hybrid_cart">
+						<span class="ac-gn-link-text">Assistance</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+				<a href="/lu/search" data-analytics-title="search" aria-label="Rechercher sur apple.com" class="ac-gn-link ac-gn-link-search" id="ac-gn-link-search" data-analytics-click="search"></a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+				<a data-string-badge="Panier avec articles" href="/lu/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag">
+						<span class="ac-gn-link-text">Shopping Bag</span>
+						<span class="ac-gn-bag-badge" aria-hidden="true"></span>
+					</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<aside role="search" class="ac-gn-searchview" id="ac-gn-searchview" data-analytics-region="search">
+			<div class="ac-gn-searchview-content">
+				<div class="ac-gn-searchview-bar">
+					<div class="ac-gn-searchview-bar-wrapper">
+						<form method="get" action="/lu/search" class="ac-gn-searchform" id="ac-gn-searchform">
+							<div class="ac-gn-searchform-wrapper">
+								<input spellcheck="false" autocorrect="off" autocomplete="off" aria-label="Rechercher sur apple.com" placeholder="Rechercher sur apple.com" id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" autocapitalize="off"></input>
+								<input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"/>
+								<button aria-label="Lancer la recherche" class="ac-gn-searchform-submit" type="submit" id="ac-gn-searchform-submit"></button>
+								<button aria-label="Effacer la recherche" class="ac-gn-searchform-reset" type="reset" id="ac-gn-searchform-reset">
+										<span class="ac-gn-searchform-reset-background"></span>
+									</button>
+							</div>
+						</form>
+						<button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="Annuler la recherche">
+								<span class="ac-gn-searchview-close-cancel" aria-hidden="true">
+									Annuler
+								</span>
+							</button>
+					</div>
+				</div>
+				<aside data-string-quicklinks="Raccourcis" data-string-suggestions="Suggestions de recherche" class="ac-gn-searchresults" id="ac-gn-searchresults"></aside>
+			</div>
+			<button aria-label="Annuler la recherche" class="ac-gn-searchview-close" id="ac-gn-searchview-close">
+					<span class="ac-gn-searchview-close-wrapper">
+						<span class="ac-gn-searchview-close-left"></span>
+						<span class="ac-gn-searchview-close-right"></span>
+					</span>
+				</button>
+		</aside>
+		<aside class="ac-gn-bagview" data-analytics-region="bag">
+			<div class="ac-gn-bagview-scrim">
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+			</div>
+			<div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+			</div>
+		</aside>
+	</div>
+</nav>
+<div class="ac-gn-blur"></div>
+<div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+<div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      	 	
+      	
+	
+    
+    
+
+
+
+
+
+
+
+
+        
+
+		
+		
+			
+
+    
+				
+     
+	
+	
+		<div class="localnav-wrapper localnav-headless gh-show-below">
+<div class="localnav"></div>
+</div>
+	
+	
+	
+
+
+
+
+			
+
+
+		
+	
+
+
+        <div role="main">
+            
+            <div class="user-nav-off clearfix">
+                
+	
+
+
+            </div>
+            <div id="bag-banner"></div>
+            <div class="box box--white box--is-rounded box--has-shadow">
+                <div id="cart-level-messages" class="cart-level-messages oln" tabindex="-1"></div>
+                <div class="inset-row">
+                    <div class="grid-row">
+                        <h1 class="fst fwl pvs oln grid-9of10" id="page-header" tabindex="-1" data-autom="bagpagetitle">Articles de votre Panier</h1>
+                        <div id="cart-link" class="clearfix"></div>
+                		<div id="no-javascript-message" class="content-section xs-js">
+                            <p class="h5 strong">
+                				Activez Javascript pour afficher cette page correctement.
+                			</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="cart">
+                    <div class="cart-loader"></div>
+                </div>
+            </div>
+
+            <div id="cart-recommendations"></div>
+
+            <div id="questions" class="faqs box box--white box--is-rounded box--has-shadow ph10 pv10 mb8">
+                
+
+		
+		
+			
+
+    
+				
+     
+	<h2 class="fst heading">
+    Questions
+</h2>
+<div class="content-section clearfix">
+<div class="subsection hrt clearfix"> 
+    <div class="faq-list">
+        <div class="item">
+        <h4 class="question fsl tcdg">
+	
+		Quand recevrai-je mes articles ?
+	
+	
+	
+
+</h4>
+        <p class="answer fsxs mb8 tcg">
+            
+	
+		Nous avons besoin de votre adresse de livraison pour pouvoir vous fournir une estimation précise. Nous vous fournirons une date de livraison une fois que vous aurez saisi votre adresse lors de la commande. En savoir plus sur <a href="/lu/shop/help/shipping_delivery" target="_blank" data-s-object-id="2952b95b58765939b1e696d1b88cfde7"  data-evar1="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: help/shipping_delivery" data-evar30="hybrid_cart/FAQ-list-transaction" data-prop37="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: help/shipping_delivery | CART: Common Questions: Shipping & Pickup">la livraison et le retrait<span class="a11y"> (s’ouvre dans une nouvelle fenêtre)</span></a>.
+	
+	
+	
+
+
+        </p>
+        </div>
+    </div>
+    <div class="faq-list">
+         <div class="item">
+        <h4 class="question fsl tcdg">
+	
+		Quels modes de paiement puis-je utiliser ?
+	
+	
+	
+
+</h4>
+        <p class="answer fsxs mb8 tcg">
+            
+	
+		Vous pouvez utiliser différents moyens de paiement, y compris les cartes bancaires et les Cartes Cadeaux Apple Store, quelle que soit l’option de livraison. <br/><br/>
+Reportez-vous à la section <a href="/lu/shop/help/payments" target="_blank" data-s-object-id="c2e5e4a7c3fd1a5ca8d7504b39ce1131"  data-evar1="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: help/payments" data-evar30="hybrid_cart/FAQ-list-transaction" data-prop37="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: help/payments | CART: Common Questions: Payment & Pricing">Paiement & TVA</a>.
+	
+	
+	
+
+
+        </p>
+        </div>
+    </div>
+    <div class="faq-list last">
+         <div class="item">
+        <h4 class="question fsl tcdg">
+	
+		Quel taux de TVA s'applique ?
+	
+	
+	
+
+</h4>
+        <p class="answer fsxs mb8 tcg">
+            
+	
+		Pour une grande majorité de produits, le taux de TVA en vigueur dans votre pays s’applique à vos achats dans les Apple Store. Reportez-vous à la section <a href="/lu/shop/help/payments" target="_blank" data-s-object-id="c2e5e4a7c3fd1a5ca8d7504b39ce1131"  data-evar1="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: help/payments" data-evar30="hybrid_cart/FAQ-list-transaction">Paiement & TVA</a>.
+	
+	
+	
+
+
+        </p>
+        </div>
+    </div>
+</div>
+<div class="subsection hrt clearfix">
+    <div class="faq-list">
+        <div class="item">
+        <h4 class="question fsl tcdg">
+	
+		Apple offre-t-elle une remise Éducation ?
+	
+	
+	
+
+</h4>
+        <p class="answer fsxs mb8 tcg">
+            
+	
+		Apple propose des tarifs préférentiels aux étudiants, aux enseignants, aux membres du conseil d’administration et aux membres du personnel. Si vous pensez pouvoir en bénéficier, rendez-vous sur l’<a href="/lu/shop/browse/home/education_routing" target="_blank" data-s-object-id="2861bd4a2e51b1f5e1ab3774809f6824"  data-evar1="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: home/education_routing" data-evar30="hybrid_cart/FAQ-list-transaction" data-prop37="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: home/education_routing | CART: Common Questions: Apple Store for Education">Apple Store Éducation</a> pour passer votre commande.
+	
+	
+	
+
+
+        </p>
+        </div>
+    </div>  
+    <div class="faq-list">
+         <div class="item">
+        <h4 class="question fsl tcdg">
+	
+		Comment faire des achats pour ma famille et mes amis dans toute l’Europe ?
+	
+	
+	
+
+</h4>
+        <p class="answer fsxs mb8 tcg">
+            
+	
+		Consultez l’Apple Store en ligne du pays de destination, puis passez commande à l’aide d’une carte de crédit. Si vous ne parlez pas la langue du pays de destination, veuillez appeler un Spécialiste Apple Store au 800 25662.
+	
+	
+	
+
+
+        </p>
+        </div>
+    </div>
+        <div class="faq-list last">
+         <div class="item">
+        <h4 class="question fsl tcdg">
+	
+		Ma commande peut-elle être livrée ailleurs que chez moi?
+	
+	
+	
+
+</h4>
+        <p class="answer fsxs mb8 tcg">
+            
+	
+		Oui. Vous pouvez saisir l’adresse de votre choix au moment de la validation de votre commande, lorsque vous y êtes invité. Vous pouvez également opter pour la livraison dans un <a href="/lu/shop/help/shipping_delivery#pickup_points" data-s-object-id="2445c37460199921c5a61f83f3652ce3"  data-evar1="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 0 | AOS: shipping_delivery#pickup_points" data-evar30="hybrid_cart/FAQ-list-transaction">point de retrait</a>.
+<br><br>
+En savoir plus sur <a href="/lu/shop/help/shipping_delivery" target="_blank" data-s-object-id="fcec7e2346c4e45cfa23e3716ae5524d"  data-evar1="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 1 | AOS: help/shipping_delivery" data-evar30="hybrid_cart/FAQ-list-transaction" data-prop37="AOS: hybrid_cart | FAQ-list-transaction | Astro Link | 1 | AOS: help/shipping_delivery | CART: Common Questions: Shipping & Pickup">l’expédition et la livraison</a>.
+	
+	
+	
+
+
+        </p>
+        </div>
+    </div>
+</div>
+</div>
+
+
+			
+
+
+		
+	
+
+            </div>
+
+        </div>
+
+        <script id="init_data" type="application/json">{"meta":{"l":["/shoppingCart"],"h":{"x-aos-model-page":"cart","x-aos-stk":"e5318a3c"}},"abs":{"BagBanner":{"b":{"bag-banner":{"id":{"op":"ADD","args":[{"get":"d.id"},"-bag-banner"]},"key":"d.bag-banner","events":[{"on":"load","delay":50,"do":[{"set":"d._visible","to":true}]}]}},"v":[{"id":{"get":"d.id"},"template":"{{#deliveryMessageBannerEnabled}} <div class=\"box--white box--is-rounded box--has-shadow ph10 pv10 mb8\">\n\t<div class=\"icon-shipping as-purchaseinfo-availabilityicons\" style=\"padding: 17px 0 17px 14px;\">\n\t\t<span>\n\t\t\t<img src=\"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/image/AppleInc/aos/published/images/d/el/delivery/message/delivery-message-banner?wid=19&amp;hei=21&amp;fmt=png-alpha&amp;.v=1515024377276\" alt=\"Shipping Information\" width=\"19\" height=\"21\" data-scale-params-2=\"wid=38&amp;hei=42&amp;fmt=png-alpha&amp;.v=1515024377276\" style=\"vertical-align: middle;padding-right: 7px;\" class=\"ir\" /> \n\t\t</span>\n\t\t<span style=\"display: inline-block;vertical-align: middle;max-width: 96%;font-family: 'Myriad Set Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;line-height: 24px;\">\n\t\t\tLivraison et retours gratuits.\n\t\t</span>\n     </div>\n</div> {{/deliveryMessageBannerEnabled}}"}]}},"shoppingCart":{"d":{"metricId":"db46a1e79fee541c03f194bc9ea7f524","signInEvar1":"Bag | Sign in | ","evar1":"Bag | Continue shopping | ","shopAccessoriesLinkDisplay":"Acheter des accessoires","automationData":"bagshopaccessorieslink","signInUrl":"https://secure2.store.apple.com/lu/shop/sign_in?c=aHR0cHM6Ly93d3cuYXBwbGUuY29tL2x1L3Nob3AvYmFnfDFhb3MwZWY0ZjAwMzY3ZjQ2MWRhMDljMWM2NTM4ODg5OTY4MzgwZjhjNzk2&r=SCDHYHP7CY4H9XK2H&s=aHR0cHM6Ly93d3cuYXBwbGUuY29tL2x1L3Nob3AvYmFnfDFhb3MwZWY0ZjAwMzY3ZjQ2MWRhMDljMWM2NTM4ODg5OTY4MzgwZjhjNzk2&t=S99KKATD9FP9FHCP4","hasItems":false,"id":"cart","shopAccessoriesLink":"/lu/shop/accessories/all-accessories","signInMetricId":"a4ac010036a748bc915371440f979586","accessoriesEvar1":"Bag | Shop Accessories | ","accessoriesMetricId":"ea2ca1f974760d8498a73ffc4e228639","showFinancingInfoMessage":false},"a":{"checkout":{"url":"/lu/shop/bagx/checkout_now?_a=checkout&_m=shoppingCart","submit":true}},"c":["banner","items","footnotes","summary","actions"],"v":[{"id":"cart","template":"{{#if _c_recommendedSystem}} <div id=\"recommended-system\"></div> {{/if}} {{#hasItems}} <div id=\"{{id}}-header\"></div> {{#if _c_addToCart}} <div id=\"add-to-cart\"></div> {{/if}} {{#_c_items}} {{> CartItems }} {{/_c_items}}  {{#_c_summary}} {{> OfferSummary }} {{/_c_summary}} <div id=\"{{id}}-actions\" class=\"hrt nmh10\"></div> {{/hasItems}} {{^hasItems}} {{#if _c_addToCart}} <div id=\"add-to-cart\"></div> {{/if}} <div class=\"tac ptl hrt empty-cart-container\"> <div class=\"fwb ptl  pbs fsm\" id=\"{{id}}-items-empty\"> <p>Votre Panier est vide.</p> {{#signInUrl}} <p class=\"pbs fwb fsm\"> Si vous avez déjà un compte, <a href=\"{{signInUrl}}\" data-evar1=\"{{signInEvar1}}\" data-s-object-id=\"{{signInMetricId}}\" data-autom=\"bagsigninlink\">connectez-vous</a> pour voir votre Panier. </p> {{/signInUrl}} </div> <div id=\"cookies-message\" class=\"pvl tac\"><span> Si vous essayez d’ajouter des articles à votre Panier mais que celui-ci reste vide, il se peut que les cookies soient désactivés dans les paramètres de votre navigateur. Si tel est le cas, veuillez autoriser les cookies et réessayer. </span></div>  <div class=\"empty-cart-action-container hrt \"> <div class=\"empty-cart-action-group\">  <div class=\"tal\"> <ul class=\"clearfix cart-actions-left-inner\"> <li> <a href=\"{{shopAccessoriesLink}}\" data-evar1=\"{{accessoriesEvar1}}\" data-s-object-id=\"{{metricId}}\" class=\"link\" data-autom=\"{{automationData}}\"> <span class=\"\">{{shopAccessoriesLinkDisplay}}</span> </a> </li> <li> <a href=\"/lu/shop/bag/saved_bags\" class=\"link pipe\" data-autom=\"bagviewsavebagslink\"> <span>Voir les Paniers enregistrés</span> </a> </li> </ul> </div> <div class=\"tar\"> <a class=\"button continue-shopping\" href=\"/lu/.\" data-evar1=\"{{evar1}}\" data-s-object-id=\"{{metricId}}\" data-autom=\"bagcontinueshoppinglink\"> <span class=\"icon-home\"></span>  Continuer les achats </a> </div>   </div> </div> </div> {{/hasItems}} "}],"banner":{"f":{"abstract":"/abs.BagBanner"},"d":{"deliveryMessageBannerEnabled":true,"id":"bag-banner","deliveryMessage":"Livraison gratuite pour toute commande supérieure à €40. Et retours gratuits.","bag-banner":null,"_visible":false}},"items":{"d":{"id":"cart-items","disableRemove":false,"_editing":true},"p":{"editing":true},"v":[{"id":"cart-items","template":"<ul class=\"inset-row\" id=\"{{id}}\"> {{#each _c}} {{>CartItem}} {{/each}} </ul> ","name":"CartItems"}]},"footnotes":{"d":{"id":"amount-due-text","exitWithBuyUp":false,"isFlagshipEnable":true,"isGeoLocationEnabled":false},"v":[{"id":"amount-due-text","template":"{{#if exitWithBuyUp}}*The Remaining iPhone Upgrade Program Balance is based on information provided by Citizens One regarding payments made to date. It will be re-calculated when your iPhone ships or becomes available for pickup.{{/if}}"}]},"summary":{"d":{"hasSubscription":false,"financingMessage":"","id":"cart-summary","showBuacMessage":false,"showInstallmentMessage":false},"c":["initialAmountDue"],"v":[{"id":"cart-summary","template":"  <div id=\"{{id}}\" class=\"inset-row clearfix\"> <div class=\"summary-container hrt clearfix\"> <ul class=\"gs cart-message\" role=\"presentation\"> <li><ul id=\"{{id}}-deliveryDatesOverlay\"><li></li></ul> <div id =\"deal-closer\"></div> <div id =\"order-level-deal-closer\"></div> </li> <li></li> <li></li> {{#showInstallmentMessage}} <li>Installments are only available on single item purchases.</li> {{/showInstallmentMessage}} {{#showBuacMessage}} <li class=\"buac\"> <span class=\"buac-help-message-img\"><img src=\"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/image/AppleInc/aos/published/images/b/ua/buac/asterisk/buac-asterisk?wid=11&amp;hei=13&amp;fmt=png-alpha&amp;.v=1515024377257\" alt=\"“transaction.cart.asterisk”/\" width=\"11\" height=\"13\" data-scale-params-2=\"wid=22&amp;hei=26&amp;fmt=png-alpha&amp;.v=1515024377257\" class=\"ir\" /> </span>\n&nbsp;<span class=\"buac-help-message-text\"> Shipping and pickup options can be selected in Checkout.</span> </li> {{/showBuacMessage}} <li {{#showBuacMessage}}class=\"hidden\"{{/showBuacMessage}}> {{#showFinancingMessage 'general'}}{{#if content}}{{{content}}}{{/content}}{{/showFinancingMessage}} </li> {{#financeCalculatorUrl}} <li><a href=\"{{financeCalculatorUrl}}\" id=\"estimate-your-monthly-amount\" class=\"finance-calculator-link\" rel=\"nofollow\" role=\"button\">{{financeCalculatorText}} </a></li> {{/financeCalculatorUrl}} </ul> <div class=\"offer-summary cmg\"> <table class=\"r-align\"> <caption><span class=\"a11y\">Détail du coût total</span></caption> <tr {{#unless subtotal}}class=\"hidden\"{{/unless}}> {{#if subtotal}} <th class=\"label\" data-autom=\"bagsubtotallabel\">Sous-total du Panier</th> <td data-autom=\"bagsubtotalvalue\">{{subtotal}}</td> {{/if}} </tr> <tr {{#unless installmentTotal}}class=\"hidden\"{{/unless}}> {{#if installmentTotal}} <th class=\"label\" data-autom=\"baginstallmenttotallabel\">Total Amount</th> <td data-autom=\"baginstallmenttotalvalue\">{{installmentTotal}}</td> {{/if}} </tr> <tr {{#unless installmentTotalFinanced}}class=\"hidden\"{{/unless}}> {{#if installmentTotalFinanced}} <th class=\"label\" data-autom=\"bagfinancedlabel\">Total Financed Via Citizens One</th> <td data-autom=\"bagfinancedvalue\">{{installmentTotalFinanced}}</td> {{/if}} </tr> <tr {{#unless shipping}}class=\"hidden\"{{/unless}}> {{#shipping}} <td class=\"label\" data-autom=\"bagshippinglabel\"> {{#addForFreeShipping}} <span class=\"label add-shipping text-alert\">{{.}}</span> {{/addForFreeShipping}} {{#free}} <span class=\"label free-shipping\">Livraison gratuite</span>{{/free}} {{^free}} <span class=\"label\">Livraison</span>{{/free}} </td> <td data-autom=\"bagshippingvalue\" {{#free}}class=\"free-shipping\"{{/free}}>{{cost}}</td> {{/shipping}} </tr> <tr class=\"text-alert {{#unless savings}}hidden{{/unless}}\"> {{#savings}} <td class=\"label\"> Remise (HT) </td> <td>{{savings}}</td> {{/savings}} </tr> <tr id=\"tax-calculator\" > {{^taxCalculatorEnabled}} {{#tax}} <td class=\"label\">TVA</td> <td>{{.}}</td> {{/tax}} {{/taxCalculatorEnabled}} </tr> <tr class=\"offer-upgrade cmg {{#unless upgrade}}hidden{{/unless}}\"> {{#upgrade}} <th class=\"label\">{{upgradePaymentLabel}}</th> <td>{{upgradeProgramBalance}}</td> {{/upgrade}} </tr> <tr {{#unless installmentsremainingpayments}}class=\"hidden\"{{/unless}}> {{#if installmentsremainingpayments}} <th class=\"label\" data-autom=\"baginstallmentremaininglabel\">First Monthly Installment</th> <td data-autom=\"baginstallmentremainingvalue\">{{installmentsremainingpayments}}</td> {{/if}} </tr> {{^totalDisable}} <tr class=\"offer-total fsl fweb\"> <td class=\"label total-top\" data-autom=\"bagtotallabel\">Total</td> <td class=\"offer-total-value total-top\" data-autom=\"bagtotalvalue\">{{total}}</td> </tr> {{/totalDisable}} {{#if installmentsAmountDue}} <tr id=\"intial-amount-due\" class=\"offer-total fsl fweb\"></tr> {{/if}} <tr class=\"text-alert {{#unless totalSavings}}hidden{{/unless}}\"> {{#if totalSavings}} <td class=\"label\">Économie totale</td> <td>{{totalSavings}}</td> {{/if}} </tr> <tr class=\"text-alert {{#unless totalSavingsInclusiveTax}}hidden{{/unless}}\"> {{#if totalSavingsInclusiveTax}} <td class=\"label\">Économie totale</td> <td>{{totalSavingsInclusiveTax}}</td> {{/if}} </tr> <tr {{#unless taxExclusiveTax}}class=\"hidden\"{{/unless}}> {{#if taxExclusiveTax}} <td colspan=\"2\" class=\"total-message\"> <span>TVA incluse de</span> <span>{{taxExclusiveTax}}</span> </td> {{/if}} </tr> <tr {{#unless totalListSavings}}class=\"hidden\"{{/unless}}> {{#if totalListSavings}} <td colspan=\"2\" class=\"total-listsavings-message text-alert\"> <span>Total savings of</span> <span>{{totalListSavings}}</span> </td> {{/if}} </tr> {{#showFinancingMessage 'total'}} {{#if content}} <tr> <td colspan=\"2\" class=\"total-message\">{{{content}}}</td> </tr> {{/if}} {{/showFinancingMessage}} {{#showDynamicFinancing}} {{#creditOffer}} <tr> <td colspan=\"2\" class=\"dynamicFinancing\">{{{loanOffer}}}</td> </tr> {{/creditOffer}} {{/showDynamicFinancing}} </table> </div> </div> </div>  ","name":"OfferSummary"}],"initialAmountDue":{"d":{"id":"intial-amount-due"},"v":[{"id":"intial-amount-due","template":"  <td class=\"label total-top\" data-autom=\"baginitialamountlabel\"> <info data-title=\"Initial Amount Due*\" data-uid=\"amountdue-help\" data-position=\"top left\"> {{#if installmentAmountDueHelp}} {{{installmentAmountDueHelp}}} {{/if}} </info> Initial Amount Due*</td> <td class=\"offer-total-value total-top\" data-autom=\"baginitialamountvalue\">{{installmentsAmountDue}}</td> "}]}},"actions":{"d":{"metricId":"ea2ca1f974760d8498a73ffc4e228639","globalAccessoriesLink":"/lu/shop/accessories/all-accessories","evar1":"Bag | Shop Accessories | ","shopAccessoriesLinkDisplay":"Acheter des accessoires","merchantIdentifier":"","chatDisabled":false,"consumerStore":true,"fcscounter":"","automationData":"bagshopaccessorieslink","BagCount":null,"id":"cart-actions","shouldShowChat":false,"shopAccessoriesLink":"/lu/shop/accessories/all-accessories","apwEnabled":false,"fcsdata":""},"b":{"saveCart":{"id":"cart-actions-saveCart","events":[{"on":"click","do":"a.saveCart","metric":"t.saveCart"}]},"fcs2":{"id":"cart-actions-fcs2","localKey":"fcs2"},"checkout":{"id":"cart-actions-checkout","events":[{"on":"click","do":[{"set":"d.fcsdata","to":{"get":"d.fcs1"}},{"set":"d.fcs1","to":""},{"set":"d.fcscounter","to":{"get":"d.fcs2"}},{"set":"d.fcs2","to":""},"^a.checkout"],"metric":"t.checkoutStandard"}]},"fcscounter":{"id":"cart-actions-fcscounter","key":"d.fcscounter","submit":true},"BagCount":{"id":"cart-actions-BagCount","key":"d.BagCount","events":[{"on":"load","do":[{"method":"updateBagCount","args":[0]}]}]},"fcs1":{"id":"cart-actions-fcs1","localKey":"fcs1"},"fcsdata":{"id":"cart-actions-fcsdata","key":"d.fcsdata","submit":true}},"a":{"saveCart":{"url":"/lu/shop/bagx?_a=saveCart&_m=shoppingCart.actions","submit":true}},"t":{"saveCart":{"microEvents":[{"key":"prop37","value":"SaveBag","feature":"Bag"}],"macroEvents":"event12"},"checkoutStandard":{"microEvents":[{"key":"eVar39","value":"StandardCheckout","feature":"Bag"}]}},"v":[{"id":"cart-actions","template":"  <div class=\"cart-action-group pv14 clearfix\"> <div class=\"cart-actions-left\"> <ul class=\"clearfix cart-actions-left-inner\"> {{^disableCheckout}} <li> <a href=\"{{shopAccessoriesLink}}\" data-evar1=\"{{evar1}}\" data-s-object-id=\"{{metricId}}\" class=\"link\" data-autom=\"{{automationData}}\"> <span>{{shopAccessoriesLinkDisplay}}</span> </a> </li> <li class=\"pipe\"> <button class=\"link\" id=\"{{id}}-saveCart\" data-autom=\"bagsavebaglink\"> Enregistrer le Panier </button> </li> {{/disableCheckout}} <li {{^disableCheckout}}class=\"pipe\"{{/disableCheckout}}> <a href=\"/lu/shop/bag/saved_bags\" class=\"link\" data-autom=\"bagviewsavebagslink\"> <span>Voir les Paniers enregistrés</span> </a> </li> <li class=\"pipe\"> <button class=\"link as-chat-button\"> Discuter maintenant </button> </li> </ul> </div> {{#showPinCodeModule}} <div class=\"pincode-section cart-actions-right\" id=\"{{id}}-pinCodeEligibility\"></div> {{/showPinCodeModule}} <div class=\"cart-actions-right {{#apwEnabled}}cart-action-apnoten{{/apwEnabled}}\"> {{#if disableCheckout}} <button id=\"{{id}}-saveCart\" class=\"cart-action-checkout button button-transaction {{#isLoading}}busy{{/isLoading}}\" data-autom=\"bagsavebagbutton\"> Enregistrer le Panier </button> {{else}} <button id=\"{{id}}-checkout\" class=\"cart-action-checkout button button-transaction {{#isLoading}}busy{{/isLoading}}\" data-autom=\"bagcheckoutbutton\"> Valider la commande <spinner></spinner> </button> {{/if}} </div> {{#apwEnabled}} <div class=\"cart-actions-right cart-action-apen\"> <button id=\"{{id}}-apenCart\" class=\"cart-action-apencheckout button merchandising {{#isLoading}}busy{{/isLoading}}\" data-autom=\"bagcheckoutbutton\"> Payer avec Apple Pay <spinner></spinner> </button> <div class=\"cart-apen-otheroptions\"> <button id=\"{{id}}-checkout-otheroptions\" class=\"cart-action-checkout button {{#isLoading}}busy{{/isLoading}}\" data-autom=\"bagcheckoutbutton\" aria-describedby=\"apen-otheroptions-text\"> Payer avec d’autres options de paiement <spinner></spinner> </button> <p id=\"apen-otheroptions-text\">Other payment options include Debit/Credit card, Barclaycard Visa, PayPal, Apple Store gift cards.</p> </div> </div> {{/apwEnabled}} {{#if merchantIdentifier}} {{#showApplePayButton}}{{/showApplePayButton}} {{/if}} </div>  "}]}}}</script>
+        <div class="footnotes-primary">
+            <div class="footnotes">
+</div>
+            
+
+		
+		
+			
+
+    
+				
+			
+
+
+		
+	
+
+            
+
+		
+		
+			
+
+    
+				
+			
+
+
+		
+	
+
+            <div id="amount-due-text"></div>
+		</div>
+
+        
+            <div class="as-footnotes as-globalfooter-transparent">
+                <div class="as-footnotes-content">
+                    <div class="as-footnotes-sosumi">
+                        
+    <div class="pricing">
+        Les prix indiqués incluent la TVA (17%) et les frais de recyclage applicables, mais s'entendent hors frais de livraison (sauf mention contraire). Le bon de commande fait apparaître le montant de la TVA et, le cas échéant, les frais de recyclage à payer sur les produits sélectionnés.
+    </div>
+
+
+                        <div class="footnotes">
+                            
+
+		
+		
+			
+
+    
+				
+			
+
+
+		
+	
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+	
+       	
+	    	
+	    		<footer class="as-globalfooter as-globalfooter-contained no-js">
+	<div class="as-globalfooter-content">
+
+	
+
+	<div class="as-globalfooter-breadcrumbs">
+		
+	    	
+	
+			<a href="https://www.apple.com/lu/" class="as-globalfooter-breadcrumbs-home">
+				<span class="as-globalfooter-breadcrumbs-home-icon"></span>
+				<span class="as-globalfooter-breadcrumbs-home-label">
+					Apple
+				</span>
+			</a>
+	
+	<div class="as-globalfooter-breadcrumbs-path">
+		<ol class="as-globalfooter-breadcrumbs-list">
+
+			
+				
+			
+
+	
+
+	
+
+	
+	<li class="as-globalfooter-breadcrumbs-item">
+			
+					
+						
+						<span class="breadcrumbs-title">Panier</span>
+
+						
+			
+		</li>
+	 
+	
+	
+	
+	 </ol>
+</div>
+
+	    
+ 	</div>
+
+	<nav role="navigation" aria-label="Autres liens Apple Store" class="as-globalfooter-directory with-5-columns">
+			
+				<div class="as-globalfooter-directory-column">
+					
+						<input type="checkbox" class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-0-1" />
+						<div data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" class="as-globalfooter-directory-column-section">
+							<label for="as-globalfooter-state-0-1" class="as-globalfooter-directory-column-section-label">
+								<h2 class="as-globalfooter-directory-column-section-title">
+										S’informer et acheter
+								</h2>
+							</label>
+							<a href="#as-globalfooter-state-0-1" class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open"><span class="as-globalfooter-directory-column-section-anchor-label">Ouvrir le menu</span></a>
+							<a href="#" class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close"><span class="as-globalfooter-directory-column-section-anchor-label">Fermer le menu</span></a>
+							<ul class="as-globalfooter-directory-column-section-list">
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/mac/" data-s-object-id="786b5eb8ca32ae9412df5c162e0e918a"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 0 | Mac" data-evar30="hybrid_cart/Footer_Navigation">
+											Mac
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/ipad/" data-s-object-id="64778368767b78976fa68ed62f900707"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 1 | iPad" data-evar30="hybrid_cart/Footer_Navigation">
+											iPad
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/iphone/" data-s-object-id="139df0dafdef08ee37700b2304c58dfd"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 2 | iPhone" data-evar30="hybrid_cart/Footer_Navigation">
+											iPhone
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/watch/" data-s-object-id="8fe2857d50187baf0336acdcc87c1dd4"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 3 | Watch" data-evar30="hybrid_cart/Footer_Navigation">
+											Watch
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/tv/" data-s-object-id="bebd783fbdbfef168c5c0aaa3b1fd1ea"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 4 | TV" data-evar30="hybrid_cart/Footer_Navigation">
+											TV
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/music" data-s-object-id="b0ce606cc4e46da8e4f38d8b8220921d"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 5 | Music" data-evar30="hybrid_cart/Footer_Navigation">
+											Music
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/itunes" data-s-object-id="ed6c5fd74f6ff7844aa79b44e0aac15c"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 6 | iTunes" data-evar30="hybrid_cart/Footer_Navigation">
+											iTunes
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/ipod" data-s-object-id="8cd1e98419b26447ea6a67cd3512714e"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 7 | iPod touch" data-evar30="hybrid_cart/Footer_Navigation">
+											iPod touch
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="/lu/shop/accessories/all-accessories" data-s-object-id="088cfee6c88539c98a199dbf040074e0"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 8 | Accessoires" data-evar30="hybrid_cart/Footer_Navigation">
+											Accessoires
+											
+											<span class="a11y">(S’informer et acheter)</span>
+											
+										</a>
+									</li>
+								
+							</ul>
+						</div>
+					
+				</div>
+			
+				<div class="as-globalfooter-directory-column">
+					
+						<input type="checkbox" class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-1-1" />
+						<div data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" class="as-globalfooter-directory-column-section">
+							<label for="as-globalfooter-state-1-1" class="as-globalfooter-directory-column-section-label">
+								<h2 class="as-globalfooter-directory-column-section-title">
+										Apple Store
+								</h2>
+							</label>
+							<a href="#as-globalfooter-state-1-1" class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open"><span class="as-globalfooter-directory-column-section-anchor-label">Ouvrir le menu</span></a>
+							<a href="#" class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close"><span class="as-globalfooter-directory-column-section-anchor-label">Fermer le menu</span></a>
+							<ul class="as-globalfooter-directory-column-section-list">
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" data-s-object-id="aaaff5f4405f761fce70bd2c597dde65"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 0 | App Apple Store" data-evar30="hybrid_cart/Footer_Navigation">
+											App Apple Store
+											
+											<span class="a11y">(Apple Store)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/trade-in" data-s-object-id="045bbbf0737ef161f69a8ed4c271782f"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 1 | Apple&nbsp;GiveBack" data-evar30="hybrid_cart/Footer_Navigation">
+											Apple GiveBack
+											
+											<span class="a11y">(Apple Store)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://secure.store.apple.com/lu/order/list" data-s-object-id="6fdca0340eaae827ebc5bb6f054842fa"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 2 | &Eacute;tat de votre commande" data-evar30="hybrid_cart/Footer_Navigation">
+											État de votre commande
+											
+											<span class="a11y">(Apple Store)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="/lu/shop/help" data-s-object-id="0af2d5cb17438f7cd68d5132b70f8664"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 3 | Aide &agrave; l&rsquo;achat" data-evar30="hybrid_cart/Footer_Navigation">
+											Aide à l’achat
+											
+											<span class="a11y">(Apple Store)</span>
+											
+										</a>
+									</li>
+								
+							</ul>
+						</div>
+					
+				</div>
+			
+				<div class="as-globalfooter-directory-column">
+					
+						<input type="checkbox" class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-2-1" />
+						<div data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" class="as-globalfooter-directory-column-section">
+							<label for="as-globalfooter-state-2-1" class="as-globalfooter-directory-column-section-label">
+								<h2 class="as-globalfooter-directory-column-section-title">
+										
+								</h2>
+							</label>
+							<a href="#as-globalfooter-state-2-1" class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open"><span class="as-globalfooter-directory-column-section-anchor-label">Ouvrir le menu</span></a>
+							<a href="#" class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close"><span class="as-globalfooter-directory-column-section-anchor-label">Fermer le menu</span></a>
+							<ul class="as-globalfooter-directory-column-section-list">
+								
+							</ul>
+						</div>
+					
+						<input type="checkbox" class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-2-2" />
+						<div data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" class="as-globalfooter-directory-column-section">
+							<label for="as-globalfooter-state-2-2" class="as-globalfooter-directory-column-section-label">
+								<h2 class="as-globalfooter-directory-column-section-title">
+										
+								</h2>
+							</label>
+							<a href="#as-globalfooter-state-2-2" class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open"><span class="as-globalfooter-directory-column-section-anchor-label">Ouvrir le menu</span></a>
+							<a href="#" class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close"><span class="as-globalfooter-directory-column-section-anchor-label">Fermer le menu</span></a>
+							<ul class="as-globalfooter-directory-column-section-list">
+								
+							</ul>
+						</div>
+					
+				</div>
+			
+				<div class="as-globalfooter-directory-column">
+					
+						<input type="checkbox" class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-3-1" />
+						<div data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" class="as-globalfooter-directory-column-section">
+							<label for="as-globalfooter-state-3-1" class="as-globalfooter-directory-column-section-label">
+								<h2 class="as-globalfooter-directory-column-section-title">
+										Compte
+								</h2>
+							</label>
+							<a href="#as-globalfooter-state-3-1" class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open"><span class="as-globalfooter-directory-column-section-anchor-label">Ouvrir le menu</span></a>
+							<a href="#" class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close"><span class="as-globalfooter-directory-column-section-anchor-label">Fermer le menu</span></a>
+							<ul class="as-globalfooter-directory-column-section-list">
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://appleid.apple.com" data-s-object-id="26e63a12e8d61af6cab6348859a94e05"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 0 | G&eacute;rer votre identifiant Apple" data-evar30="hybrid_cart/Footer_Navigation">
+											Gérer votre identifiant Apple
+											
+											<span class="a11y">(Compte)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="/lu/shop/browse/account/home" data-s-object-id="e2d4d3fb319233ffcdf170af87b99ed3"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 1 | Compte Apple Store" data-evar30="hybrid_cart/Footer_Navigation">
+											Compte Apple Store
+											
+											<span class="a11y">(Compte)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.icloud.com" data-s-object-id="e9bcdb559396358d635a6e1965468abd"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 2 | iCloud.com" data-evar30="hybrid_cart/Footer_Navigation">
+											iCloud.com
+											
+											<span class="a11y">(Compte)</span>
+											
+										</a>
+									</li>
+								
+							</ul>
+						</div>
+					
+						<input type="checkbox" class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-3-2" />
+						<div data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" class="as-globalfooter-directory-column-section">
+							<label for="as-globalfooter-state-3-2" class="as-globalfooter-directory-column-section-label">
+								<h2 class="as-globalfooter-directory-column-section-title">
+										Valeurs d’Apple
+								</h2>
+							</label>
+							<a href="#as-globalfooter-state-3-2" class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open"><span class="as-globalfooter-directory-column-section-anchor-label">Ouvrir le menu</span></a>
+							<a href="#" class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close"><span class="as-globalfooter-directory-column-section-anchor-label">Fermer le menu</span></a>
+							<ul class="as-globalfooter-directory-column-section-list">
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/privacy" data-s-object-id="d266f8a46f5422de6da781ee786b0cb7"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 0 | Confidentialit&eacute;" data-evar30="hybrid_cart/Footer_Navigation">
+											Confidentialité
+											
+											<span class="a11y">(Valeurs d’Apple)</span>
+											
+										</a>
+									</li>
+								
+							</ul>
+						</div>
+					
+				</div>
+			
+				<div class="as-globalfooter-directory-column">
+					
+						<input type="checkbox" class="as-globalfooter-directory-column-section-state" id="as-globalfooter-state-4-1" />
+						<div data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" class="as-globalfooter-directory-column-section">
+							<label for="as-globalfooter-state-4-1" class="as-globalfooter-directory-column-section-label">
+								<h2 class="as-globalfooter-directory-column-section-title">
+										À propos d’Apple
+								</h2>
+							</label>
+							<a href="#as-globalfooter-state-4-1" class="as-globalfooter-directory-column-section-anchor as-globalfooter-directory-column-section-anchor-open"><span class="as-globalfooter-directory-column-section-anchor-label">Ouvrir le menu</span></a>
+							<a href="#" class="as-globalfooter-direcotry-column-section-anchor as-globalfooter-directory-column-section-anchor-close"><span class="as-globalfooter-directory-column-section-anchor-label">Fermer le menu</span></a>
+							<ul class="as-globalfooter-directory-column-section-list">
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="https://www.apple.com/lu/newsroom/" data-s-object-id="3bbb89c48f2086a360e66e62d7232c2b"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 0 | Newsroom" data-evar30="hybrid_cart/Footer_Navigation">
+											Newsroom
+											
+											<span class="a11y">(À propos d’Apple)</span>
+											
+										</a>
+									</li>
+								
+									<li class="as-globalfooter-directory-column-section-item">
+										<a class="as-globalfooter-directory-column-section-link" href="http://www.apple.com/legal/warranty/statutoryrights.html" data-s-object-id="b8741aca600e5439587d762a40a8a84f"  data-evar1="AOS: hybrid_cart |  | Footer Navigation | 1 | Garantie l&eacute;gale" data-evar30="hybrid_cart/Footer_Navigation">
+											Garantie légale
+											
+											<span class="a11y">(À propos d’Apple)</span>
+											
+										</a>
+									</li>
+								
+							</ul>
+						</div>
+					
+				</div>
+			
+	</nav>
+
+	 <div class="as-globalfooter-mini">
+
+	    
+
+	<div class="as-globalfooter-mini-shop">
+		
+	
+		<p>Vous pouvez aussi faire vos achats par téléphone au <span class="nowrap">800 25662 ou chez un <a href="https://locate.apple.com/lu/fr" data-s-object-id="f88836d2316e55b14bb2072aeeb4b31e"  data-evar1="AOS: hybrid_cart |  | Astro Link | 0 | AOS: locate.apple.com/lu/fr" data-evar30="hybrid_cart/Astro_Link">revendeur agréé</a></span>.</p>
+	
+	
+	
+
+		    
+	</div>
+
+
+
+		
+			<div class="as-globalfooter-mini-locale">
+
+	        		<a class="as-globalfooter-mini-locale-link" href="https://www.apple.com/choose-your-country" data-s-object-id="5bb0dfaa0980e587b22d4c56f9854d02"  data-evar1="AOS: hybrid_cart |  | Navigation Footer | 0 | Country Selector" data-evar30="hybrid_cart/Navigation_Footer">
+	        			<img class="ir as-globalfooter-mini-locale-flag ir as-globalfooter-mini-locale-flag ir" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/image/AppleInc/aos/published/images/c/ou/country/icon/country-icon-lu?wid=16&amp;hei=16&amp;fmt=png-alpha&amp;op_usm=0.5,0.5&amp;.v=0" alt="" width="16" height="16" data-scale-params-2="wid=32&amp;hei=32&amp;fmt=png-alpha&amp;op_usm=0.5,0.5&amp;.v=0" />
+	        			Luxembourg
+	        			</a>
+	        			
+	        </div>
+	    
+	   <div class="as-globalfooter-mini-legal">
+			<p class="as-globalfooter-mini-legal-copyright">
+	    		Copyright &copy; 2019 Apple Inc.  Tous droits r&eacute;serv&eacute;s.
+	    	</p>
+	    	<p class="as-globalfooter-mini-legal-links">
+		    	 	
+        <a class="as-globalfooter-mini-legal-link" href="http://www.apple.com/legal/privacy/fr-ww">Engagement de confidentialité</a>
+    
+    
+        <a class="as-globalfooter-mini-legal-link" href="http://www.apple.com/legal/privacy/fr-ww/cookies">Utilisation des cookies</a>
+    
+ 	
+    	<a class="as-globalfooter-mini-legal-link" href="http://www.apple.com/legal/internet-services/terms/site.html">Conditions d’utilisation</a>
+    
+	
+        <a class="as-globalfooter-mini-legal-link" href="/lu/shop/open/salespolicies">Ventes et remboursements</a>
+	
+    
+ 
+
+
+				<a class="as-globalfooter-mini-legal-link" href="/lu/shop/browse/sitemap" data-s-object-id="5cb2ed5d3fba5a3ab8e6201e5d439bc8"  data-evar1="AOS: hybrid_cart |  | Navigation Footer | 3 | Sitemap" data-evar30="hybrid_cart/Navigation_Footer">
+			        Plan du site
+			    </a>
+		    </p>
+    	</div>
+
+
+		</div>
+
+	</div>
+</footer>
+
+		
+		
+    
+    
+	
+	<script type="text/mustache" id="{{WebOverlay}}">
+		
+			<div class="overlay" tabindex="-1" {{#if isAriaDialog}}role=alertdialog aria-describedby=overlayContent{{uid}}    aria-labelledby=overlayHeading{{uid}}{{/if}}><span class="chrome tl"></span><span class="chrome tr"></span><span class="chrome top"></span><span class="chrome left"></span><span class="chrome right"></span><span class="chrome bottom"></span><span class="chrome bl"></span><span class="chrome br"></span><span class="chrome center"></span><div class="container"><div class="content" id="overlayContent{{uid}}" style="{{{as.WebOverlay.contentSize width height}}}">{{#if contentIsHtml}}{{{content}}}{{else}}{{#if contentIsTemplate}}{{{as.include content}}}{{else}}{{content}}{{/if}}{{/if}}</div>{{#if recoveryOptions.length}}<ul class="buttons recoveryOptions">{{#recoveryOptions}}<li><button {{data 'recoveryOption'}}>{{text}}</button></li>{{/recoveryOptions}}</ul>{{/if}}</div>{{#if canClose}}<button class="close">{{close}}</button>{{/if}}</div>
+		
+	</script>
+
+
+
+		
+
+<script>dciddstr = 'fec27ec05cec51fcbbf92b4eb956f0874d35f9e1675f5aae766e88e32058400bc2cc501b484576d79aa1cd79fe4165aee057ac401141ff73635e470699d1919824a3369ed3202fdefd164ab7831522697257e3739ff692ac239fec3f30be95e51fdc14b59932642cf0c598f4c4e59e8bfb9997f0d2895d9e769121ab37879a722316e01383916a8c9d10d5f7d4b99c22c57b434711c90a4a16555f534a2b94aed47536e7022f85a9c928738d70bff8177f2893d7755250aa4e82a207878873738d4e708b21c60174f2adb13bb9322786011febef4c4c006ed059122a066da8aa28cde693f9e0ddfcaaa19b4ba44d04033f0be50c2f5a49c6a949aa56379a7b8e4b1ba99c7fa7ff90a3a2ce2ba1f131259c6112e8beaff80050137f68c5c25ed767fc124a367d2ffe3afd7898fd3247932602de9f6b8dcd15bb4b621bf078919a332aa9d2aef551b26ac07d8fa6b02975657b4a0eaf2ae278a89f02c96544ed04c9d063e47563fa416845aa237cca2a07317122078309678cca76b07c73053e336232036aa5b76d16ec7731340f188ce044343a8c3a33f2a5343c66b69b66896b6d591cfcc0096be498d950ef7c6ca792bb8909603f2780ddddc1c837f6685715a41be2d0cad6094000f05238f360fac78dd5e2e120af8dbc78e5ab2b49d12559655b34a5db53e19e5471f0ba982a3c737e48bb76ae57d06cafbe75fc1e00d7dd8e5b3a32e8ff748859d2e76c9d70c41713c24cc569d8cba582c908c03ba9a321aaa7722fbad53233131323b5f479fad554745e0f';</script>
+
+
+		
+
+<script>dciddstr = '70c2622db62fb69b555f0d521c61673da57b989b42ccd2f748cd2cba29236f0bf35331796e4bbf121520440e37b6bca92ac2cc57ebc083217d155279791ddd525a0503acf2676f8b1f1a6913ed9a70002f2423f89d9084acf3c4ccc918f5b0431dcc66edbf4440136237e094bb16fd6693f0e7b7115d1e2c791d8c372ae453786d326fcb99fcb2b3db34ba2c2fda2a24c7ea71c3e35c6cd11cfe58735f5dfdb9e77ea1a9869b8948f6bab92fa92ecf0bb0c305105cb9d5228f97a3a8745085da712c22fd9af8f906ecd3ac2eeddda1166ab6b46e4edb07a30c816affae1a49623651508489793059279dc0330821b6288cc7bb637e677b40ffbcb1df8378d1857fbe0e04cde67baa3a8636db3def0bae8f0e7fd17b54b84ab24f8d30f062b1e2c44dee1b85aaa48bbc0fe5283ec5e8509218dcea71600c2d29a8f2a2d88daa9c06f23afec3959d0b13f0c4e62c76b7d0a4ff178a14584da4757aba0618e18aad004738bf18c443ce612a488fa5f73e709cce59b563967ff66fff7aec80fde386b435f4552c6098b25bcaa229c891aa9814f82ef44129e70041afc53b730d0fd395e67020f2379e67932e91599c62ef8cbd01e53afb02a59845ac218921a35463c3cdb65d142dca1c79e5052120e80d80eaedd230b2bec5404312fcc91994f4e16d49bd9b0455f085b12d9824f6a85a84747c9baa08edd77d453c1b11438335c3e9600c840375a251aa5dd14dc05d1ee70803c67400e3c823a59ca7902d4d1bdfa902a662a134feda09f47f00fb4238ea9bd9bf90';</script>
+
+
+    </div>
+
+    
+	
+	<script type="text/mustache" id="{{WebOverlayError}}">
+		
+			<div class="blue-header-popup">    <div class="header">        <h2>${translate.overlay.error.header}</h2>    </div>    <div class="content clearfix">        <p><strong>${translate.overlay.error.description}</strong></p>        <div class="error-actions">            <button class="cancel continue"><span class="replaced">${translate.store.button_text.continue}</span></button>        </div>    </div>    <div class="footer empty-footer">        <p>&nbsp;</p>    </div></div>
+		
+	</script>
+
+
+
+    
+	
+	<script type="text/mustache" id="{{WebOverlay}}">
+		
+			<div class="overlay" tabindex="-1" {{#if isAriaDialog}}role=alertdialog aria-describedby=overlayContent{{uid}}    aria-labelledby=overlayHeading{{uid}}{{/if}}><span class="chrome tl"></span><span class="chrome tr"></span><span class="chrome top"></span><span class="chrome left"></span><span class="chrome right"></span><span class="chrome bottom"></span><span class="chrome bl"></span><span class="chrome br"></span><span class="chrome center"></span><div class="container"><div class="content" id="overlayContent{{uid}}" style="{{{as.WebOverlay.contentSize width height}}}">{{#if contentIsHtml}}{{{content}}}{{else}}{{#if contentIsTemplate}}{{{as.include content}}}{{else}}{{content}}{{/if}}{{/if}}</div>{{#if recoveryOptions.length}}<ul class="buttons recoveryOptions">{{#recoveryOptions}}<li><button {{data 'recoveryOption'}}>{{text}}</button></li>{{/recoveryOptions}}</ul>{{/if}}</div>{{#if canClose}}<button class="close">{{close}}</button>{{/if}}</div>
+		
+	</script>
+
+
+
+    
+	
+	<script type="text/mustache" id="{{Bubble}}">
+		
+			<div class="bubble {{#isBelow}}below{{/isBelow}}">    <span class="chrome tl"></span>    <span class="chrome tr"></span>    <span class="chrome top"></span>    <span class="chrome left"></span>    <span class="chrome right"></span>    <span class="chrome bottom"></span>    <span class="chrome bl"></span>    <span class="chrome br"></span>    <span class="chrome center"></span>    <div class="container" style="{{{as.WebOverlay.contentSize width height}}}">        <div class="content" id="overlayContent{{uid}}">            {{#if contentIsHtml}}                {{{content}}}            {{else}}                {{content}}            {{/if}}        </div>    </div>    <span class="chrome arrow"></span></div>
+		
+	</script>
+
+
+
+    
+    <script type="application/json" data-render>
+        {
+            "bag-installment-overlay-loaded": null
+        }
+    </script>
+
+    <script type="text/mustache" data-render>
+        <overlay data-uid="bag-installment-overlay" data-sheet="{{dataSheet}}" class="as-overlay{{#dataSheet}} as-overlay-fullscreen as-overlay-withscrim{{/dataSheet}}{{^dataSheet}} as-overlay-popup{{/dataSheet}} as-overlay-flex" data-shown="{bag-installment-overlay-loaded}" data-aria-labelledby="installment-overlay-header">
+            <div class="as-overlay-content{{^dataSheet}} as-overlay-contentnopadding{{/dataSheet}}"> 
+                <div class="as-installments">
+                    <loader data-uid="bag-installment-overlay-loader" data-loaded="{bag-installment-overlay-loaded}"> </loader> 
+                </div>
+            </div> 
+            <button class="as-overlay-close ase-overlay-close" data-ase-overlay="bag-installment-overlay" data-ase-click="hide"> 
+                <i class="icon icon-close"></i> 
+                <span class="a11y">
+                    Fermer
+                </span> 
+            </button>  
+        </overlay>
+    </script>
+    
+    <script>
+        (function (window, $, as, can, undefined) {
+            as.isDesktop = true;
+            can.Mustache.registerHelper("isDesktop", function(options) {
+                return as.isDesktop ? options.fn(options.contexts) : false;
+            });
+            can.Mustache.registerHelper("isMobile", function(options) {
+                return !as.isDesktop ? options.fn(options.contexts) : false;
+            });
+            /* for gifting materializer */
+            can.stache.registerHelper("editContentShown", function(options) {
+                var content = options.fn(options.contexts),
+                    isTrue = (content === 'true'),
+                    isFalse = (content === 'false'),
+                    isBool = isTrue || isFalse,
+                    editContent_visible = options.context['modeTab'] === 'edit';
+                return isBool ? (isTrue === editContent_visible) : (editContent_visible ? content : false);
+            });
+            /*for finance message(general) and installment message(total)*/
+            can.stache.registerHelper("showFinancingMessage", function(type, options) {
+                    var totalPattern = new RegExp("installments"),
+                        /*options.context can access the data in the scope*/
+                        content = options.context.financingMessage,
+                        findTotalPattern = totalPattern.test(content);
+                    if (findTotalPattern) {
+                        if (type !== 'total') content = '';
+                    } else {
+                        if (type !== 'general') content = '';
+                    }
+                    return options.fn({
+                     content: content
+                    });
+            });
+            /*To show the Pay with Apple Pay button only if the user has a valid credit card in the Wallet*/
+            can.stache.registerHelper("showApplePayButton", function(options) {
+					var merchantIdentifier = options.context.merchantIdentifier;
+					if(merchantIdentifier && window.ApplePaySession) {
+						window.acStoreApplePay.canUseApplePay(merchantIdentifier).then(function(result) {
+							!!result
+								? document.documentElement.classList.add('supports-apw-activecard')
+								: document.documentElement.classList.remove("supports-applepay", "supports-apw");
+						}).catch(function(error) {});
+					}
+            });
+            /*for NPI overlay focus */
+            can.view.attr("data-focus-when", function( el, attrData ) {
+                var handler = function(ev, newVal, oldVal){
+                    if (newVal) {
+                        setTimeout(function() { el.focus(); }, 1000);
+                    }
+                };
+
+                var attrValues = el.getAttribute("data-focus-when").split(',');
+                var itemsFocusInCompute = [];
+                for(var i=0; i<attrValues.length; i+=1){
+                    var focusInCompute = attrData.scope.compute(attrValues[i]);
+                    focusInCompute.bind("change", handler);
+                    itemsFocusInCompute.push(focusInCompute);
+                }
+
+                $(el).bind("remove", function(){
+                    for(var i=0; i<itemsFocusInCompute.length; i+=1){
+                        itemsFocusInCompute[i].unbind(handler);
+                    }
+                });
+            });
+            window.ctrl = new as.OrbitParser();
+            window.ctrl.processNewData(JSON.parse($("#init_data").html()));
+        }(window, jQuery, as, can));
+    </script>
+    
+    <div class="metrics">
+      
+		
+        <noscript>
+            <img alt="" width="1" height="1" src="https://securemetrics.apple.com/b/ss/applestoreww,appleluglobal/1/H.8--NS/0?pageName=No-Script:AOS%3A+bag" />
+        </noscript>
+
+
+
+		
+        <script>
+            
+            s.account = "applestoreww,appleluglobal";
+            s.account = s.account.replace(/,,/g, ",");
+        </script>
+
+
+
+		
+ <script></script>
+
+
+		
+
+<script>
+
+	
+		if (window.optimizely && window.as.mvt.siteCatalystIntegrate){
+			window.as.mvt.siteCatalystIntegrate();
+		}
+	
+
+            var ametrics = new apple.metrics.Metrics({
+                isHome: false,
+                storeId: "wA9C494JUDUAXKYP4",
+                evarDataNodes: true
+            });
+
+			if (!ametrics.getVar) {
+  				 ametrics.getVar = ametrics.getPageLoadMetricsDataForVariable || function() {return '';};
+			}
+
+            
+            
+            
+            
+            s.pageName = ametrics.pageName("AOS: bag");
+            
+            
+            s.server = "m8107382";
+            s.hier1 = "hybrid_bag";
+            s.charSet = "UTF-8";
+            s.currencyCode = "EUR";
+            
+            s.prop4 = "D=g";
+            s.prop5 = navigator.platform + ((window.devicePixelRatio || 0) >= 2 ? " 2x" : "");
+            s.prop5 = s.prop5.toLowerCase();
+            
+            s.prop8 = "AOS: Bag";
+            
+            s.prop19 = "AOS: LU Consumer: cart";
+            s.prop20 = "AOS: LU Consumer";
+            
+            
+            
+            
+            
+            
+
+            
+            
+
+            s.prop37 = ametrics.getProp37() || "";
+            s.prop40 = "26456";
+            
+            s.prop42 = ametrics.getProp42();
+            
+            s.eVar20 =  "" || ametrics.getVar('eVar20');
+            s.eVar53 = "CheckoutRollout:Baseline";
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+                s.products = ametrics.getProducts() || ametrics.appendEvar11("", "scView");
+                s.events = "scView";
+            
+
+            
+
+            
+                s.eVar1 = ametrics.getEvar1() || "";
+                s.eVar2 = "";
+                s.eVar3 = "AOS: Apple Store Luxembourg";
+                s.eVar4 = "D=pageName";
+            
+
+            
+			
+            
+			s.eVar14 = "fr-lu";			
+            s.eVar19 = "D=c19";
+            
+            
+            
+            s.eVar26 = "AOS: bag | Banner | Livraison gratuite pour toute commande supérieure à €40. Et retours gratuits.";
+            
+            
+			
+            
+ 			
+			s.eVar31 = ametrics.getEvar31();
+
+            s.linkInternalFilters = "javascript:,store.apple.com,secure.store.apple.com,secure1.store.apple.com,secure2.store.apple.com,epp.apple.com,secure1.epp.apple.com,storeint.apple.com,secure1.storeint.apple.com,www.apple.com,#";
+
+            if (ametrics.appendEvents) {
+                s.events = ametrics.appendEvents(s.events);
+            }
+            if (ametrics.getPageLoadTime) {
+                s.eVar9 = ametrics.getPageLoadTime();
+            }
+
+            
+
+            ametrics.mark();
+
+            
+            var s_code = s.t();if(s_code)document.write(s_code);
+
+</script>
+
+
+	  
+ 	</div>
+
+
+
+	
+
+
+	
+
+
+</body>
+
+</html>

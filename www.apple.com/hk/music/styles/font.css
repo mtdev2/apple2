@@ -1,0 +1,35 @@
+/*web-font 2016-12-28*/
+.inner .subsection-headline:lang(zh-HK),
+.grid .copy .eyebrow-subsection:lang(zh-HK) {
+   font-family: "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.subsection-headline {
+    font-size: 30px;
+    line-height: 1.21053;
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 1068px) {
+    .subsection-headline {
+        font-size: 24px;
+	}
+}   
+
+@media only screen and (max-width: 735px) {
+    .subsection-headline {
+        font-size: 22px;
+    }
+}
+
+.grid .copy .eyebrow-subsection:lang(zh-HK){
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+
+sup.big_size { font-size: 1em; bottom: 0 }
+
+/* center align small only */
+@media only screen and (max-width: 735px) { html[lang=zh-HK] .centersmall { padding-left: 0.7em; } }
+
+.page-overview .section-billboard.homepod .copy-wrapper .violator { font-size: 14px; }

@@ -1,0 +1,13 @@
+
+.contact .nacc .section-content .us-icon { background-image:url("https://images.apple.com/contact/images/united_states_large.png"); background-size:16px 16px; width:16px; height:16px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 144dppx) {
+  .contact .nacc .section-content .us-icon { background-image:url("https://images.apple.com/contact/images/united_states_large_2x.png"); }
+}
+.contact .nacc .section-content .mexico-icon { background-image:url("https://images.apple.com/contact/images/mexico_large.png"); background-size:16px 16px; width:16px; height:16px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 144dppx) {
+  .contact .nacc .section-content .mexico-icon { background-image:url("https://images.apple.com/contact/images/mexico_large_2x.png"); }
+}
+.contact .nacc .section-content .canada-icon { background-image:url("https://images.apple.com/contact/images/canada_large.png"); background-size:16px 16px; width:16px; height:16px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 144dppx) {
+  .contact .nacc .section-content .canada-icon { background-image:url("https://images.apple.com/contact/images/canada_large_2x.png"); }
+}

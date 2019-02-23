@@ -1,0 +1,1022 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+    background-image: url("/tr/home/images/heroes/choose_red_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_small_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-wad-choose-red {
+        background-image: url("/tr/home/images/heroes/choose_red_mediumtall_2x.jpg")
+    }
+}
+
+.logo-image-logo-series-4 {
+    background-image: url("/tr/home/images/promos/logo_series_4_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-logo-series-4 {
+        background-image: url("/tr/home/images/promos/logo_series_4_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-logo-series-4 {
+        background-image: url("/tr/home/images/promos/logo_series_4_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-logo-series-4 {
+        background-image: url("/tr/home/images/promos/logo_series_4_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-logo-series-4 {
+        background-image: url("/tr/home/images/promos/logo_series_4_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-logo-series-4 {
+        background-image: url("/tr/home/images/promos/logo_series_4_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+    background-image: url("/tr/home/images/promos/all_new_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+        background-image: url("/tr/home/images/promos/all_new_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+        background-image: url("/tr/home/images/promos/all_new_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+        background-image: url("/tr/home/images/promos/all_new_medium_2x.jpg")
+    }
+}
+
+.logo-image-apple-watch-series-4-logo-hero-d4753 {
+    background-image: url("/tr/home/images/promos/apple_watch_series_4_logo_hero_d4753_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-apple-watch-series-4-logo-hero-d4753 {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_logo_hero_d4753_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-apple-watch-series-4-logo-hero-d4753 {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_logo_hero_d4753_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-apple-watch-series-4-logo-hero-d4753 {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_logo_hero_d4753_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-apple-watch-series-4-logo-hero-d4753 {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_logo_hero_d4753_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-apple-watch-series-4-logo-hero-d4753 {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_logo_hero_d4753_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+    background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_small_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/tr/home/images/promos/apple_watch_series_4_4aeff_mediumtall_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-tv-apple-tv-4k--2e48473791 {
+    background-image: url("/tr/home/images/promos/apple_tv_4k__2e48473791_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-tv-apple-tv-4k--2e48473791 {
+        background-image: url("/tr/home/images/promos/apple_tv_4k__2e48473791_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-tv-apple-tv-4k--2e48473791 {
+        background-image: url("/tr/home/images/promos/apple_tv_4k__2e48473791_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-tv-apple-tv-4k--2e48473791 {
+        background-image: url("/tr/home/images/promos/apple_tv_4k__2e48473791_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-tv-apple-tv-4k--2e48473791 {
+        background-image: url("/tr/home/images/promos/apple_tv_4k__2e48473791_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-tv-apple-tv-4k--2e48473791 {
+        background-image: url("/tr/home/images/promos/apple_tv_4k__2e48473791_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="event-takeover-hero"] .logo-image-hero-headline {
+    background-image: url("/tr/home/images/heroes/headline_making_5175e9a6_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-hero"] .logo-image-hero-headline {
+        background-image: url("/tr/home/images/heroes/headline_making_5175e9a6_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="event-takeover-hero"] .logo-image-hero-headline {
+        background-image: url("/tr/home/images/heroes/headline_making_5175e9a6_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-hero"] .logo-image-hero-headline {
+        background-image: url("/tr/home/images/heroes/headline_making_5175e9a6_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-hero"] .logo-image-hero-headline {
+        width: 280px;
+        height: 124px;
+        background-size: 280px 124px;
+        background-image: url("/tr/home/images/heroes/headline_making_5175e9a6_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-hero"] .logo-image-hero-headline {
+        background-image: url("/tr/home/images/heroes/headline_making_5175e9a6_small_2x.png")
+    }
+}
+
+.main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+    background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_small_2x.jpg")
+    }
+}
+
+
+.main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .image-watch-series-4 {
+    background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .image-watch-series-4 {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .image-watch-series-4 {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .image-watch-series-4 {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .image-watch-series-4 {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .image-watch-series-4 {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+    background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-watch-series-4-16a4d2fc {
+        background-image: url("/tr/home/images/promos/watch_series_4_16a4d2fc_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+    background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_small_2x.png")
+    }
+}
+
+
+
+.main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .logo-image-apple-watch-series-4 {
+    background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .logo-image-apple-watch-series-4 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .logo-image-apple-watch-series-4 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .logo-image-apple-watch-series-4 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .logo-image-apple-watch-series-4 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="event-takeover-promos"] [data-unit-id="apple-watch-series-4"] .logo-image-apple-watch-series-4 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_small_2x.png")
+    }
+}
+
+
+
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+    background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-logo-watch-series-4-9eb9c9b1 {
+        background-image: url("/tr/home/images/promos/logo_watch_series_4_9eb9c9b1_small_2x.png")
+    }
+}
+
+
+
+
+
+
+.logo-image-apple-watch-series-4-logo-hero {
+    background-image: url("/tr/home/images/heroes/apple_watch_series_4_logo_hero_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-apple-watch-series-4-logo-hero {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_logo_hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-apple-watch-series-4-logo-hero {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_logo_hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-apple-watch-series-4-logo-hero {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_logo_hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-apple-watch-series-4-logo-hero {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_logo_hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-apple-watch-series-4-logo-hero {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_logo_hero_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+    background-image: url("/tr/home/images/heroes/apple_watch_series_4_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_small_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4 {
+        background-image: url("/tr/home/images/heroes/apple_watch_series_4_mediumtall_2x.jpg")
+    }
+}
+
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-back-to-school-last-chance {
+    background-image: url("/tr/home/images/promos/last_chance_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-back-to-school-last-chance {
+        background-image: url("/tr/home/images/promos/last_chance_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-back-to-school-last-chance {
+        background-image: url("/tr/home/images/promos/last_chance_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-back-to-school-last-chance {
+        background-image: url("/tr/home/images/promos/last_chance_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-back-to-school-last-chance {
+        background-image: url("/tr/home/images/promos/last_chance_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-back-to-school-last-chance {
+        background-image: url("/tr/home/images/promos/last_chance_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+    background-image: url("/tr/home/images/promos/ipad_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/tr/home/images/promos/ipad_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/tr/home/images/promos/ipad_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/tr/home/images/promos/ipad_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/tr/home/images/promos/ipad_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-ipad {
+        background-image: url("/tr/home/images/promos/ipad_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-ios {
+    background-image: url("/tr/home/images/promos/ios_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-ios {
+        background-image: url("/tr/home/images/promos/ios_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-ios {
+        background-image: url("/tr/home/images/promos/ios_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-ios {
+        background-image: url("/tr/home/images/promos/ios_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-ios {
+        background-image: url("/tr/home/images/promos/ios_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-ios {
+        background-image: url("/tr/home/images/promos/ios_small_2x.jpg")
+    }
+}
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+/* No Ligatures */
+body { -webkit-font-variant-ligatures: no-common-ligatures; }
+body { font-variant-ligatures: no-common-ligatures; }
+
+.show-for-small { display:none; }
+.show-for-medium { display:none; }
+.show-for-large { display:block; }
+
+@media only screen and (max-width: 1068px) {
+	.show-for-small { display:none; }
+	.show-for-medium { display:block; }
+	.show-for-large { display:none; }
+	.hide-for-medium{display:none;}
+}
+
+@media only screen and (max-width: 735px) {
+	.show-for-small { display:block; }
+	.show-for-medium { display:none; }
+	.show-for-large { display:none; }
+	.hide-for-small{display:none;}
+	.hide-for-medium{display:inline-block}
+}
+
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/
+
+/* MUSIC TILE */
+
+main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/dx/images/promos/apple-music/apple_music_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_small_2x.jpg")
+    }
+}
+
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/dx/images/promos/apple-music/apple_music_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music {
+        background-image: url("/v/home/dx/images/promos/apple-music/apple_music_small_2x.jpg")
+    }
+}
+
+.logo-image-music {
+    width: 127px;
+    height: 31px;
+    background-size: 127px 31px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/dx/images/logos/music_large.png");
+    background-position: center
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-music {
+        background-image: url("/v/home/dx/images/logos/music_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-music {
+        width: 103px;
+        height: 25px;
+        background-size: 103px 25px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/logos/music_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-music {
+        background-image: url("/v/home/dx/images/logos/music_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-music {
+        width: 103px;
+        height: 25px;
+        background-size: 103px 25px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/logos/music_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-music {
+        background-image: url("/v/home/dx/images/logos/music_small_2x.png")
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon {
+    width: 37px;
+    height: 37px;
+    background-size: 37px 37px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/dx/images/promos/apple-music/icon_apple_music_large.png");
+    display: inline-block
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon {
+        background-image: url("/v/home/dx/images/promos/apple-music/icon_apple_music_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon {
+        width: 33px;
+        height: 33px;
+        background-size: 33px 33px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/promos/apple-music/icon_apple_music_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon {
+        background-image: url("/v/home/dx/images/promos/apple-music/icon_apple_music_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon {
+        width: 33px;
+        height: 33px;
+        background-size: 33px 33px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/dx/images/promos/apple-music/icon_apple_music_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon {
+        background-image: url("/v/home/dx/images/promos/apple-music/icon_apple_music_small_2x.png")
+    }
+}
+
+.tr-margin-top{
+    margin-top:10px;
+}
+
+
+
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="event-takeover-hero"] .logo-image-hero-headline.tr-hero-margin-top {
+        margin-top: -26px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) {
+    .main [data-module-template="event-takeover-promos"] .event-takeover-promo {
+        height: 400px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xr"] .litany .unit-copy-wrapper .subhead.tr-se-width {
+        width: 92%;
+    }
+}
+
+@media only screen and (max-height: 775px) and (min-width: 1069px){
+    .main [data-module-template="heroes"]:not(.standalone-module) .unit-wrapper {
+        height: 590px;
+    }
+
+    .main [data-module-template="heroes"] .unit-image-wrapper {
+        height: 101%;
+    }
+}
+
+
+/* IPHONE XR HERO FIX */
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xr"] .litany .unit-image.tr-margin-top-fix {
+        margin-top: 0.1em;
+        top: 10px;
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .headline,
+.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .subhead,
+.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta {
+    max-width: 503px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .headline,
+    .main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .subhead,
+    .main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta {
+        max-width: 330px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .headline,
+    .main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .subhead,
+    .main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .cta {
+        max-width: 90%
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="ipad-newWay"] .unit-copy-wrapper .subhead {
+    max-width: 400px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="ipad-newWay"] .unit-copy-wrapper .subhead {
+        max-width: 300px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id="ipad-newWay"] .unit-copy-wrapper .subhead {
+        max-width: 330px
+    }
+}
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xr"] .unit-copy-wrapper {
+        padding-top: 7px;
+    }
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+    width: 680px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+        width: 605px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+        width: 95%
+    }
+}

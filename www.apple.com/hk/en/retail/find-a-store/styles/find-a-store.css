@@ -1,0 +1,16 @@
+
+
+.main .select-style { float:none; margin:0px auto 0px; padding-left:20px; background-color:#fff; }
+.main .select-style select {height:36px; width:328px; padding-right:40px; padding-left:0;
+	font-family: inherit;
+	-webkit-appearance:none;
+	appearance:none;
+}
+
+@media only screen and (max-width: 735px) {.main .select-style select { width:268px; }}
+
+
+/* for ie */
+.ie .main .select-style { width:100%; }
+.ie .main .select-style select { display:block; margin-left:auto; margin-right:auto; zoom:1; }
+

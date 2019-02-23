@@ -1,0 +1,22 @@
+.page-overview .section-billboard.accessories {
+  background-color: #fafafa;
+}
+.page-overview .section-billboard.itunes {
+  background-color: #fafafa;
+}
+.page-overview .section-billboard.gift-cards {
+  background-color: #fff;
+}
+.page-overview .section-apps {
+  background-color: #fff;
+}
+.page-overview .section-working-with.working-with {
+  background-color: #fafafa;
+}
+.page-overview .section-billboard.itunes .links-inline li {
+  margin-left: 10px;
+}
+
+.page-overview .section-product-red .copy-container {
+  direction: rtl;
+}

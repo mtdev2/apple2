@@ -1,0 +1,123 @@
+/*------------------------------------*\
+		 LOCAL SCREENS
+\*------------------------------------*/
+
+
+html.no-inline-video .section-macos .video-container .video-elm { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  html.no-inline-video .section-macos .video-container .video-elm { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  html.no-inline-video .section-macos .video-container .video-elm { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  html.no-inline-video .section-macos .video-container .video-elm { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  html.no-inline-video .section-macos .video-container .video-elm { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  html.no-inline-video .section-macos .video-container .video-elm { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_small_2x.jpg"); }
+}
+.section-macos .video-container .image-endframe { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-macos .video-container .image-endframe { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .section-macos .video-container .image-endframe { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-macos .video-container .image-endframe { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-macos .video-container .image-endframe { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-macos .video-container .image-endframe { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_endframe__b7x2ikus2rde_small_2x.jpg"); }
+}
+.section-keyboard .icon-larger { background-image:url("/hu/macbook-air/images/overview/trackpad__fseybxb7lkuy_large.png"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-keyboard .icon-larger { background-image:url("/hu/macbook-air/images/overview/trackpad__fseybxb7lkuy_large_2x.png"); }
+}
+.section-macos .figure-wrapper .image-iphone { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_iphone__c662gzwqkioi_large.png"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-macos .figure-wrapper .image-iphone { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_iphone__c662gzwqkioi_large_2x.png"); }
+}
+@media only screen and (max-width: 1068px) {
+  .section-macos .figure-wrapper .image-iphone { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_iphone__c662gzwqkioi_medium.png"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-macos .figure-wrapper .image-iphone { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_iphone__c662gzwqkioi_medium_2x.png"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-macos .figure-wrapper .image-iphone { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_iphone__c662gzwqkioi_small.png"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-macos .figure-wrapper .image-iphone { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/macos_iphone__c662gzwqkioi_small_2x.png"); }
+}
+.section-macos .subsection-continuity .image-messages { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/messages__cmaxxxi74c2u_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-macos .subsection-continuity .image-messages { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/messages__cmaxxxi74c2u_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .section-macos .subsection-continuity .image-messages { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/messages__cmaxxxi74c2u_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-macos .subsection-continuity .image-messages { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/messages__cmaxxxi74c2u_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-macos .subsection-continuity .image-messages { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/messages__cmaxxxi74c2u_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-macos .subsection-continuity .image-messages { background-image:url("/euro/macbook-air/a/screens_alt/images/overview/messages__cmaxxxi74c2u_small_2x.jpg"); }
+}
+.section-macos .icon-notes {
+    width: 70px;
+    height: 70px;
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+    background-image: url("/euro/macbook-air/a/generic/images/overview/icon_notes_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-macos .icon-notes {
+        background-image: url("/euro/macbook-air/a/generic/images/overview/icon_notes_large_2x.png")
+    }
+}
+
+/*------------------------------------*\
+	 END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+	 GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+	 END GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+	 LOCAL FIXES
+\*------------------------------------*/
+
+.section-router .section-content {
+  border-top: 1px solid #d6d6d6;
+}
+
+
+
+
+
+/*------------------------------------*\
+	 END LOCAL FIXES
+\*------------------------------------*/

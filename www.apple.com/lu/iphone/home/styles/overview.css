@@ -1,0 +1,103 @@
+/*------------------------------------*\
+    LOCAL SCREENS
+\*------------------------------------*/
+
+
+.page-overview .section-hero-promos .banner-promo.apple-giveback .promo-image {
+  background-size: 335px 373px;
+  background-repeat: no-repeat;
+  background-image: url("/euro/iphone/home/u/generic/images/overview/apple-giveback_large.jpg");
+  background-position: bottom center;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-overview .section-hero-promos .banner-promo.apple-giveback .promo-image {
+    background-image: url("/euro/iphone/home/u/generic/images/overview/apple-giveback_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero-promos .banner-promo.apple-giveback .promo-image {
+    background-size: 270px 351px;
+    background-repeat: no-repeat;
+    background-image: url("/euro/iphone/home/u/generic/images/overview/apple-giveback_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero-promos .banner-promo.apple-giveback .promo-image {
+    background-image: url("/euro/iphone/home/u/generic/images/overview/apple-giveback_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero-promos .banner-promo.apple-giveback .promo-image {
+    background-size: 213px 169px;
+    background-repeat: no-repeat;
+    background-image: url("/euro/iphone/home/u/generic/images/overview/apple-giveback_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero-promos .banner-promo.apple-giveback .promo-image {
+    background-image: url("/euro/iphone/home/u/generic/images/overview/apple-giveback_small_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero-promos .banner-promo.apple-giveback .promo-image {
+    width: 213px;
+    height: 169px;
+    left: 50%;
+    margin-left: -106.5px;
+    position: relative;
+    padding-top: 42px;
+  }
+}
+
+
+/*------------------------------------*\
+    END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+    LOCAL FIXES
+\*------------------------------------*/
+
+@media only screen and (max-width: 735px) {
+	.page-overview .section-seasonal .promo-copy-wrapper {
+		margin-bottom: 20px;
+	}
+}
+
+@media only screen and (min-width: 1069px) {
+  .page-overview .promo-section .banner-promo.apple-giveback {
+    height: 550px;
+  }
+}
+
+@media only screen and (max-width: 735px) {
+ .page-overview .ase-ribbon {
+  height:189px;
+ }
+}
+
+@media only screen and (max-width: 1068px) and (max-width: 1068px) {
+    .page-overview .ase-ribbon-content {
+        width: 645px;
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 735px) {
+    .page-overview .ase-ribbon-content {
+        width: 87.5%
+    }
+}
+
+
+/*------------------------------------*\
+    END LOCAL FIXES
+\*------------------------------------*/

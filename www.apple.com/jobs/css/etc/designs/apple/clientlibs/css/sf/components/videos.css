@@ -1,0 +1,194 @@
+/* ==========================================================================
+  AC Video Styles
+========================================================================== */
+.ac-video-player {
+  margin: 0 auto;
+  max-width: 980px;
+  max-width: 54.44444em; }
+
+.ac-video-player:-webkit-full-screen {
+  max-width: none; }
+
+/* ==========================================================================
+  AC Video Modal
+========================================================================== */
+.ac-modal-video {
+  background: white; }
+
+.ac-modal-video .modal-content {
+  left: 0;
+  margin-left: 0; }
+
+.ac-modal-video .ac-video-player {
+  max-width: none; }
+
+/* ==========================================================================
+  Video Component Styles
+========================================================================== */
+.video-player {
+  overflow: hidden;
+  position: relative; }
+
+.ac-player-handheld .video-player .ac-video-player {
+  height: auto;
+  position: static;
+  visibility: visible;
+  z-index: auto;
+  width: 100%; }
+
+.video-player--hero {
+  background: #fff; }
+
+.video-player--hero--modal {
+  padding-bottom: 96.27%; }
+  @media only screen and (min-width: 736px) {
+    .video-player--hero--modal {
+      padding-bottom: 51.7%; } }
+
+.video-player--hero--text .video-content {
+  margin: 0 2.2rem; }
+  @media only screen and (min-width: 1069px) {
+    .video-player--hero--text .video-content {
+      box-sizing: border-box;
+      margin: 0 auto;
+      max-width: calc(1200px - 10rem);
+      max-width: calc(66.66667em - 10rem);
+      padding: 0; } }
+
+.video-player--hero--text .video-content__text {
+  bottom: 25px;
+  max-width: 300px;
+  position: absolute; }
+  @media only screen and (min-width: 736px) {
+    .video-player--hero--text .video-content__text {
+      bottom: 12.5%;
+      margin-right: 16.6666%;
+      max-width: 50%;
+      right: 0;
+      width: 33.3333%; } }
+  @media only screen and (min-width: 1069px) {
+    .video-player--hero--text .video-content__text {
+      margin-right: 8.3333%; } }
+
+.video-player--hero--text--top-right .video-content__text {
+  bottom: auto;
+  top: 25px; }
+  @media only screen and (min-width: 736px) {
+    .video-player--hero--text--top-right .video-content__text {
+      bottom: auto;
+      top: 12.5%; } }
+
+.video-player--hero--text .video-content__text p {
+  color: #fff;
+  font-size: 16px;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 5px; }
+  @media only screen and (min-width: 736px) {
+    .video-player--hero--text .video-content__text p {
+      font-size: 23px;
+      font-size: 2.3rem;
+      font-weight: 700;
+      margin-bottom: 10px; } }
+
+.video-overlay {
+  height: 100%;
+  position: absolute;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+  width: 100%;
+  z-index: 50; }
+
+.video-player.playing .video-overlay {
+  display: none; }
+
+.video-play {
+  color: #fff; }
+
+.video-play--btn {
+  display: block;
+  height: 60px;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 60px; }
+
+.video-play--btn__icon {
+  display: block; }
+  .video-play--btn__icon::after {
+    background: url(/jobs/images/icons/play.svg) no-repeat center;
+    background-size: 100%;
+    content: "";
+    display: inline-block;
+    font-family: "Apple Icons";
+    font-size: 60px;
+    font-size: 6rem;
+    font-weight: 200;
+    height: 60px;
+    left: 0;
+    line-height: 1;
+    position: relative;
+    top: 0;
+    width: 60px; }
+
+.video-play--btn--text {
+  color: #fff;
+  display: inline-block;
+  font-size: 13px;
+  font-size: 1.3rem;
+  font-weight: 700;
+  height: auto;
+  position: static;
+  text-align: left;
+  -webkit-transform: none;
+      -ms-transform: none;
+          transform: none;
+  width: auto; }
+  .video-play--btn--text:active, .video-play--btn--text:visited {
+    color: #fff; }
+  .video-play--btn--text:hover {
+    color: #fff;
+    text-decoration: none; }
+    .video-play--btn--text:hover > span:first-child {
+      text-decoration: underline; }
+  @media only screen and (min-width: 736px) {
+    .video-play--btn--text {
+      font-size: 17px;
+      font-size: 1.7rem; } }
+  .video-play--btn--text .video-play--btn__icon {
+    display: inline-block;
+    height: 20px;
+    margin: -2px 0 0 2px;
+    vertical-align: middle; }
+    .video-play--btn--text .video-play--btn__icon::after {
+      background-image: url(/jobs/images/icons/play-bold.svg);
+      font-size: 20px;
+      font-size: 2rem;
+      height: 20px;
+      width: 20px; }
+
+.video-content {
+  height: 100%;
+  position: relative;
+  z-index: 1; }
+
+.video-poster {
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 100%; }
+
+.video-poster img {
+  left: 50%;
+  height: 100%;
+  max-width: none;
+  position: relative;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%); }

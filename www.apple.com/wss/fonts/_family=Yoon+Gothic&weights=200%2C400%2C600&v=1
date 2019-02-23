@@ -1,0 +1,37 @@
+@font-face {
+	font-family:'Yoon Gothic';
+	font-style:normal;
+	font-weight:200;
+	src:local('☺︎'), url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-720.woff") format("woff"), url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-720.ttf") format("truetype");
+	/* Copyright © 2012 YoonDesign Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'Yoon Gothic 200';
+	src:url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-720.eot");
+	/* Copyright © 2012 YoonDesign Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'Yoon Gothic';
+	font-style:normal;
+	font-weight:600;
+	src:local('☺︎'), url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-774.woff") format("woff"), url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-774.ttf") format("truetype");
+	/* Copyright © 2012 YoonDesign Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'Yoon Gothic 600';
+	src:url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-774.eot");
+	/* Copyright © 2012 YoonDesign Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'Yoon Gothic';
+	font-style:normal;
+	font-weight:400;
+	src:url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-750.eot");
+	src:local('☺︎'), url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-750.woff") format("woff"), url("/wss/fonts/Yoon-Gothic/v1/YoonGothic-750.ttf") format("truetype");
+	/* Copyright © 2012 YoonDesign Inc. All rights reserved. */
+}
+

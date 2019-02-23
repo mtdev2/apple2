@@ -1,0 +1,250 @@
+
+/*Font size fixed*/
+.main [data-module-template="event-takeover-hero"] .typography-intro-elevated:lang(th)
+{
+	font-size: 24px;
+	line-height: 1.4;
+}
+
+@media only screen and (min-width: 736px) and (max-width: 1068px) {
+.main [data-module-template="event-takeover-hero"] .typography-intro-elevated:lang(th)
+	{
+		font-size: 21px;
+		line-height: 1.4;
+	}
+}
+
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="event-takeover-hero"] .typography-intro-elevated:lang(th)
+	{
+		font-size: 19px;
+		line-height: 1.4;
+	}
+ }
+
+
+
+.main [data-module-template="event-takeover-products"] .typography-headline:lang(th)
+{
+	font-size: 48px;
+	line-height: 1.1;
+}
+
+@media only screen and (min-width: 736px) and (max-width: 1068px) {
+.main [data-module-template="event-takeover-products"] .typography-headline:lang(th)
+	{
+		font-size: 40px;
+		line-height: 1.1;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="event-takeover-products"] .typography-headline:lang(th)
+	{
+		font-size: 28px;
+		line-height: 1.1;
+	}
+ }
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="event-takeover-products"] .macbook-air .typography-headline:lang(th)
+	{
+		font-size: 28px;
+		line-height: 1.25;
+	}
+ }
+
+
+
+.main [data-module-template="event-takeover-products"] .typography-intro:lang(th){
+	line-height: 1.45;
+}
+
+@media only screen and (min-width: 736px) and (max-width: 1068px) {
+.main [data-module-template="event-takeover-products"] .typography-intro:lang(th){
+	line-height: 1.45;
+}
+}
+
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="event-takeover-products"] .typography-intro:lang(th){
+	line-height: 1.45;
+}
+ }
+
+ .main [data-module-template="promos"]:not(.standalone-module) [data-unit-id]:nth-child(1n).unit-retail-wrapper {
+    background-color: #000000;
+    
+}
+
+ /* Apple Icon Siam tile */
+
+.ag-gold-text, .theme-dark .ag-gold-text {
+    color: #AB9D62;
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-retail {
+    top: 30%;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-retail {
+        top: 22%;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-retail {
+        top: 22%;
+    }
+}
+
+/* fixed font size evergreen home page */
+
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.subhead:lang(th){
+	font-size:27px;
+}
+@media only screen and (max-width: 1068px) {
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.subhead:lang(th){
+	font-size:24px;
+	}
+}
+@media only screen and (max-width: 735px) {
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.subhead:lang(th){
+	font-size:19px;
+	}
+}
+
+/* Apple Iconsiam Hero */
+.main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-copy-wrapper {
+    padding-top: 35px
+}
+.main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-image {
+    margin-bottom: 35px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-copy-wrapper {
+        padding-top: 35px
+    }
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-image {
+	    margin-bottom: 35px;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-copy-wrapper {
+        padding-top: 35px
+    }
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-image {
+	    margin-bottom: 35px;
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-copy-wrapper {
+        padding-top: 35px
+    }
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-image {
+	    margin-bottom: 35px;
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-copy-wrapper {
+        padding-top: 35px
+    }
+    .main [data-module-template="heroes"] .ag-iconsiam-unit-wrapper .unit-image {
+	    margin-bottom: 60px;
+	}
+}
+
+/* Apple Watch Series 4 promo tile */
+.main [data-module-template="promos"] [data-unit-id="apple-watch-series-4"] .unit-copy-wrapper .subhead {
+	line-height: 1.5;
+}
+
+/* Banner holiday*/
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.subhead:lang(th) {
+    font-size: 27px;
+    line-height:1.14815;
+    letter-spacing: .008em;
+}
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.headline:lang(th) {
+ 	font-size: 56px;
+    line-height:1.07143;
+}
+
+@media only screen and (max-width: 1068px) {
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.headline:lang(th) {
+        font-size:44px;
+        line-height: 1.09091;
+    }
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.subhead:lang(th) {
+    font-size: 24px;
+    line-height:1.16667;
+    letter-spacing: .008em;
+	}
+	.main [data-module-template="promos"] [data-unit-id] .unit-copy-wrapper .subhead:lang(th) {
+		line-height: 1.21053;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.headline:lang(th) {
+        font-size:32px;
+        line-height: 1.125;
+    }
+.main [data-module-template="heroes"] [data-unit-id] .unit-copy-wrapper>*.subhead:lang(th) {
+    font-size: 19px;
+    line-height:1.22115;
+    letter-spacing: .004em;
+	}
+}
+
+
+
+@media only screen and (max-width: 735px) {
+.main .promo-holiday-tv-spot .unit-copy-wrapper .headline:lang(th) {
+    line-height: 1.14828 !important;
+    margin-bottom: 10px;
+}
+
+}
+
+.main .promo-holiday-tv-spot .unit-copy-wrapper .subhead:lang(th) {
+    line-height: 1.41053 !important;
+}
+
+
+@media only screen and (min-width: 736px) and (max-width: 1068px) {
+.main .hero-holiday .unit-copy-wrapper {
+    padding-top: 45px !important;
+}
+
+}
+
+
+@media only screen and (min-width: 736px) {
+.main [data-module-template="promos"] [data-unit-id="cyr"] .unit-copy-wrapper .subhead {
+	max-width:18em;
+}
+}
+
+
+
+/*Iphone shotOn*/
+@media only screen and (min-width: 736px) and (max-width: 1068px) {
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .headline:lang(th) {
+    line-height: 1.15;
+}
+}
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="promos"] [data-unit-id="iphone-shotOn"] .unit-copy-wrapper .headline:lang(th) {
+    line-height: 1.15;
+}
+}
+

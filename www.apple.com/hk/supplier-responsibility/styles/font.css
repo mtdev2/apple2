@@ -1,0 +1,49 @@
+html[lang=zh-HK] .section-bonded p.typography-intro{
+		font-family: "PingFang HK", "SF Pro Text", "SF Pro Icons",  "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+		font-size: 19px;
+}
+
+.section-bonded p.typography-intro{
+    line-height: 1.6em;
+}
+
+
+.section-safety .badge-value {
+    font-size: 68px;
+}
+@media only screen and (max-width: 1068px) {
+	.section-safety .badge-value {
+    	font-size: 60px;
+	}
+}
+@media only screen and (max-width: 735px) {
+    .section-safety .badge-value {
+    	font-size: 48px;
+	}
+}
+@media only screen and (max-width: 320px) {
+    .section-safety .badge-value {
+    	font-size: 44px;
+	}
+}
+
+.section-safety .badge-unit {
+    font-size: 44px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-safety .badge-unit {
+    	font-size: 40px;
+	}
+}
+@media only screen and (max-width: 735px) {
+    .section-safety .badge-unit {
+   		font-size: 32px;
+	}
+}
+@media only screen and (max-width: 320px) {
+    .section-safety .badge-unit {
+   		font-size: 28px;
+	}
+}
+

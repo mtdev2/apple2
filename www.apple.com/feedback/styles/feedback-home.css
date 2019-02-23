@@ -1,0 +1,78 @@
+#main #content { padding-bottom: 31px; _margin-right: -10px; }
+#main h1 { padding-bottom: 23px; }
+#main p.intro { margin-bottom: 31px; font-size: 16px; line-height: 1.4em; *width: 470px; }
+#main p.legal { font-size: 12px; color: #7a7a7a; }
+#main #hero { width: 857px; }
+
+/* callout */
+#main .callout { float: right; position: relative; width: 286px; margin-left: 45px; _margin-left: 30px; padding: 20px 15px 0 28px; *padding-bottom: 15px; background-color: #f5f5f5;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#f2f2f2));
+	background-image: -moz-linear-gradient(center top, #fff 0%, #f2f2f2 100%);
+	background-image: -o-linear-gradient(#fff, #f2f2f2);
+}
+#main .callout h2 { font-size: 18px; margin: 10px 0 5px 0; *margin-top: 30px; }
+#main .callout a { font-size: 12px; }
+#main .callout img.left { margin-right: 23px; margin-bottom: 13px; }
+#main .callout img.topcap { position: absolute; top: 1px; left: 0; }
+
+#globalfooter p.gf-buy { width: 51%; }/* to fix a break in firefox */
+
+/* shared */
+section { margin: 0; text-align: center; }
+section .section-heading .row { min-height: initial; margin-bottom: 0; padding: 0; }
+section .section-heading .row h3 { margin: 0; padding: 0 0 12px; line-height: 1em; text-align: left; font-size: 22px; color:#333; font-weight: normal; border-bottom: #e4e4e4 solid 1px; }
+section .section-content { padding: 28px 0 62px; }
+section .row { display: flex; width: 100%; margin-bottom: 46px; clear: both; }
+section .row:last-child { margin-bottom: 0; }
+section .row .column { float: left; position: relative; box-sizing: border-box; margin: 0; padding: 0; }
+section .row .column a { position: absolute; display: block; bottom: 0; width: 100%; margin: 0 auto; }
+section .row .column a:hover { text-decoration: none; }
+section .row .column a:hover p { text-decoration: underline; }
+section .row .column a span { display: block; }
+section .row .column a span img { display: block; margin: 0 auto 23px; }
+section .row .column a span p { margin: 0; padding: 0; }
+section .row .column-20 { width: 20%; }
+section .row .column-25 { width: 25%; }
+section .row .column-33 { width: 33%; }
+section .row .column-50 { width: 50%; }
+section .row .column-80 { width: 80%; }
+section .row .column-100 { width: 100%; }
+
+/* mac */
+section.mac { margin-top: 42px; }
+section.mac .section-content .row .column { height: 127px; }
+section.mac .section-content .row:first-child .column { height: 96px; }
+
+/* mac-accessories */
+section.mac-accessories .section-content .row .column { height: 110px; }
+
+/* ios-device & ios-smart-device */
+section.ios-device  .section-content .row .column { height: 213px; }
+section.ios-smart-device  .section-content .row .column { height: 202px; }
+section[class$="-device"] [class^="section-"] .row .column { padding-right: 28px; }
+section[class$="-device"]  .section-heading .row .column:last-child { padding-right: 0; }
+section[class$="-device"]  .section-content .row .column a { padding-right: 28px; box-sizing: border-box; }
+section[class$="-device"]  .section-content .row .column a:focus { outline: none; }
+section[class$="-device"]  .section-content .row .column a:focus span { outline: -webkit-focus-ring-color auto 5px; }
+section[class$="-device"]  .section-content .row .column .homepod-image { margin-bottom: 13px; }
+
+/* ios-apps & mac-apps */
+section[class$="-apps"]  .section-content .column li { margin-bottom: 19px; margin-right: 5px; box-sizing: border-box; text-align: left; }
+section[class$="-apps"]  .section-content .column li:last-child { margin-bottom: 0; }
+section[class$="-apps"]  .section-content .column a { position: relative; z-index: 1; white-space: nowrap; }
+section[class$="-apps"]  .section-content .column a:focus { z-index: 2; }
+section[class$="-apps"]  .section-content .column a img { display: inline-block; vertical-align: middle; margin-right: 6px; }
+section[class$="-apps"]  .section-content .column a p { display: inline-block; margin: 0; padding: 0; line-height: 1em; }
+
+/* icloud */
+section.icloud .section-content .column { height: 71px; margin-right: 7px; text-align: left; }
+section.icloud .section-content .column a img { display: inline-block; width: 71px; height: 71px; margin: 0 10px 0 0; vertical-align: middle; }
+section.icloud .section-content .column a p { display: inline-block; }
+
+/* apple music & apple pay & apple school manager */
+section.apple-music .section-content .column { height: 38px; }
+section.apple-pay .section-content .column { height: 46px; }
+section.apple-school-manager .section-content .column { height: 71px; }
+section[class*="apple-"] .section-content .column { text-align: left; }
+section[class*="apple-"] .section-content .column a img { display: inline-block; margin: 0 20px 0 0; vertical-align: middle; }
+section[class*="apple-"] .section-content .column a p { display: inline-block; position: relative; top: 6px; }

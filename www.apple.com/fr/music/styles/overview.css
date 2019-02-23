@@ -1,0 +1,226 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+.page-overview .section-hero .card-hero .image-music-hero { background-image:url("/fr/music/images/overview/music_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/fr/music/images/overview/music_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/fr/music/images/overview/music_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/fr/music/images/overview/music_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/fr/music/images/overview/music_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-hero .card-hero .image-music-hero { background-image:url("/fr/music/images/overview/music_hero_small_2x.jpg"); }
+}
+
+.page-overview .section-billboard.ipod .ipod-graphic { background-image:url("/fr/music/images/overview/ipod_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-graphic { background-image:url("/fr/music/images/overview/ipod_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.ipod .ipod-graphic { background-image:url("/fr/music/images/overview/ipod_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-graphic { background-image:url("/fr/music/images/overview/ipod_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.ipod .ipod-graphic { background-image:url("/fr/music/images/overview/ipod_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-graphic { background-image:url("/fr/music/images/overview/ipod_small_2x.jpg"); }
+}
+
+.page-overview .section-billboard.ipod .ipod-touch-graphic { background-image:url("/fr/music/images/overview/ipod_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic { background-image:url("/fr/music/images/overview/ipod_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic { background-image:url("/fr/music/images/overview/ipod_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic { background-image:url("/fr/music/images/overview/ipod_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic { background-image:url("/fr/music/images/overview/ipod_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.ipod .ipod-touch-graphic { background-image:url("/fr/music/images/overview/ipod_small_2x.jpg"); }
+}
+
+.page-overview .section-billboard.itunes .itunes-graphic { background-image:url("/fr/music/images/overview/itunes_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic { background-image:url("/fr/music/images/overview/itunes_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-billboard.itunes .itunes-graphic { background-image:url("/fr/music/images/overview/itunes_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic { background-image:url("/fr/music/images/overview/itunes_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-billboard.itunes .itunes-graphic { background-image:url("/fr/music/images/overview/itunes_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-billboard.itunes .itunes-graphic { background-image:url("/fr/music/images/overview/itunes_small_2x.jpg"); }
+}
+
+
+
+.page-overview .section-apps .apps-graphic { background-image:url("/fr/music/images/overview/apps_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-overview .section-apps .apps-graphic { background-image:url("/fr/music/images/overview/apps_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-overview .section-apps .apps-graphic { background-image:url("/fr/music/images/overview/apps_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview .section-apps .apps-graphic { background-image:url("/fr/music/images/overview/apps_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-overview .section-apps .apps-graphic { background-image:url("/fr/music/images/overview/apps_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview .section-apps .apps-graphic { background-image:url("/fr/music/images/overview/apps_small_2x.jpg"); }
+}
+
+.page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    background-size: 401px 290px;
+    width: 401px;
+    height: 290px;
+    background-image: url("/euro/music/f/generic/images/overview/gift_cards_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+        background-image: url("/euro/music/f/generic/images/overview/gift_cards_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+        background-size: 281px 203px;
+        width: 281px;
+    	height: 203px;
+        background-image: url("/euro/music/f/generic/images/overview/gift_cards_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+        background-image: url("/euro/music/f/generic/images/overview/gift_cards_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+        background-size: 281px 203px;
+        width: 281px;
+    	height: 203px;
+        background-image: url("/euro/music/f/generic/images/overview/gift_cards_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-billboard.gift-cards .gift-cards-graphic {
+    	margin-left: -155px;
+        background-image: url("/euro/music/f/generic/images/overview/gift_cards_small_2x.jpg")
+    }
+}
+
+.page-overview .ase-ribbon-image {
+    background-image: url("/euro/music/f/screens_alt/images/overview/ase/apple-gift-card_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .ase-ribbon-image {
+        background-image: url("/euro/music/f/screens_alt/images/overview/ase/apple-gift-card_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .ase-ribbon-image {
+        background-image: url("/euro/music/f/screens_alt/images/overview/ase/apple-gift-card_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .ase-ribbon-image {
+        background-image: url("/euro/music/f/screens_alt/images/overview/ase/apple-gift-card_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .ase-ribbon-image {
+        background-image: url("/euro/music/f/screens_alt/images/overview/ase/apple-gift-card_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .ase-ribbon-image {
+        background-image: url("/euro/music/f/screens_alt/images/overview/ase/apple-gift-card_small_2x.png")
+    }
+}
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+   GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+   END GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.page-overview .section-product-red .row .image-product-red-red-banner-music {
+	margin-left: 80px;
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-product-red .row .image-product-red-red-banner-music {
+        margin-left: 97px
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-product-red .row .image-product-red-red-banner-music {
+        left: 50%;
+        margin-left: -178.5px;
+    }
+}
+.page-overview .section-product-red .row .copy-container .section-headline {
+	width: 405px;
+}
+
+@media only screen and (max-width: 735px){
+	.page-overview .section-product-red .row .copy-container .section-headline {
+		width: 90%;
+	}
+}
+@media only screen and (max-width: 735px) {
+ .page-overview .ase-ribbon {
+  	height:189px;
+ }
+}
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/

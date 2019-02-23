@@ -1,0 +1,57 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+.chapternav .chapternav-items .chapternav-item-music {
+    padding: 0 20px
+}
+.chapternav .chapternav-items .chapternav-item-itunes .chapternav-icon {
+    background-size: auto auto
+}
+.chapternav .chapternav-items .chapternav-item-homepod {
+    padding: 0 20px
+}
+.chapternav .chapternav-items .chapternav-item-airpods {
+    padding: 0 20px
+}
+.chapternav .chapternav-items .chapternav-item-ipod {
+   padding: 0 20px
+}
+.chapternav .chapternav-items .chapternav-item-ipod-touch {
+   padding: 0 20px
+}
+.chapternav .chapternav-items .chapternav-item-accessories {
+    padding: 0 20px
+}
+.chapternav .chapternav-items .chapternav-item-cards {
+    padding: 0 20px
+}
+.chapternav-alt .chapternav-items .chapternav-item-itunes {
+    padding: 0 20px
+}
+.chapternav-alt .chapternav-items .chapternav-item-itunes {
+    padding: 0 20px
+}
+.page-overview .section-billboard.airpods {
+	padding-top: 173px;
+}
+@media only screen and (max-width: 735px){
+	.page-overview .section-billboard.airpods {
+		padding-top: 185px;
+	}
+}
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/

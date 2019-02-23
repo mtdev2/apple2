@@ -1,0 +1,38 @@
+/*fixed cny bgcolor cause us have add cny on main.built.css*/
+html[data-layout-name=homepod] .main [data-module-template="give-back"].standalone-module {
+    border-bottom-color: #222
+}
+
+html[data-layout-name=homepod] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xr"],html[data-layout-name=homepod] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"] {
+    border-top-color: #222;
+    border-bottom-color: #222
+}
+
+html[data-layout-name=homepod] .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"] {
+    border-bottom-color: #FFF
+}
+
+
+@media only screen and (max-width: 320px) {
+  html[data-layout-name=homepod] .main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .headline {
+          font-size:31px;
+      }
+}
+/* add css for cny  v path lost for promos*/
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .subhead {
+    max-width: 24em
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .subhead {
+        max-width:16em
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .cta-links a:last-child {
+    margin-left: 0
+}
+
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .cta-links {margin-top: 0.7em;}
+
+

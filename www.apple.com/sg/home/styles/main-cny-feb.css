@@ -1,0 +1,643 @@
+/*Grabbed for HK site*/
+.main [data-module-template="promos"] [data-unit-id="apple-music"] {
+    color: #fff
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] * {
+    color: inherit
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper {
+    height: 100%
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .headline {
+    margin-top: 57px;
+    margin-bottom: 11px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .headline {
+        margin-top: 45px;
+        margin-bottom: 10px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .headline {
+        margin-top: 43px
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .subhead {
+    max-width: 374px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .subhead {
+        max-width: 335px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .subhead {
+        max-width: 330px
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-image {
+    position: absolute
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .apple-music-icon {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto
+}
+
+.main [data-module-template="give-back"] .subhead {
+    max-width: 35em
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .apple-music-icon {
+        bottom: 42px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id="apple-music"] .apple-music-icon {
+        bottom: 44px
+    }
+}
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music--543e514c {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/promos/apple-music/cny/apple_music__543e514c_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music--543e514c {
+        background-image: url("/sg/home/images/promos/apple-music/cny/apple_music__543e514c_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music--543e514c {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/apple-music/cny/apple_music__543e514c_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music--543e514c {
+        background-image: url("/sg/home/images/promos/apple-music/cny/apple_music__543e514c_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music--543e514c {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/apple-music/cny/apple_music__543e514c_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-apple-music--543e514c {
+        background-image: url("/sg/home/images/promos/apple-music/cny/apple_music__543e514c_small_2x.jpg")
+    }
+}
+
+.logo-image-music-47492 {
+    width: 210px;
+    height: 38px;
+    background-size: 210px 38px;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/promos/apple-music/cny/music_47492_large.png");
+    background-position: center
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-music-47492 {
+        background-image: url("/sg/home/images/promos/apple-music/cny/music_47492_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-music-47492 {
+        width: 171px;
+        height: 31px;
+        background-size: 171px 31px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/apple-music/cny/music_47492_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-music-47492 {
+        background-image: url("/sg/home/images/promos/apple-music/cny/music_47492_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-music-47492 {
+        width: 170px;
+        height: 31px;
+        background-size: 170px 31px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/apple-music/cny/music_47492_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-music-47492 {
+        background-image: url("/sg/home/images/promos/apple-music/cny/music_47492_small_2x.png")
+    }
+}
+
+.main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+    width: 2560px;
+    height: 624px;
+    background-size: 2560px 624px;
+    background-image: url("/sg/home/images/heroes/cny/cny_hero_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        width: 1068px;
+        height: 617px;
+        background-size: 1068px 617px;
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_small_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        width: 2560px;
+        height: 738px;
+        background-size: 2560px 738px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        width: 1068px;
+        height: 698px;
+        background-size: 1068px 698px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] [data-unit-id="the-bucket"] .unit-image-wrapper .unit-image {
+        background-image: url("/sg/home/images/heroes/cny/cny_hero_mediumtall_2x.jpg")
+    }
+}
+
+.logo-image-app-store {
+    width: 210px;
+    height: 38px;
+    background-size: 210px 38px;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/promos/appstore/appstore_logo_large.png");
+    background-position: center
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-app-store {
+        background-image: url("/sg/home/images/promos/appstore/appstore_logo_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-app-store {
+        width: 171px;
+        height: 31px;
+        background-size: 171px 31px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/appstore/appstore_logo_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-app-store {
+        background-image: url("/sg/home/images/promos/appstore/appstore_logo_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-app-store {
+        width: 170px;
+        height: 31px;
+        background-size: 170px 31px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/appstore/appstore_logo_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-app-store {
+        background-image: url("/sg/home/images/promos/appstore/appstore_logo_small_2x.png")
+    }
+}
+
+/*End of grabbed from HK site*/
+
+/*CNY Banner Simplified*/
+.logo-image-the-bucket-logo-hero {
+    width: 364px;
+    height: 271px;
+    background-size: 364px 271px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/heroes/cny/bucket_title_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .logo-image-the-bucket-logo-hero {
+        background-image: url("/sg/home/images/heroes/cny/bucket_title_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .logo-image-the-bucket-logo-hero {
+        width: 313px;
+        height: 234px;
+        background-size: 313px 234px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/heroes/cny/bucket_title_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .logo-image-the-bucket-logo-hero {
+        background-image: url("/sg/home/images/heroes/cny/bucket_title_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .logo-image-the-bucket-logo-hero {
+        width: 206px;
+        height: 155px;
+        background-size: 206px 155px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/heroes/cny/bucket_title_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .logo-image-the-bucket-logo-hero {
+        background-image: url("/sg/home/images/heroes/cny/bucket_title_small_2x.png")
+    }
+}
+
+/*CNY SHOP Promo*/
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-cny-gift-guide-tile
+{
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/promos/cny-gift-guide/tile_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-cny-gift-guide-tile { background-image: url("/sg/home/images/promos/cny-gift-guide/tile_large_2x.jpg"); }
+}
+
+@media only screen and (max-width: 1068px)
+{
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-cny-gift-guide-tile
+    {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/cny-gift-guide/tile_medium.jpg");
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi)
+{
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-cny-gift-guide-tile { background-image: url("/sg/home/images/promos/cny-gift-guide/tile_medium_2x.jpg"); }
+}
+
+@media only screen and (max-width: 735px)
+{
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-cny-gift-guide-tile
+    {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/cny-gift-guide/tile_small.jpg");
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi)
+{
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-cny-gift-guide-tile { background-image: url("/sg/home/images/promos/cny-gift-guide/tile_small_2x.jpg"); }
+}
+
+
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper { text-align: center; }
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .subhead { max-width: 24em; }
+
+@media only screen and (max-width: 1068px)
+{
+    .main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .subhead { max-width: 16em; }
+}
+
+.main [data-module-template="promos"] [data-unit-id="cny-gift-guide"] .unit-copy-wrapper .cta-links a:last-child { margin-left: 0; }
+
+/*CNY Apps Store*/
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-app-store {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/promos/the-bucket/cny_appstore_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-app-store {
+        background-image: url("/sg/home/images/promos/the-bucket/cny_appstore_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-app-store {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/the-bucket/cny_appstore_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-app-store {
+        background-image: url("/sg/home/images/promos/the-bucket/cny_appstore_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-app-store {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/the-bucket/cny_appstore_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-app-store {
+        background-image: url("/sg/home/images/promos/the-bucket/cny_appstore_small_2x.jpg")
+    }
+}
+
+/*------------------------------------*\
+   For ipad pro new way Promo
+\*------------------------------------*/
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+
+    background-image: url("/sg/home/images/promos/ipad-newWay/how_to_tile_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        background-image: url("/sg/home/images/promos/ipad-newWay/how_to_tile_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+
+        background-image: url("/sg/home/images/promos/ipad-newWay/how_to_tile_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        background-image: url("/sg/home/images/promos/ipad-newWay/how_to_tile_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+
+        background-image: url("/sg/home/images/promos/ipad-newWay/how_to_tile_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        background-image: url("/sg/home/images/promos/ipad-newWay/how_to_tile_small_2x.jpg")
+    }
+
+}
+
+/*-------Local Fixes-------*/
+@media only screen and (max-width: 735px) {
+    .smallcenter {
+        margin-left: 0 !important;
+    }
+}
+
+#ios-mobile-3, #ios-mobile-4, #ios-mobile-5, #ios-mobile-6{
+    display: none;
+}
+
+#desktop-3, #desktop-4, #desktop-5, #desktop-6{
+    display: block;
+}
+
+@media screen and (max-width: 735px) and (min-width: 0px) {
+    #ios-mobile-6 {
+        border-bottom-width: 12px;
+    }
+}
+
+@media screen and (max-width: 1068px) and (min-width: 768px) {
+    #ios-mobile-5, #ios-mobile-6 {
+        border-bottom-width: 12px;
+    }
+}
+
+
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-taa-tiles-generic {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/promos/taa/tiles_generic_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-taa-tiles-generic {
+        background-image: url("/sg/home/images/promos/taa/tiles_generic_large_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-taa-tiles-generic {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/taa/tiles_generic_medium.jpg")
+    }
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-taa-tiles-generic {
+        background-image: url("/sg/home/images/promos/taa/tiles_generic_medium_2x.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-taa-tiles-generic {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/taa/tiles_generic_small.jpg")
+    }
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-taa-tiles-generic {
+        background-image: url("/sg/home/images/promos/taa/tiles_generic_small_2x.jpg")
+    }
+
+}
+
+
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image-the-bucket {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/sg/home/images/promos/the-bucket/tile_cny_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image-the-bucket {
+        background-image: url("/sg/home/images/promos/the-bucket/tile_cny_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-the-bucket {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/the-bucket/tile_cny_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-the-bucket {
+        background-image: url("/sg/home/images/promos/the-bucket/tile_cny_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-the-bucket {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/sg/home/images/promos/the-bucket/tile_cny_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-the-bucket {
+        background-image: url("/sg/home/images/promos/the-bucket/tile_cny_small_2x.jpg")
+    }
+}
+
+
+.main [data-module-template="promos"] [data-unit-id="the-bucket"] .unit-copy-wrapper .headline,
+.main [data-module-template="promos"] [data-unit-id="the-bucket"] .unit-copy-wrapper .subhead,
+.main [data-module-template="promos"] [data-unit-id="the-bucket"] .unit-copy-wrapper .cta-links a{
+    color: #fff
+}
+
+.main [data-module-template="promos"] [data-unit-id="the-bucket"] .unit-wrapper .unit-copy-wrapper {
+    padding-top: 322px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] [data-unit-id="the-bucket"] .unit-wrapper .unit-copy-wrapper {
+        padding-top: 286px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] [data-unit-id="the-bucket"] .unit-wrapper .unit-copy-wrapper {
+        padding-top: 277px;
+    }
+}

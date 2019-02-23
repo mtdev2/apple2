@@ -1,0 +1,64 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+/*------------------------------------*\
+    GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+
+.footer-global .footer-sosumi ul li a { border-left: none; border-right: 1px solid #e3e3e3; padding-left: 0em; padding-right: 10px; margin-right: 5px; margin-left: 0px; }
+.footer-global .footer-sosumi ul li:last-child a { border-right: none; }
+
+.footer-sosumi ul { display:inline-flex; } 
+.footer-global .gf-iphonefootnote { font-size: 0.6667em; font-weight: 400; }
+.footer-global .gf-sosumi.footer-sosumi .footer-links { font-size: 1em; }
+
+
+/* Medium & Below */
+@media only screen and (max-width: 1024px) {
+	.footer-global .gf-sosumi.footer-sosumi { display:table; }
+	.footer-global .gf-sosumi.footer-sosumi > ul > li { display: inline-block; }
+	.footer-global .gf-sosumi.footer-sosumi p { display:table-footer-group; }
+	.footer-global .gf-sosumi.footer-sosumi .footer-links { display:table-header-group; float:left;}
+}
+
+
+/* Medium Only */
+@media only screen and (min-width: 736px) and (max-width: 1024px) {
+	.footer-links { float:right; }
+}
+
+
+/*------------------------------------*\
+    END GLOBAL FOOTER STYLES
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.section-player .play p { margin-top: 0; }
+.section-player .app-icon-blurb div { margin-bottom: 25px;  height: 56px;}
+
+@media only screen and (min-width: 736px) and (max-width: 1024px) {
+	.section-player .app-icon-blurb div { margin-bottom: 23px; }
+}
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 

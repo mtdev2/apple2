@@ -1,0 +1,222 @@
+
+.page-overview .section-showcase .apple-music { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_image_large.jpg"); background-size:814px 294px; width:814px; height:294px; }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+  .page-overview .section-showcase .apple-music { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_image_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+  .page-overview .section-showcase .apple-music { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_image_medium.jpg"); background-size:724px 294px; width:724px; height:294px; }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 144dpi), only screen and (max-width: 1023px) and (min-resolution: 144dppx) {
+  .page-overview .section-showcase .apple-music { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_image_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 767px) {
+  html.touch .page-overview .section-showcase .apple-music { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_image_small.jpg"); background-size:736px 354px; width:736px; height:354px; }
+}
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 767px) and (min-resolution: 144dpi), only screen and (max-width: 767px) and (min-resolution: 144dppx) {
+  html.touch .page-overview .section-showcase .apple-music { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_image_small_2x.jpg"); }
+}
+.page-overview .section-showcase .music-heading { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_logo_large.png"); background-size:192px 46px; width:192px; height:46px; }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+  .page-overview .section-showcase .music-heading { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_logo_large_2x.png"); }
+}
+@media only screen and (max-width: 1023px) {
+  .page-overview .section-showcase .music-heading { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_logo_medium.png"); background-size:192px 46px; width:192px; height:46px; }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 144dpi), only screen and (max-width: 1023px) and (min-resolution: 144dppx) {
+  .page-overview .section-showcase .music-heading { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_logo_medium_2x.png"); }
+}
+@media only screen and (max-width: 767px) {
+  html.touch .page-overview .section-showcase .music-heading { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_logo_small.png"); background-size:144px 34px; width:144px; height:34px; }
+}
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 767px) and (min-resolution: 144dpi), only screen and (max-width: 767px) and (min-resolution: 144dppx) {
+  html.touch .page-overview .section-showcase .music-heading { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_logo_small_2x.png"); }
+}
+.page-overview .section-playground .playground-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_playground_large.jpg"); background-size:972px 556px; width:972px; height:556px; }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+  .page-overview .section-playground .playground-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_playground_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+  .page-overview .section-playground .playground-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_playground_medium.jpg"); background-size:690px 395px; width:690px; height:395px; }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 144dpi), only screen and (max-width: 1023px) and (min-resolution: 144dppx) {
+  .page-overview .section-playground .playground-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_playground_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 767px) {
+  html.touch .page-overview .section-playground .playground-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_playground_xsmall.jpg"); background-size:329px 188px; width:329px; height:188px; }
+}
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 767px) and (min-resolution: 144dpi), only screen and (max-width: 767px) and (min-resolution: 144dppx) {
+  html.touch .page-overview .section-playground .playground-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/music_playground_xsmall_2x.jpg"); }
+}
+
+
+.page-overview .section-collection .collection-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/wish_granted_large.jpg"); background-size:978px 494px; width:978px; height:494px; }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+  .page-overview .section-collection .collection-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/wish_granted_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+  .page-overview .section-collection .collection-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/wish_granted_medium.jpg"); background-size:695px 351px; width:695px; height:351px; }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 144dpi), only screen and (max-width: 1023px) and (min-resolution: 144dppx) {
+  .page-overview .section-collection .collection-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/wish_granted_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 767px) {
+  html.touch .page-overview .section-collection .collection-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/wish_granted_xsmall.jpg"); background-size:287px 145px; width:287px; height:145px; }
+}
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 767px) and (min-resolution: 144dpi), only screen and (max-width: 767px) and (min-resolution: 144dppx) {
+  html.touch .page-overview .section-collection .collection-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/wish_granted_xsmall_2x.jpg"); }
+}
+.page-overview .section-apple-tv .appletv-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/appletv_large.jpg"); background-size:379px 306px; width:379px; height:306px; }
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+  .page-overview .section-apple-tv .appletv-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/appletv_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+  .page-overview .section-apple-tv .appletv-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/appletv_medium.jpg"); background-size:273px 220px; width:273px; height:220px; }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 144dpi), only screen and (max-width: 1023px) and (min-resolution: 144dppx) {
+  .page-overview .section-apple-tv .appletv-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/appletv_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 767px) {
+  html.touch .page-overview .section-apple-tv .appletv-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/appletv_small.jpg"); background-size:204px 164px; width:204px; height:164px; }
+}
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 767px) and (min-resolution: 144dpi), only screen and (max-width: 767px) and (min-resolution: 144dppx) {
+  html.touch .page-overview .section-apple-tv .appletv-hero { background-image:url("https://images.apple.com/hk/en/itunes/home/images/appletv_small_2x.jpg"); }
+}
+
+
+/* movie_tv_collection */
+.page-overview .section-tv .tv-hero {
+    background-image: url("https://images.apple.com/hk/en/itunes/home/images/movie_tv_collection_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/movie_tv_collection_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/movie_tv_collection_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/movie_tv_collection_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/movie_tv_collection_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-tv .tv-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/movie_tv_collection_small_2x.jpg")
+    }
+}
+
+
+/* apple_music */
+.page-overview .section-music .apple-music-hero {
+    background-image: url("https://images.apple.com/hk/en/itunes/home/images/apple_music_hero_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/apple_music_hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/apple_music_hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/apple_music_hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/apple_music_hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-music .apple-music-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/apple_music_hero_small_2x.jpg")
+    }
+}
+
+
+/* itunes_hero */
+.page-overview .section-hero .showcase-hero {
+    background-image: url("https://images.apple.com/hk/en/itunes/home/images/itunes_hero_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/itunes_hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/itunes_hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/itunes_hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/itunes_hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-hero .showcase-hero {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/itunes_hero_small_2x.jpg")
+    }
+}
+
+.page-overview .section-universal {
+    background-image: url("https://images.apple.com/hk/en/itunes/home/images/universe_entertainment_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .page-overview .section-universal {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/universe_entertainment_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .page-overview .section-universal {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/universe_entertainment_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .page-overview .section-universal {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/universe_entertainment_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-overview .section-universal {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/universe_entertainment_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .page-overview .section-universal {
+        background-image: url("https://images.apple.com/hk/en/itunes/home/images/universe_entertainment_small_2x.jpg")
+    }
+}
+
+

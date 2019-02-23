@@ -1,0 +1,45 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+
+.section-accessories {
+  padding-top: 100px
+}
+@media only screen and (max-width: 1068px) {
+  .section-accessories {
+    padding-top: 68px
+}
+@media only screen and (max-width: 735px) {
+  .section-accessories {
+    padding-top: 46px
+  }
+}
+
+
+
+@media only screen and (max-width: 735px) {
+ .ase-ribbon {
+  height:189px;
+ }
+}
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 

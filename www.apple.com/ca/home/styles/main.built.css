@@ -1,0 +1,753 @@
+/* Heroes */
+
+/* Watch */
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+    width: 340px;
+    height: 624px;
+    background-size: 340px 624px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        width: 339px;
+        height: 617px;
+        background-size: 339px 617px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        width: 422px;
+        height: 309px;
+        background-size: 422px 309px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_small_2x.jpg")
+    }
+}
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        width: 404px;
+        height: 738px;
+        background-size: 404px 738px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_largetall.jpg")
+    }
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_largetall_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        width: 362px;
+        height: 698px;
+        background-size: 362px 698px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_mediumtall.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-apple-watch-series-4-4aeff {
+        background-image: url("/ca/home/images/heroes/apple-watch-series-4/apple_watch_series_4_4aeff_mediumtall_2x.jpg")
+    }
+}
+
+
+/* Promos */
+
+/*iPad How To*/
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+    width: 700px;
+    height: 321px;
+    background-size: 700px 321px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/fr/home/images/promos/ipad-newWay/how_to_tile_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        background-image: url("/ca/fr/home/images/promos/ipad-newWay/how_to_tile_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        width: 515px;
+        height: 261px;
+        background-size: 515px 261px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/home/images/promos/ipad-newWay/how_to_tile_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        background-image: url("/ca/fr/home/images/promos/ipad-newWay/how_to_tile_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        width: 615px;
+        height: 263px;
+        background-size: 615px 263px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/fr/home/images/promos/ipad-newWay/how_to_tile_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ipad-newWay-how-to-tile {
+        background-image: url("/ca/fr/home/images/promos/ipad-newWay/how_to_tile_small_2x.jpg")
+    }
+}
+
+/*Grammy 2019*/
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-grammy {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/home/images/promos/grammy-2019/music_tile_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-grammy {
+        background-image: url("/ca/home/images/promos/grammy-2019/music_tile_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-grammy {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/grammy-2019/music_tile_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-grammy {
+        background-image: url("/ca/home/images/promos/grammy-2019/music_tile_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-grammy {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/grammy-2019/music_tile_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-grammy {
+        background-image: url("/ca/home/images/promos/grammy-2019/music_tile_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"].subhead-cta {
+    font-size: 24px;
+    line-height: 1.33349;
+    font-weight: 400;
+    letter-spacing: .009em;
+    color: #fff;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"] .subhead-cta {
+	position: absolute;
+	z-index: 2;
+	pointer-events: none;
+	bottom: 48px;
+	color:#fff;
+}
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"] .subhead {
+	font-size: 21px;
+	line-height: 1.23543;
+	font-weight: 400;
+	letter-spacing: -.022em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+
+
+
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"] .logo-image-music-icon {
+    width: 40px;
+    height: 39px;
+    background-size: 40px 39px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/home/images/promos/logos/icon_apple_music_large.png");
+    display: inline-block;
+    margin-left: 15px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon {
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"] .logo-image-music-icon {
+        width: 39px;
+        height: 39px;
+        background-size: 39px 39px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"] .logo-image-music-icon {
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"] .logo-image-music-icon {
+        width: 30px;
+        height: 30px;
+        background-size: 30px 30px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="grammy-2019"] .logo-image-music-icon {
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_small_2x.png")
+    }
+}
+
+/* Junos */
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-juno {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/home/images/promos/juno-2019/music_tile_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-juno {
+        background-image: url("/ca/home/images/promos/juno-2019/music_tile_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-juno {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/juno-2019/music_tile_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-juno {
+        background-image: url("/ca/home/images/promos/juno-2019/music_tile_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-juno {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/juno-2019/music_tile_small.jpg")
+    }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-music-juno {
+        background-image: url("/ca/home/images/promos/juno-2019/music_tile_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"].subhead-cta {
+    font-size: 24px;
+    line-height: 1.3349;
+    font-weight: 400;
+    letter-spacing: .009em;
+    color: #fff;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .subhead-cta {
+	position: absolute;
+	z-index: 2;
+	pointer-events: none;
+	bottom: 48px;
+	color:#fff;
+}
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .subhead {
+	font-size: 21px;
+	line-height: 1.23543;
+	font-weight: 400;
+	letter-spacing: -.022em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 6px;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon {
+    width: 40px;
+    height: 39px;
+    background-size: 40px 39px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/home/images/promos/logos/icon_apple_music_large.png");
+    display: inline-block;
+    margin-left: 15px
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon {
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon {
+        width: 39px;
+        height: 39px;
+        background-size: 39px 39px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon {
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon {
+        width: 30px;
+        height: 30px;
+        background-size: 30px 30px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon,
+.main [data-module-template="promos"] [data-unit-id="apple-music-juno"] .logo-image-music-icon {
+        background-image: url("/ca/home/images/promos/logos/icon_apple_music_small_2x.png")
+    }
+}
+
+
+
+/*AWS4*/
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+	width: 519px;
+	height: 364px;
+	background-size: 519px 364px;
+	background-repeat: no-repeat;
+	background-image: url("/ca/home/images/promos/apple-watch-series-4/all_new_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+		background-image: url("/ca/home/images/promos/apple-watch-series-4/all_new_large_2x.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+		width: 422px;
+		height: 313px;
+		background-size: 422px 313px;
+		background-repeat: no-repeat;
+		background-image: url("/ca/home/images/promos/apple-watch-series-4/all_new_medium.jpg")
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-apple-watch-series-4-all-new {
+		background-image: url("/ca/home/images/promos/apple-watch-series-4/all_new_medium_2x.jpg")
+	}
+}
+
+/*Apple Music*/
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+    width: 1262px;
+    height: 580px;
+    background-size: 1262px 580px;
+    background-repeat: no-repeat;
+    background-image: url("/ca/home/images/promos/apple-music/apple_music_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        background-image: url("/ca/home/images/promos/apple-music/apple_music_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        width: 516px;
+        height: 490px;
+        background-size: 516px 490px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/apple-music/apple_music_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        background-image: url("/ca/home/images/promos/apple-music/apple_music_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        width: 736px;
+        height: 548px;
+        background-size: 736px 548px;
+        background-repeat: no-repeat;
+        background-image: url("/ca/home/images/promos/apple-music/apple_music_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-music-three-months {
+        background-image: url("/ca/home/images/promos/apple-music/apple_music_small_2x.jpg")
+    }
+}
+.main [data-module-template="promos"] [data-unit-id="apple-music"] .unit-copy-wrapper .cta-links a{
+	color: #FFF;
+}
+
+.logo-image-music{
+	width:127px;
+	height:31px;
+	background-size:127px 31px;
+	background-repeat:no-repeat;
+	background-image:url("/ca/home/images/logos/music_large.png");
+	background-position:center
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
+.logo-image-music{
+background-image:url("/ca/home/images/logos/music_large_2x.png")
+}
+}
+@media only screen and (max-width: 1068px){
+	.logo-image-music{
+		width:103px;
+		height:25px;
+		background-size:103px 25px;
+		background-repeat:no-repeat;
+		background-image:url("/ca/home/images/logos/music_medium.png")
+	}
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi){
+	.logo-image-music{
+		background-image:url("/ca/home/images/logos/music_medium_2x.png")
+	}
+}
+@media only screen and (max-width: 735px){
+	.logo-image-music{
+		width:103px;
+		height:25px;
+		background-size:103px 25px;
+		background-repeat:no-repeat;
+		background-image:url("/ca/home/images/logos/music_small.png")
+	}
+}
+	@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi){
+		.logo-image-music{background-image:url("/ca/home/images/logos/music_small_2x.png")
+	}
+} 
+
+
+
+
+/* CA Specific Hero styles */
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] {
+    border-right-width: 0 !important;
+    border-left-width: 0 !important;
+    background: #000 !important;
+    padding-left: calc(max(0px, env(safe-area-inset-left)));
+    padding-right: calc(max(0px, env(safe-area-inset-left)))
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .headline {
+    margin-bottom: 14px
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .headline {
+        margin-bottom: 13px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .headline {
+        margin-bottom: 7px
+    }
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 736px) and (min-height: 734px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .unit-image {
+        -webkit-transform: translate3d(-50%, 19px, 0);
+        transform: translate3d(-50%, 19px, 0)
+    }
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+    font-size: 24px;
+    line-height: 1.33349;
+    font-weight: 400;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    width: 600px
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(th),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(th) {
+    font-size: 22px;
+    line-height: 1.59091;
+    letter-spacing: 0em;
+    font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ar),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ar) {
+    line-height: 1.52099;
+    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ja),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ja) {
+    line-height: 1.375;
+    font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ko),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ko) {
+    line-height: 1.45849;
+    font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-CN),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-HK),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-MO),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-TW),
+.main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+        font-size: 21px;
+        line-height: 1.38105;
+        font-weight: 400;
+        letter-spacing: .011em;
+        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(th),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(th) {
+        font-size: 21px;
+        line-height: 1.57143;
+        letter-spacing: 0em;
+        font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ar),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ar) {
+        line-height: 1.54762;
+        font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ja),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ja) {
+        line-height: 1.42863;
+        font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ko),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ko) {
+        line-height: 1.52381;
+        font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-CN),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-HK),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-HK) {
+        font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-MO),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-MO) {
+        font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-TW),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-TW) {
+        font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+        font-size: 17px;
+        line-height: 1.47059;
+        font-weight: 400;
+        letter-spacing: -.022em;
+        font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ar),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ar) {
+        line-height: 1.58824;
+        letter-spacing: 0em;
+        font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ja),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ja) {
+        letter-spacing: 0em;
+        font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(ko),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(ko) {
+        line-height: 1.61765;
+        letter-spacing: 0em;
+        font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(th),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(th) {
+        font-size: 17px;
+        line-height: 1.64706;
+        letter-spacing: 0em;
+        font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh) {
+        letter-spacing: 0em
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-CN),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-HK),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-HK) {
+        font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-MO),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-MO) {
+        font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead:lang(zh-TW),
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta:lang(zh-TW) {
+        font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+        width: 525px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .subhead,
+    .main [data-module-template="heroes"] [data-unit-id="iphone-xs"] .litany .unit-copy-wrapper .cta {
+        width: 90%
+    }
+}
+
+.main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xr"], 
+.main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"], 
+.main [data-module-template="give-back"].standalone-module {
+border-top-color: #222;
+border-bottom-color: #222;
+}
+
+/* Remove bottom border on XS tile */
+html .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"],
+html .main [data-module-template="heroes"]:not(.standalone-module) [data-unit-id="iphone-xs"]  {
+	border-bottom-color: #FFF;
+}

@@ -1,0 +1,55 @@
+html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design {
+  display: block;
+  background-size: 1920px 1080px;
+  background-repeat: no-repeat;
+  background-image: url("/la/apple-watch-series-4/images/shared/design_landscape_endframe_large.jpg")
+}
+
+@media only screen and (max-width: 1068px) {
+  html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design {
+    background-size: 710px 400px;
+    background-repeat: no-repeat;
+    background-image: url("/la/apple-watch-series-4/images/shared/design_landscape_endframe_medium.jpg")
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design {
+    background-size: 1288px 724px;
+    background-repeat: no-repeat;
+    background-image: url("/la/apple-watch-series-4/images/shared/design_landscape_endframe_small.jpg")
+  }
+}
+
+@media only screen and (orientation: portrait) {
+  html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design {
+    background-size: 1080px 1920px;
+    background-repeat: no-repeat;
+    background-image: url("/la/apple-watch-series-4/images/shared/design_portrait_endframe_large.jpg")
+  }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 1068px) {
+  html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design {
+    background-size: 400px 710px;
+    background-repeat: no-repeat;
+    background-image: url("/la/apple-watch-series-4/images/shared/design_portrait_endframe_medium.jpg")
+  }
+}
+
+@media only screen and (orientation: portrait) and (max-width: 735px) {
+  html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design, html.no-js .image-hero-static-design, html.static-fallback .image-hero-static-design, html.height-fallback .image-hero-static-design {
+    background-size: 724px 1288px;
+    background-repeat: no-repeat;
+    background-image: url("/la/apple-watch-series-4/images/shared/design_portrait_endframe_small.jpg")
+  }
+}
+
+/* Tile section */
+.jump-tile-design .jump-tile-bg { background-image:url("/la/apple-watch-series-4/images/jump-tiles/design_startframe_large.jpg"); }
+@media only screen and (max-width: 1068px) {
+  .jump-tile-design .jump-tile-bg { background-image:url("/la/apple-watch-series-4/images/jump-tiles/design_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .jump-tile-design .jump-tile-bg { background-image:url("/la/apple-watch-series-4/images/jump-tiles/design_startframe_small.jpg"); }
+}

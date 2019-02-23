@@ -1,0 +1,219 @@
+
+/*Localized screens*/
+.image-hero-series-four {
+    width: 526px;
+    height: 948px;
+    background-size: 526px 948px;
+    background-image: url("/ca/fr/watch/home/images/hero_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-hero-series-four {
+        background-image: url("/ca/fr/watch/home/images/hero_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-hero-series-four {
+        width: 360px;
+        height: 645px;
+        background-size: 360px 645px;
+        background-image: url("/ca/fr/watch/home/images/hero_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-hero-series-four {
+        background-image: url("/ca/fr/watch/home/images/hero_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-hero-series-four {
+        width: 273px;
+        height: 490px;
+        background-size: 273px 490px;
+        background-image: url("/ca/fr/watch/home/images/hero_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-hero-series-four {
+        background-image: url("/ca/fr/watch/home/images/hero_small_2x.jpg")
+    }
+}
+
+.pane-flex.pane-music .pane-content {
+    width: 1380px;
+    height: 499px;
+    background-size: 1380px 499px;
+    background-image: url("/ca/fr/watch/home/images/music_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .pane-flex.pane-music .pane-content {
+        background-image: url("/ca/fr/watch/home/images/music_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .pane-flex.pane-music .pane-content {
+        width: 701px;
+        height: 400px;
+        background-size: 701px 400px;
+        background-image: url("/ca/fr/watch/home/images/music_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .pane-flex.pane-music .pane-content {
+        background-image: url("/ca/fr/watch/home/images/music_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .pane-flex.pane-music .pane-content {
+        width: 414px;
+        height: 650px;
+        background-size: 414px 650px;
+        background-image: url("/ca/fr/watch/home/images/music_small.png")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .pane-flex.pane-music .pane-content {
+        background-image: url("/ca/fr/watch/home/images/music_small_2x.png")
+    }
+}
+
+/* Interactive watch banner */
+
+.image-interactive-gallery-2 {
+    width: 210px;
+    height: 500px;
+    background-size: 210px 500px;
+    background-image: url("/ca/fr/watch/home/images/interactive_gallery_02_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-interactive-gallery-2 {
+        background-image: url("/ca/fr/watch/home/images/interactive_gallery_02_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-interactive-gallery-2 {
+        width: 159px;
+        height: 400px;
+        background-size: 159px 400px;
+        background-image: url("/ca/fr/watch/home/images/interactive_gallery_02_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-interactive-gallery-2 {
+        background-image: url("/ca/fr/watch/home/images/interactive_gallery_02_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-interactive-gallery-2 {
+        width: 158px;
+        height: 311px;
+        background-size: 158px 311px;
+        background-image: url("/ca/fr/watch/home/images/interactive_gallery_02_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-interactive-gallery-2 {
+        background-image: url("/ca/fr/watch/home/images/interactive_gallery_02_small_2x.jpg")
+    }
+}
+
+/*How to banner*/
+
+.image-how-to {
+    width: 384px;
+    height: 500px;
+    background-size: 384px 500px;
+    background-image: url("/ca/fr/watch/home/images/how_to_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-how-to {
+        background-image: url("/ca/fr/watch/home/images/how_to_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-how-to {
+        width: 275px;
+        height: 400px;
+        background-size: 275px 400px;
+        background-image: url("/ca/fr/watch/home/images/how_to_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-how-to {
+        background-image: url("/ca/fr/watch/home/images/how_to_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-how-to {
+        width: 253px;
+        height: 332px;
+        background-size: 253px 332px;
+        background-image: url("/ca/fr/watch/home/images/how_to_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-how-to {
+        background-image: url("/ca/fr/watch/home/images/how_to_small_2x.jpg")
+    }
+}
+
+
+/* Prod Red */
+
+.section-product-red .pane-copy .copy-container .product-red-headline {
+	width: 371px;
+}
+@media only screen and (max-width: 1068px) {
+	.section-product-red .pane-copy .copy-container .product-red-headline {
+		width: 311px;
+	}
+}
+
+@media only screen and (max-width: 735px){
+	.section-product-red .pane-copy .copy-container .product-red-headline {
+		width: 255px;
+	}
+}
+
+
+
+
+/*CAFR Fixes*/
+.section-product-red-2018 .pane-copy .copy-container .product-red-headline{
+	width: 362px;
+}
+
+@media only screen and (max-width: 1068px){
+	.section-product-red-2018 .pane-copy .copy-container .product-red-headline{
+		width: 250px;
+	}	
+}
+
+
+@media only screen and (max-width: 735px) {
+    .section-trade .pane-trade {
+		height: 542px;
+    }
+}
+
+
+

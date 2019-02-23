@@ -1,0 +1,292 @@
+.nowrap {
+	white-space:nowrap;
+}
+
+.show-for-small { display:none; }
+.show-for-medium { display:none; }
+.show-for-large { display:block; }
+
+@media only screen and (max-width: 1068px) {
+   .show-for-small { display:none; }
+	.show-for-medium { display:block; }
+	.show-for-large { display:none; }
+}
+
+@media only screen and (max-width: 735px) {
+   .show-for-small { display:block; }
+	.show-for-medium { display:none; }
+	.show-for-large { display:none; }
+}
+
+/* LOCAL FIXES*/
+
+.page-overview .section-hero .hero-gallery .gallery-item-0 .custom-image-caption{
+	max-width: 240px;
+}
+
+.page-overview .section-improving-suppliers .section-content .donut-legend.donut-legend-results{
+	width: 290px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.page-overview .section-improving-suppliers .section-content .donut-header.donut-header-results.first-header{
+		bottom: -30px;
+	}
+}
+
+@media only screen and (max-width: 735px) {
+	.page-overview .section-improving-suppliers .section-content .donut-header.donut-header-results.first-header{
+		bottom: 0;
+	}
+}
+
+.page-overview .section-improving-suppliers .section-image .custom-image-caption{
+	max-width: 280px;
+}
+
+.page-overview .section-improving-suppliers .section-content .donut-legend{
+	width: 260px;
+}
+
+.page-overview .section-improving-suppliers .section-content .donut-legend-results li{
+	margin-right: 30px
+}
+
+#solar-caption{
+	max-width: 180px;
+}
+
+.page-overview .section-empowering-workers .case-study-image .custom-image-caption{
+	max-width: 200px;
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px){
+	.section-report-highlights .center-3-columns .column.large-3:nth-child(2){
+		margin-left: 7.06667%;
+		margin-right: 3.06667%;
+	}
+	.section-report-highlights .center-3-columns .column.large-3:nth-child(3){
+		margin-left: 7.03333%
+	}
+	
+	.section-report-highlights .center-3-columns .column.large-3:nth-child(1){
+		margin-right: 3.33333%;
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px){
+	.section-improving-suppliers .donut-graph-row-results ul.donut-legend.donut-legend-results{
+		padding-top: 240px;
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-bonded .tr-line-fix {
+        max-width: 100%;
+    }
+}
+
+.section-stats .infographic {
+    background-image: url("https://images.apple.com/tr/supplier-responsibility/images/energy_usage_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-stats .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/energy_usage_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-stats .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/energy_usage_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-stats .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/energy_usage_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-stats .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/energy_usage_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-stats .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/energy_usage_small_2x.jpg")
+    }
+}
+
+.section-bonded .infographic {
+    background-image: url("https://images.apple.com/tr/supplier-responsibility/images/immediate_action_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-bonded .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/immediate_action_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-bonded .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/immediate_action_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-bonded .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/immediate_action_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-bonded .infographic {
+        width: 286px;
+        height: 1283px;
+        background-size: 286px 1283px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/immediate_action_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-bonded .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/immediate_action_small_2x.jpg")
+    }
+}
+
+.section-digging .infographic {
+    background-image: url("https://images.apple.com/tr/supplier-responsibility/images/mapping_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-digging .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/mapping_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-digging .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/mapping_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-digging .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/mapping_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-digging .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/mapping_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-digging .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/mapping_small_2x.jpg")
+    }
+}
+
+.section-waste .infographic {
+    background-image: url("https://images.apple.com/tr/supplier-responsibility/images/our_goal_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-waste .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/our_goal_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-waste .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/our_goal_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-waste .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/our_goal_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-waste .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/our_goal_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-waste .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/our_goal_small_2x.jpg")
+    }
+}
+
+.section-empowering .infographic {
+    background-image: url("https://images.apple.com/tr/supplier-responsibility/images/empowering_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-empowering .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/empowering_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-empowering .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/empowering_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-empowering .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/empowering_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-empowering .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/empowering_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-empowering .infographic {
+        background-image: url("https://images.apple.com/tr/supplier-responsibility/images/empowering_small_2x.jpg")
+    }
+}
+
+
+@media only screen and (max-width: 735px){
+	.section-bonded .infographic-list .item.tr-item-1 {
+		padding-top: 102px;
+	}
+}
+
+@media only screen and (max-width: 735px){
+	.section-bonded .infographic-list .item.tr-item-2 {
+		padding-top: 328px;
+	}
+}
+
+@media only screen and (max-width: 735px){
+	.section-bonded .infographic-list .item.tr-item-3 {
+		padding-top: 420px;
+	}
+}
+
+@media only screen and (max-width: 735px){
+	.section-bonded .infographic-list .item.tr-item-4 {
+		padding-top: 420px;
+	}
+}
+
+@media only screen and (max-width: 1068px){
+    .tr-headline-fix {
+        max-width: 75.66667%;
+    }
+}

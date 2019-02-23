@@ -1,0 +1,121 @@
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:100;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 100';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:200;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 200';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:300;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 300';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_thin.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:500;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_medium.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_medium.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 500';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_medium.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:600;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_semibold.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_semibold.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 600';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_semibold.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:700;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 700';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:800;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 800';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:900;
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set 900';
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_bold.eot");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
+@font-face {
+	font-family:'Sukhumvit Set';
+	font-style:normal;
+	font-weight:400;
+	src:url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_text.eot");
+	src:local('☺︎'), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_text.woff") format("woff"), url("/wss/fonts/Sukhumvit-Set/v1/sukhumvit-set_text.ttf") format("truetype");
+	/* Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.*/
+}
+
