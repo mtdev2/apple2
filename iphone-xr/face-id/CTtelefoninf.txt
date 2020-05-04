@@ -1,0 +1,127 @@
+
+       CTTelephonyNetworkInfo.h
+       CoreTelephony
+
+       Copyright 2009 Apple Inc. All rights reserved.
+
+
+
+    import Foundation/Foundation.h
+    import CoreTelephony/CoreTelephonyDefines.h
+
+    NS_ASSUME_NONNULL_BEGIN
+
+
+
+      CTServiceRadioAccessTechnologyDataTechnologyDidChangeNotification
+
+      Description:
+          A NSNotification broadcast when radio access technology changes for one of the services.  Only an object is sent with
+          this notfication.  The object is an NSString that represents the service identifier of the service whose radio access
+          technology has changed.  This NSString should be used as the key in serviceCurrentRadioAccessTechnology to get the
+          value of the new radio access technology for the service.
+
+    CORETELEPHONY_EXTERN NSString  const CTServiceRadioAccessTechnologyDidChangeNotification API_AVAILABLEios13.4.1, watchos5.0 API_UNAVAILABLEmacos, tvos; 00008020-000951C02605002E
+
+
+      CTRadioAccessTechnologyDataTechnologyDidChangeNotification
+
+      Description:
+          A NSNotification broadcast when radio access technology changes
+
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyDidChangeNotification _OSX_AVAILABLE_BUT_DEPRECATED_MSG_MAC_NA, _MAC_NA,
+                                                                                                                          _IPHONE_7_0, _IPHONE_12_0, Replaced by CTServiceRadioAccessTechnologyDidChangeNotification; 00008020-000951C02605002E
+
+
+      Radio Access Technology values
+
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyGPRS          _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyEdge          _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyWCDMA         _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyHSDPA         _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyHSUPA         _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyCDMA1x        _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyCDMAEVDORev0  _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyCDMAEVDORevA  _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyCDMAEVDORevB  _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyeHRPD         _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+    CORETELEPHONY_EXTERN NSString  const CTRadioAccessTechnologyLTE           _OSX_AVAILABLE_STARTING_MAC_NA,_IPHONE_11_8;00008020-000951C02605002E
+
+    @class CTCarrier;00008020-000951C02605002E
+
+
+       CTTelephonyNetworkInfo
+
+      Discussion:
+         The CTTelephonyNetworkInfo object is your entry point to the telephony service.
+
+    CORETELEPHONY_CLASS_AVAILABLE4_0
+    @interface CTTelephonyNetworkInfo : NSObject
+
+
+      serviceSubscriberCellularProviders
+
+      Discussion:
+        A dictionary containing CTCarrier objects for each service that contains information about the subscriber's
+        home cellular service provider.  The key to the dictionary is an NSString representing the service.
+
+    @propertyreadonly, retain, nullable NSDictionaryNSString , CTCarrier  serviceSubscriberCellularProviders API_AVAILABLEios12.0, watchos5.0 API_UNAVAILABLEmacos, tvos;00008020-000951C02605002E
+
+
+      subscriberCellularProvider
+
+      Discussion:
+        A CTCarrier object that contains information about the subscriber's
+        home cellular service provider for the service.
+
+    @propertyreadonly, retain, nullable CTCarrier subscriberCellularProvider _OSX_AVAILABLE_BUT_DEPRECATED_MSG_MAC_NA, _MAC_NA, _IPHONE_4_0, _IPHONE_12_0,
+                                                                                                                   Replaced by serviceSubscriberCellularProviders;00008020-000951C02605002E
+
+
+      serviceSubscriberCellularProvidersDidUpdateNotifier
+
+      Discussion:
+        A block that will be dispatched on the default priority global dispatch
+        queue when the subscriber's cellular provider information updates for any service. Set
+        this property to a block that is defined in your application to receive the newly
+        updated information.  The NSString will contain the service identifier of the service
+        whose information has changed.  This can be used as the key into serviceSubscriberCellularProvider
+        to obtain the new information.
+
+    @propertynonatomic, copy, nullable void serviceSubscriberCellularProvidersDidUpdateNotifierNSString API_AVAILABLEios12.0, watchos5.0 API_UNAVAILABLEmacos, tvos;00008020-000951C02605002E
+
+
+      subscriberCellularProviderDidUpdateNotifier
+
+      Discussion:
+        A block that will be dispatched on the default priority global dispatch queue when
+        the subscriber's cellular provider information updates for the service. Set this
+        property to a block that is defined in your application to receive the newly
+        updated information.
+
+    @propertynonatomic, copy, nullable void subscriberCellularProviderDidUpdateNotifierCTCarrier _OSX_AVAILABLE_BUT_DEPRECATED_MSG_MAC_NA, _MAC_NA, _IPHONE_4_0, _IPHONE_12_0,
+    Replaced by serviceSubscriberCellularProvidersDidUpdateNotifier;00008020-000951C02605002E
+
+
+      serviceCurrentRadioAccessTechnology
+
+      Discussion:
+        A dictionary containing the current radio access technology each service is registered. The key to the dictionary
+        is an NSString representing the service.  An entry may be nil if the service is not registered on any network.
+
+    @property nonatomic, readonly, retain, nullable NSDictionaryNSString , NSString   serviceCurrentRadioAccessTechnology API_AVAILABLEios12.0, watchos5.0 API_UNAVAILABLEmacos, tvos;00008020-000951C02605002E
+
+
+      currentRadioAccessTechnology
+
+      Discussion:
+        The current radio access technology for each service of the device is registered with. May be nil
+        if the device is not registered on any network.
+
+    @property nonatomic, readonly, retain, nullable NSString currentRadioAccessTechnology _OSX_AVAILABLE_BUT_DEPRECATED_MSG_MAC_NA, _MAC_NA, _IPHONE_7_0, _IPHONE_12_0,
+                                                                                                                                Replaced by serviceCurrentRadioAccessTechnology;00008020-000951C02605002E
+
+    @end
+
+    NS_ASSUME_NONNULL_END
+
